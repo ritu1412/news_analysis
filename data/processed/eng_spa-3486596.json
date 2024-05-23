@@ -1,0 +1,392 @@
+[
+    {
+        "uri": "8141679014",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-23",
+        "time": "07:50:20",
+        "dateTime": "2024-05-23T07:50:20Z",
+        "dateTimePub": "2024-05-23T07:47:36Z",
+        "dataType": "news",
+        "sim": 0.6470588445663452,
+        "url": "https://www.koreatimes.co.kr/www/nation/2024/05/120_375242.html",
+        "title": "Vice FM visits Iranian Embassy in Seoul to express condolences over death of Iranian president",
+        "body": "A woman walks in front of the Iranian Embassy in Seoul on May 20. Yonhap\n\nFirst Vice Foreign Minister Kim Hong-kyun visited the Iranian Embassy in Seoul on Thursday to extend condolences over the death of Iranian President Ebrahim Raisi who was killed in a helicopter crash earlier this week, a Seoul official said.\n\nThe official said Korean Ambassador to Iran Kim Jun-pyo plans to attend a memorial service to pay respects to the late president on behalf of the government as soon as the venue is arranged by Tehran.\n\nIran's state media confirmed Raisi's death on Monday, saying he and several other government officials accompanying him were found dead hours after their helicopter crashed in a mountainous region of the country's northwest.\n\nKorea has expressed its \"deepest condolences\" over Raisi's death and extended sympathy to the bereaved families and the Iranian people. (Yonhap)",
+        "source": {
+            "uri": "koreatimes.co.kr",
+            "dataType": "news",
+            "title": "The Korea Times",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Seoul"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "South Korea"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/e5539a9f298347348ad830e73ab40099.png",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.3647058823529412,
+        "wgt": 454146620,
+        "relevance": 1
+    },
+    {
+        "uri": "8141659756",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-23",
+        "time": "07:35:43",
+        "dateTime": "2024-05-23T07:35:43Z",
+        "dateTimePub": "2024-05-23T07:34:44Z",
+        "dataType": "news",
+        "sim": 0.5882353186607361,
+        "url": "https://en.yna.co.kr/view/AEN20240523008100315",
+        "title": "Vice FM visits Iranian Embassy in Seoul to express condolences over death of Iranian president | Yonhap News Agency",
+        "body": "SEOUL, May 23 (Yonhap) -- First Vice Foreign Minister Kim Hong-kyun visited the Iranian Embassy in Seoul on Thursday to extend condolences over the death of Iranian President Ebrahim Raisi who was killed in a helicopter crash earlier this week, a Seoul official said.\n\nThe official said South Korean Ambassador to Iran Kim Jun-pyo plans to attend a memorial service to pay respects to the late president on behalf of the government as soon as the venue is arranged by Tehran.\n\nIran's state media confirmed Raisi's death on Monday, saying he and several other government officials accompanying him were found dead hours after their helicopter crashed in a mountainous region of the country's northwest.\n\nSouth Korea has expressed its \"deepest condolences\" over Raisi's death and extended sympathy to the bereaved families and the Iranian people.",
+        "source": {
+            "uri": "en.yna.co.kr",
+            "dataType": "news",
+            "title": "Yonhap News Agency",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Seoul"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "South Korea"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "kim_seung_yeon@en.yna.co.kr",
+                "name": "Kim Seung-yeon",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://img0.yna.co.kr/etc/inner/EN/2024/05/23/AEN20240523008100315_01_i_P4.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.5450980392156863,
+        "wgt": 454145743,
+        "relevance": 1
+    },
+    {
+        "uri": "8138287394",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "09:59:46",
+        "dateTime": "2024-05-21T09:59:46Z",
+        "dateTimePub": "2024-05-21T09:59:18Z",
+        "dataType": "news",
+        "sim": 0.8078431487083435,
+        "url": "https://www.nna-leb.gov.lb/en/international/695802",
+        "title": "الوكالة الوطنية للإعلام - North Korea's Kim sends condolence message to Iran, KCNA says",
+        "body": "NNA - North Korean leader Kim Jong Un has sent a condolence message to Iran over the death of President Ebrahim Raisi in a helicopter crash, state media KCNA said on Tuesday.\n\nIn the message, Kim said the death of Raisi was a \"great loss\" to Iran and he hoped the bereaved families would recover as soon as possible.\n\nHe was \"an outstanding statesman and a close friend\" who made a \"great contribution to the cause of the Iranian people for safeguarding the sovereignty, development and interests of their country and the gains of the Islamic revolution,\" Kim was quoted as saying by KCNA.--Reuters",
+        "source": {
+            "uri": "nna-leb.gov.lb",
+            "dataType": "news",
+            "title": "الوكالة الوطنية للإعلام",
+            "location": null
+        },
+        "authors": [],
+        "image": "https://www.nna-leb.gov.lb/media/cache/admin_thumb/uploads/images/c3a57f6f7da265d4e8e90e6dd7c82ad1.png",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.06666666666666665,
+        "wgt": 453981586,
+        "relevance": 1
+    },
+    {
+        "uri": "8138128091",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "08:49:38",
+        "dateTime": "2024-05-21T08:49:38Z",
+        "dateTimePub": "2024-05-21T08:24:06Z",
+        "dataType": "news",
+        "sim": 0.6901960968971252,
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2024/iran-240521-kcna01.htm",
+        "title": "Respected Comrade Kim Jong Un Sends Message of Condolence to First Vice-President of Iran",
+        "body": "Pyongyang, May 21 (KCNA) -- Kim Jong Un , president of the State Affairs of the Democratic People's Republic of Korea, sent a message of condolence to Mohammad Mokhber, first vice-president of the Islamic Republic of Iran, on May 20.\n\nThe respected Comrade Kim Jong Un in the message expressed deep condolences, on behalf of the DPRK government and people and on his own behalf, to the first vice-president of Iran and, through him, to the Iranian government and people and the bereaved families, upon receiving the shocking news of President Seyyed Ebrahim Raeisi's sudden demise in an accident.\n\nThe message said that the demise of the president is a great loss to the fraternal Iranian people and the world people aspiring after independence and justice.\n\nThe Iranian president was an outstanding statesman and a close friend of the DPRK people, who made a great contribution to the cause of the Iranian people for safeguarding the sovereignty, development and interests of their country and the gains of the Islamic revolution, the message said.\n\nBeing convinced that the Iranian government and people would overcome the pain of the great loss and advance undauntedly and vigorously to build strong and prosperous Iran, the message prayed that the bereaved families would recover stability as soon as possible. -0-",
+        "source": {
+            "uri": "globalsecurity.org",
+            "dataType": "news",
+            "title": "GlobalSecurity.org",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Alexandria"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Egypt"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "john_pike@globalsecurity.org",
+                "name": "John Pike",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": null,
+        "eventUri": "spa-3486596",
+        "sentiment": 0.2862745098039217,
+        "wgt": 453977378,
+        "relevance": 1
+    },
+    {
+        "uri": "8138102885",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "08:09:18",
+        "dateTime": "2024-05-21T08:09:18Z",
+        "dateTimePub": "2024-05-21T08:08:41Z",
+        "dataType": "news",
+        "sim": 0.6431372761726379,
+        "url": "https://ifpnews.com/north-koreas-leader-condolence-message-iran-death-president-raisi/",
+        "title": "North Korea's Leader Sends Condolence Message To Iran Over Death Of President Raisi - Iran Front Page",
+        "body": "In the message, Kim said the death of Raisi was a \"great loss\" to Iran and he hoped the bereaved families would recover as soon as possible.\n\nHe was \"an outstanding statesman and a close friend\" who made a \"great contribution to the cause of the Iranian people for safeguarding the sovereignty, development and interests of their country and the gains of the Islamic revolution\", Kim was quoted as saying by KCNA.\n\nThe helicopter, which was part of a convoy, was carrying President Raisi and other senior leaders, including Foreign Minister Hossein Amirabdollahian. Contact with the aircraft was lost almost 30 minutes after it took off, reportedly after it experienced bad weather while crossing a mountainous region in the country's east Azerbaijan province.",
+        "source": {
+            "uri": "ifpnews.com",
+            "dataType": "news",
+            "title": "Iran Front Page",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Iran"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://ifpnews.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=318286&type=iran-front-page&hash=fd9c6fb3b9b7a9380f09fe7308a4eff0",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.03529411764705881,
+        "wgt": 453974958,
+        "relevance": 1
+    },
+    {
+        "uri": "8138054773",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "07:36:59",
+        "dateTime": "2024-05-21T07:36:59Z",
+        "dateTimePub": "2024-05-21T07:36:32Z",
+        "dataType": "news",
+        "sim": 0.8392156958580017,
+        "url": "https://www.yenisafak.com/en/news/iranian-presidents-death-loss-to-people-aspiring-justice-says-north-koreas-kim-3683964",
+        "title": "Iranian president's death 'loss to people aspiring justice,' says North Korea's Kim | News",
+        "body": "Kim Jong-un says deceased Ebrahim Raisi was 'outstanding statesman and a close friend' of North Korean people\n\nNorth Korean leader Kim Jong-un Tuesday said the death of Iranian President Ebrahim Raisi was a \"loss to people aspiring justice,\" state media reported.\n\nIn a condolence message to Mohammad Mokhber, Iran's first vice president, Kim said: \"The demise of the president is a great loss to the fraternal Iranian people and the world people aspiring after independence and justice.\"\n\nThe North Korean leader said he was \"convinced\" that the Iranian government and people \"would overcome the pain of the great loss and advance undauntedly and vigorously to build a strong and prosperous country.\"\n\nIran on Monday declared that it would be holding an early presidential election on June 28 following the death of Raisi in a helicopter crash.\n\nThe announcement of the date for the country's 14th presidential elections came after a meeting between the heads of the judicial, executive and legislative authorities.\n\nRaisi was returning from the inauguration ceremony of a dam on the Iran-Azerbaijan border on Sunday when the crash took place, according to Iranian state broadcasters.\n\nThe crash also resulted in the deaths of Iranian Foreign Affairs Minister Hossein Amir-Abdollahian, as well as that of Malik Rahmeti, the governor of East Azerbaijan province, and Imam Ayatollah Ali Hashim of Tabriz province.\n\nMokhber, the first vice president, was appointed acting president Monday after Raisi's death.",
+        "source": {
+            "uri": "yenisafak.com",
+            "dataType": "news",
+            "title": "Yeni Şafak",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Istanbul Province"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Turkey"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "piri_medya_a_s@yenisafak.com",
+                "name": "Piri Medya A.Ş.",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://img.piri.net/piri/upload/3/2024/5/21/a69fa7d7-1uqfa11s6iugdmf1j51t67.jpeg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.05882352941176472,
+        "wgt": 453973019,
+        "relevance": 1
+    },
+    {
+        "uri": "8138028737",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "07:19:44",
+        "dateTime": "2024-05-21T07:19:44Z",
+        "dateTimePub": "2024-05-21T07:19:00Z",
+        "dataType": "news",
+        "sim": 0.8509804010391235,
+        "url": "https://www.aa.com.tr/en/asia-pacific/iranian-president-s-death-loss-to-people-aspiring-justice-says-north-korea-s-kim/3225489",
+        "title": "Iranian president's death 'loss to people aspiring justice,' says North Korea's Kim",
+        "body": "Kim Jong-un says deceased Ebrahim Raisi was 'outstanding statesman and a close friend' of North Korean people\n\nNorth Korean leader Kim Jong-un Tuesday said the death of Iranian President Ebrahim Raisi was a \"loss to people aspiring justice,\" state media reported.\n\nIn a condolence message to Mohammad Mokhber, Iran's first vice president, Kim said: \"The demise of the president is a great loss to the fraternal Iranian people and the world people aspiring after independence and justice.\"\n\nRaisi \"was an outstanding statesman and a close friend\" of North Korean people \"who made a great contribution to the cause of the Iranian people for safeguarding the sovereignty, development and interests of their country and the gains of the Islamic revolution,\" Kim said.\n\nThe North Korean leader said he was \"convinced\" that the Iranian government and people \"would overcome the pain of the great loss and advance undauntedly and vigorously to build a strong and prosperous country.\"\n\nIran on Monday declared that it would be holding an early presidential election on June 28 following the death of Raisi in a helicopter crash.\n\nThe announcement of the date for the country's 14th presidential elections came after a meeting between the heads of the judicial, executive and legislative authorities.\n\nCandidate registrations will begin on May 30, the report said, adding that campaigning would take place on June 12-27.\n\nRaisi was returning from the inauguration ceremony of a dam on the Iran-Azerbaijan border on Sunday when the crash took place, according to Iranian state broadcasters.\n\nThe crash also resulted in the deaths of Iranian Foreign Affairs Minister Hossein Amir-Abdollahian, as well as that of Malik Rahmeti, the governor of East Azerbaijan province, and Imam Ayatollah Ali Hashim of Tabriz province.\n\nMokhber, the first vice president, was appointed acting president Monday after Raisi's death.",
+        "source": {
+            "uri": "aa.com.tr",
+            "dataType": "news",
+            "title": "Anadolu Ajansı",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Ankara Province"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Turkey"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/05/21/thumbs_b_c_7a5b83f8809ee22dc5ca0157c328881c.jpg?v=101057",
+        "eventUri": "spa-3486596",
+        "sentiment": 0.2,
+        "wgt": 453971984,
+        "relevance": 1
+    },
+    {
+        "uri": "8137648519",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-21",
+        "time": "01:28:14",
+        "dateTime": "2024-05-21T01:28:14Z",
+        "dateTimePub": "2024-05-21T01:26:59Z",
+        "dataType": "news",
+        "sim": 0.8549019694328308,
+        "url": "https://www.koreatimes.co.kr/www/nation/2024/05/103_375025.html",
+        "title": "N. Korean leader voices condolences over death of Iranian president",
+        "body": "N. Korean leader voices condolences over death of Iranian president\n\nNorth Korean Foreign Minister Ri Yong-ho, left, meets with Iranian President Hassan Rouhani in the Iranian capital Tehran, Aug. 8, 2018. Yonhap\n\nNorth Korean leader Kim Jong-un has expressed his \"deep\" condolences over the death of Iranian President Ebrahim Raisi in a recent helicopter crash, state media reported Tuesday.\n\nKim sent a message of condolence Monday to Mohammad Mokhber, Iran's first vice president, upon receiving the \"shocking\" news of Raisi's sudden demise, according to the Korean Central News Agency (KCNA). Mokhber has become Iran's interim president after Raisi's death.\n\n\"The message said that the demise of the president is a great loss to the fraternal Iranian people and the world people aspiring after independence and justice,\" the KCNA said.\n\nKim said he wished that the Iranian government and people will overcome the grief from the loss of their leader and that the bereaved families will recover stability as soon as possible.\n\nIran mourns president Raisi's death in helicopter crash 2024-05-21 08:38 | World\n\nIran's state media confirmed Raisi's death Monday, saying he and several other government officials accompanying him were found dead hours after their helicopter crashed in a mountainous region of the country's northwest.\n\nHaving established diplomatic ties in 1973, Pyongyang and Tehran are known to have close ties while under international sanctions for their weapons programs. The countries have been suspected of exchanging ballistic missile parts and technology, especially during the 1980-1988 Iran-Iraq war.\n\nNorth Korea's external economic relations minister visited Iran last month in a rare trip that raised suspicions of possible weapons cooperation between the two nations. (Yonhap)",
+        "source": {
+            "uri": "koreatimes.co.kr",
+            "dataType": "news",
+            "title": "The Korea Times",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Seoul"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "South Korea"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/b1de15a94d6544808e8ed90f7aea9913.png",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.3803921568627451,
+        "wgt": 453950894,
+        "relevance": 1
+    },
+    {
+        "uri": "8137487121",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "22:05:25",
+        "dateTime": "2024-05-20T22:05:25Z",
+        "dateTimePub": "2024-05-20T22:04:17Z",
+        "dataType": "news",
+        "sim": 0.8470588326454163,
+        "url": "https://en.yna.co.kr/view/AEN20240521001000315",
+        "title": "N. Korean leader voices condolences over death of Iranian president in helicopter crash | Yonhap News Agency",
+        "body": "SEOUL, May 21 (Yonhap) -- North Korean leader Kim Jong-un has expressed his \"deep\" condolences over the death of Iranian President Ebrahim Raisi in a recent helicopter crash, state media reported Tuesday.\n\nKim sent a message of condolence Monday to Mohammad Mokhber, Iran's first vice president, upon receiving the \"shocking\" news of Raisi's sudden demise, according to the Korean Central News Agency (KCNA). Mokhber has become Iran's interim president after Raisi's death.\n\n\"The message said that the demise of the president is a great loss to the fraternal Iranian people and the world people aspiring after independence and justice,\" the KCNA said.\n\nKim said he wished that the Iranian government and people will overcome the grief from the loss of their leader and that the bereaved families will recover stability as soon as possible.\n\nIran's state media confirmed Raisi's death Monday, saying he and several other government officials accompanying him were found dead hours after their helicopter crashed in a mountainous region of the country's northwest.\n\nHaving established diplomatic ties in 1973, Pyongyang and Tehran are known to have close ties while under international sanctions for their weapons programs. The countries have been suspected of exchanging ballistic missile parts and technology, especially during the 1980-1988 Iran-Iraq war.\n\nNorth Korea's external economic relations minister visited Iran last month in a rare trip that raised suspicions of possible weapons cooperation between the two nations.",
+        "source": {
+            "uri": "en.yna.co.kr",
+            "dataType": "news",
+            "title": "Yonhap News Agency",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Seoul"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "South Korea"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "kim_soo_yeon@en.yna.co.kr",
+                "name": "Kim Soo-yeon",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://img6.yna.co.kr/etc/inner/EN/2024/05/21/AEN20240521001000315_01_i_P4.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.4901960784313726,
+        "wgt": 453938725,
+        "relevance": 1
+    },
+    {
+        "uri": "8137481648",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "21:59:14",
+        "dateTime": "2024-05-20T21:59:14Z",
+        "dateTimePub": "2024-05-20T21:58:22Z",
+        "dataType": "news",
+        "sim": 0.6627451181411743,
+        "url": "https://www.dailymail.co.uk/wires/reuters/article-13440301/North-Koreas-Kim-sends-condolence-message-Iran-KCNA-says.html",
+        "title": "North Korea's Kim sends condolence message to Iran, KCNA says",
+        "body": "SEOUL, May 21 (Reuters) - North Korean leader Kim Jong Un has sent a condolence message to Iran over the death of President Ebrahim Raisi in a helicopter crash, state media KCNA said on Tuesday.\n\nIn the message, Kim said the death of Raisi was a \"great loss\" to Iran and he hoped the bereaved families would recover as soon as possible.\n\nHe was \"an outstanding statesman and a close friend\" who made a \"great contribution to the cause of the Iranian people for safeguarding the sovereignty, development and interests of their country and the gains of the Islamic revolution,\" Kim was quoted as saying by KCNA.\n\nNorth Korea and Iran have close ties and are suspected of having cooperated on ballistic missile programmes, possibly exchanging technical expertise. (Reporting by Hyonhee Shin, Editing by Franklin Paul and Sandra Maler)",
+        "source": {
+            "uri": "dailymail.co.uk",
+            "dataType": "news",
+            "title": "Daily Mail Online",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "London"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United Kingdom"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": null,
+        "eventUri": "spa-3486596",
+        "sentiment": -0.08235294117647063,
+        "wgt": 453938354,
+        "relevance": 1
+    }
+]
