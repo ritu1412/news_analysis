@@ -1,0 +1,55 @@
+Question: Does the article mention the current government's performance as a major factor in the upcoming elections?
+Does the article mention the current government's performance as a major factor in the upcoming elections?
+B. No     92.0
+A. Yes     8.0
+
+Question: Is there a discussion about election-related violence or security concerns in the article?
+Is there a discussion about election-related violence or security concerns in the article?
+B. No     98.0
+A. Yes     2.0
+
+Question: What is the tone of the article towards the main opposition party?
+What is the tone of the article towards the main opposition party?
+D. Not applicable    96.0
+C. Negative           2.0
+A. Positive           1.0
+B. Neutral            1.0
+
+Question: Does the article highlight economic issues as a key electoral issue?
+Does the article highlight economic issues as a key electoral issue?
+B. No     87.0
+A. Yes    13.0
+
+Question: Is the role of social media in the election campaign mentioned in the article?
+Is the role of social media in the election campaign mentioned in the article?
+C. No                 97.0
+A. Yes, positively     2.0
+B. Yes, negatively     1.0
+
+Question: Is there any other country involvement mentioned in the article apart from India as the influence in the election?
+Is there any other country involvement mentioned in the article apart from India as the influence in the election?
+B. No     91.0
+A. Yes     9.0
+
+Question: Does the article mention any role of Pakistan as influence in election?
+Does the article mention any role of Pakistan as influence in election?
+B. No     99.0
+A. Yes     1.0
+
+Question: Does the article focus on Hindu or Muslim religion as an influence in the election?
+Does the article focus on Hindu or Muslim religion as an influence in the election?
+B. No     96.0
+A. Yes     4.0
+
+Question: Does the article favor BJP government or Modi?
+Does the article favor BJP government or Modi?
+C. Not applicable    83.0
+B. No                12.0
+A. Yes                5.0
+
+Question: Does the article favor Congress government?
+Does the article favor Congress government?
+C. Not applicable    97.0
+B. No                 2.0
+A. Yes                1.0
+

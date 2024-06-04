@@ -1,0 +1,34 @@
+"Does the article mention the humanitarian impact on civilians in the conflict zones (Gaza or Ukraine)?
+
+Yes
+No
+Not applicable"	
+
+"What tone does the article adopt towards the military actions of the involved parties (Israel in Gaza, Russia in Ukraine)?
+Supportive
+Neutral
+Critical
+Not applicable"	
+
+"Is the role of international mediation or peace negotiations discussed in the article?
+Yes, positively
+Yes, negatively
+No
+Not applicable"	
+
+"Does the article mention the recognition of statehood or sovereignty (State of Palestine, Ukraine) by other countries?
+Yes
+No
+Not applicable"	
+
+"What is the tone of the article towards the primary opposing parties' actions (Hamas in Gaza, Russia in Ukraine)?
+Justified
+Neutral
+Unjustified
+Not applicable"	
+
+"Is there any other country involvement mentioned in the article apart from Gaza as the primary reason for the conflict?
+Yes 
+No"
+
+"If answer to previous question is yes, then which country? (Give country name if yes or give Not applicable if no)"

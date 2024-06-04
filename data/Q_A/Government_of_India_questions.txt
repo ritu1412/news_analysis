@@ -1,0 +1,50 @@
+"Does the article mention the current government's performance as a major factor in the upcoming elections?
+A. Yes
+B. No"	
+
+"Is there a discussion about election-related violence or security concerns in the article?
+A. Yes
+B. No"	
+
+"What is the tone of the article towards the main opposition party?
+A. Positive
+B. Neutral
+C. Negative
+D. Not applicable"	
+
+"Does the article highlight economic issues as a key electoral issue?
+A. Yes
+B. No"	
+
+"Is the role of social media in the election campaign mentioned in the article?
+A. Yes, positively
+B. Yes, negatively
+C. No"	
+
+"Is there any other country involvement mentioned in the article apart from Inida as the influence in the election?           
+A. Yes 
+B. No"
+
+"Does the article mention any role of Pakisthan as influence in election?
+A. Yes
+B. No"
+
+"Does the article focus on Hindu or Muslim regilion as an influence in the election?
+A. Yes
+B. No"
+
+"Does the article favor BJP government or Modi?
+A. Yes
+B. No
+C. Not applicable"
+
+"Does the article favor Congress government?
+A. Yes
+B. No
+C. Not applicable"
+
+
+
+
+
+

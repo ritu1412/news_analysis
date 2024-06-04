@@ -1,0 +1,32 @@
+"Does the article portray Russia's actions in Ukraine as justified?
+Yes
+No
+Not applicable"	
+
+"Is the humanitarian impact on Ukrainian civilians highlighted in the article?
+Yes
+No
+Not applicable"	
+
+"Does the article mention international sanctions against Russia?
+Yes
+No
+Not applicable"	
+
+"What tone does the article adopt when describing Ukraine's defense efforts?
+Supportive
+Neutral
+Critical
+Not applicable"	
+
+"Does the article discuss peace negotiations or diplomatic efforts to resolve the conflict?
+Yes, positively
+Yes, negatively
+No
+Not applicable"	
+
+"Is there any other country involvement mentioned in the article apart from Ukraine and Russia as the primary reason for the war?
+Yes 
+No"
+
+"If answer to previous question is yes, then which country? (Give country name if yes or give Not applicable if no)"
