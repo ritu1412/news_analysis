@@ -1,0 +1,138 @@
+### Question 1: What is the primary focus of the article?
+A. Political alliances and election results
+B. Sports and celebrity involvement in politics
+C. Economic policies and stock market
+D. Social issues and public welfare 
+E. None of above
+
+### Question 2: Which region or state is prominently mentioned in the article?
+A. North India States
+B. West India States
+C. South India States
+D. East India States
+
+### Question 3: Which country or region is predominantly discussed in the article?
+A. India  
+B. United States  
+C. Europe  
+D. None of above  
+
+### Question 4: Which political party is frequently mentioned in the article?
+A. Bharatiya Janata Party (BJP)
+B. Indian National Congress (INC)
+C. Aam Aadmi Party (AAP)
+D. Other(s)
+
+### Question 5: Who is the central figure or main personality discussed in the article?
+A. Narendra Modi
+B. Rahul Gandhi
+C. A regional political leader
+D. Other(s)
+
+### Question 6: What is the outcome or result mentioned in the article?
+A. Victory in a specific constituency
+B. Formation of a new political alliance
+C. A significant policy change
+D. None of above
+
+### Question 7: What type of election coverage is provided?
+A. Pre-election analysis
+B. Live election updates
+C. Post-election analysis
+D. Voter opinion
+E, None of above
+
+### Question 8: Which demographic is the article focused on?
+A. Youth
+B. Women
+C. Minority communitie
+D. General population
+
+### Question 9: What kind of data or statistics are mentioned?
+A. Opinion polls
+B. Exit polls
+C. Election results
+D. Voter demographics
+
+### Question 10: Which government institution is prominently mentioned?
+
+A. Election Commission of India
+B. Parliament
+C. Supreme Court
+D. Other
+
+### Question 11: What is the article's primary source of information?
+A. Official statements and reports  
+B. Expert opinions and analysis  
+C. Personal experiences and anecdotes  
+D. Statistical data and research  
+E. None of above
+
+### Question 12: What is the publication date of the article?
+A. Before the elections
+B. During the elections
+C. After the elections
+D. Not mentioned
+
+### Question 13: Which community or group is mentioned in the context of voting patterns?
+A. Religious groups
+B. Caste groups
+C. Regional groups
+D. None
+
+### Question 14: What type of analysis does the article provide?
+A. Political analysis
+B. Economic analysis
+C. Social analysis
+D. None
+
+### Question 15: What economic indicators are mentioned in relation to the elections?
+A. GDP growth
+B. Inflation
+C. Employment rates
+D. None
+
+### Question 16: Which bill or policy is mentioned in the article?
+A. Citizenship Amendment Act (CAA)
+B. Goods and Services Tax (GST)
+C. Farmers' Produce Trade and Commerce Act
+D. None
+
+### Question 17: Does this article favor any of the following parties?
+A. Bharatiya Janata Party (BJP)
+B. Indian National Congress (INC)
+C. Aam Aadmi Party (AAP)
+D. None
+
+### Question 18: Which key election strategy is discussed in the article?
+A. Public rallies
+B. Social media advertising
+C. Celebrity endorsements
+D. None
+
+### Question 19: Which minority group's voting patterns are discussed in the article?
+A. Muslim community
+B. Christian community
+C. Dalit community
+D. None
+
+### Question 20: What is the outcome or result mentioned in the article?
+A. Victory in a specific constituency
+B. Formation of a new political alliance
+C. A significant policy change
+D. None of above 
+
+### Question 21: Which of the following is most prominently highlighted in the article?
+A. Corruption
+B. Money distribution
+C. Electoral violence
+D. Fake news and misinformation
+E. None of above
+
+### Question 22: Does the article mention any alliance group?
+A. National Democratic Alliance (NDA)
+B. United Progressive Alliance (UPA)
+C. Indian National Developmental Inclusive Alliance (INDIA)
+D. None
+
+

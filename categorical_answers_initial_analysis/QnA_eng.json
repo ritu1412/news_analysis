@@ -30,9 +30,14 @@
         "sentiment": 0.1372549019607843,
         "wgt": 455140017,
         "relevance": 7,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "The type of event or topic central to the article is:\n\nA) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India\n\nThe article focuses on the Lok Sabha election results in India, including details about the counting process, updates, and how to track the results.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159924261",
@@ -65,9 +70,14 @@
         "sentiment": 0.0117647058823529,
         "wgt": 455139712,
         "relevance": 9,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159921496",
@@ -100,9 +110,14 @@
         "sentiment": 0.1058823529411765,
         "wgt": 455139543,
         "relevance": 4,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "A) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159912732",
@@ -141,9 +156,14 @@
         "sentiment": 0.2784313725490195,
         "wgt": 455139053,
         "relevance": 3,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "The central topic of the article is: B) Real estate transactions"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is the **United States**. The article focuses on the iconic house from the movie \"Home Alone,\" which is situated in the Chicago suburbs, specifically in Winnetka, Illinois.",
+                "post_LLM_answer": "NaN"
+            }
+        ]
     },
     {
         "uri": "8159906706",
@@ -182,9 +202,14 @@
         "sentiment": 0.2862745098039217,
         "wgt": 455138736,
         "relevance": 4,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on the Meghalaya Lok Sabha election results for 2024, which is a state in India.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159903456",
@@ -223,9 +248,14 @@
         "sentiment": -0.08235294117647063,
         "wgt": 455138574,
         "relevance": 10,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "The type of event or topic central to the article is:\n\nA) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India\n\nThe article focuses on the 2024 Lok Sabha Election in India, discussing the electoral process, voter participation, and political dynamics within the country, particularly in regions like Jammu and Kashmir.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159901161",
@@ -258,9 +288,14 @@
         "sentiment": 0.2784313725490195,
         "wgt": 455138440,
         "relevance": 8,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on the 2024 Lok Sabha election results in India, including the outcomes of assembly elections in Odisha and Andhra Pradesh, and the political dynamics involving the INDIA alliance and the NDA.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159893060",
@@ -293,9 +328,14 @@
         "sentiment": 0.0117647058823529,
         "wgt": 455138062,
         "relevance": 5,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159892561",
@@ -334,9 +374,14 @@
         "sentiment": -0.1058823529411764,
         "wgt": 455137980,
         "relevance": 3,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "The central topic of the article is not explicitly listed in the provided options. The article primarily discusses a fire incident at the Jammu bus stand. Therefore, none of the given options (A) Political elections, (B) Real estate transactions, (C) Tourism and travel, or (D) Economic and market trends) accurately describe the central event or topic of the article."
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on a fire incident at the Jammu bus stand in India.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159886989",
@@ -375,9 +420,14 @@
         "sentiment": 0.04313725490196085,
         "wgt": 455137681,
         "relevance": 4,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159887010",
@@ -423,9 +473,14 @@
         "sentiment": -0.207843137254902,
         "wgt": 455137643,
         "relevance": 8,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The article predominantly discusses the region or country of **India**. The focus is on the 2024 Lok Sabha elections, the political climate, and the implications of different electoral outcomes for India's democracy.",
+                "post_LLM_answer": "NaN"
+            }
+        ]
     },
     {
         "uri": "8159887011",
@@ -471,9 +526,14 @@
         "sentiment": -0.02745098039215688,
         "wgt": 455137627,
         "relevance": 10,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on the 2024 Lok Sabha election results in India and their implications for Prime Minister Narendra Modi and his party, the BJP, as well as the opposition parties.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159885269",
@@ -512,9 +572,14 @@
         "sentiment": 0.04313725490196085,
         "wgt": 455137550,
         "relevance": 5,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is **Sikkim**, which is a state in **India**. Therefore, the correct answer is:\n\nA) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159884283",
@@ -560,9 +625,14 @@
         "sentiment": 0.1843137254901961,
         "wgt": 455137514,
         "relevance": 6,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India\n\nThe article focuses on the political dynamics and election results in Maharashtra, a state in India, and its significance in the broader context of Indian national politics.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159882763",
@@ -608,9 +678,14 @@
         "sentiment": 0.3960784313725489,
         "wgt": 455137484,
         "relevance": 8,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is **India**. The article focuses on the Lok Sabha election results in India, with specific emphasis on the vote counting process in various parliamentary constituencies, including those in Jammu and Kashmir.",
+                "post_LLM_answer": "NaN"
+            }
+        ]
     },
     {
         "uri": "8159882369",
@@ -649,9 +724,14 @@
         "sentiment": 0.1843137254901961,
         "wgt": 455137484,
         "relevance": 5,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on the Lok Sabha elections in India, detailing key political figures and constituencies involved in the election process.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159883262",
@@ -690,9 +770,14 @@
         "sentiment": 0.5764705882352941,
         "wgt": 455137432,
         "relevance": 3,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on the Assembly election results in the Indian states of Arunachal Pradesh and Sikkim.",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159879048",
@@ -731,9 +816,14 @@
         "sentiment": -0.05098039215686279,
         "wgt": 455137218,
         "relevance": 3,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "D) Economic and market trends"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The article predominantly discusses the **Global** region. It covers various aspects of global markets, including the impact of U.S. manufacturing data, the European Central Bank's anticipated interest rate cut, China's factory growth, and other international economic activities and market movements.",
+                "post_LLM_answer": "NaN"
+            }
+        ]
     },
     {
         "uri": "8159878635",
@@ -766,9 +856,14 @@
         "sentiment": 0.4274509803921569,
         "wgt": 455137197,
         "relevance": 5,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "A) Political elections"
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is:\n\nA) India",
+                "post_LLM_answer": "A"
+            }
+        ]
     },
     {
         "uri": "8159878128",
@@ -801,8 +896,13 @@
         "sentiment": 0.3725490196078431,
         "wgt": 455137166,
         "relevance": 4,
-        "Question": "What type of event or topic is central to the article?:",
-        "Answers": "A) Political elections B) Real estate transactions C) Tourism and travel D) Economic and market trends",
-        "LLM_answer": "C) Tourism and travel\n\nThe central topic of the article is tourism and travel, specifically focusing on promoting Goa as a year-round tourist destination, including during the monsoon season."
+        "QnA": [
+            {
+                "Question": "Which region or country is predominantly discussed in the article?",
+                "Answers": "A) IndiaB) United States  C) Europe D) Global",
+                "LLM_answer": "The region predominantly discussed in the article is A) India. The article focuses on various topics related to India, including tourism in Goa, economic growth, dengue prevention in Karnataka, and the impact of AI camera projects in Panaji, Goa.",
+                "post_LLM_answer": "A"
+            }
+        ]
     }
 ]
