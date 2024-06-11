@@ -2836,7 +2836,7 @@
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The article mentions the election results. Specifically, it discusses Pawan Kalyan's victory in the Lok Sabha election 2024 from Pithapuram.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
@@ -3856,7 +3856,7 @@
                 "Question": "Which government institution is prominently mentioned?",
                 "Answers": "A) Election Commission of India B) Parliament C) Supreme Court D) Other",
                 "LLM_answer": "The government institution prominently mentioned in the context of the article is the **Ministry of Textiles**. The article references the Ministry of Textiles when discussing the number of composite jute mills in India and their concentration in West Bengal, particularly in the constituencies of Hooghly and Barrackpore.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What is the article's primary source of information?",
@@ -5061,7 +5061,7 @@
                 "Question": "What is the publication date of the article?",
                 "Answers": "A) Before the elections B) During the elections C) After the elections D) Not mentioned",
                 "LLM_answer": "The publication date of the article is June 5, as indicated in the first line: \"Pune (Maharashtra) [India], June 5 (ANI): The district court in Pune on Wednesday has sent to police custody till June 10 the parents of the teenager accused in the luxury car crash case, in which two persons were killed.\"",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which community or group is mentioned in the context of voting patterns?",
@@ -5786,7 +5786,7 @@
                 "Question": "Which minority group's voting patterns are discussed in the article?",
                 "Answers": "A) Muslim community B) Christian community C) Dalit community D) None",
                 "LLM_answer": "The article discusses the voting patterns of the **Dalit community**.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -6776,7 +6776,7 @@
                 "Question": "What is the publication date of the article?",
                 "Answers": "A) Before the elections B) During the elections C) After the elections D) Not mentioned",
                 "LLM_answer": "The publication date of the article is June 5.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which community or group is mentioned in the context of voting patterns?",
@@ -8615,7 +8615,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is Raghunandan Rao, the newly elected MP from Telangana's Medak parliamentary constituency representing the Bharatiya Janata Party (BJP).",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -9862,7 +9862,7 @@
                 "Question": "What is the publication date of the article?",
                 "Answers": "A) Before the elections B) During the elections C) After the elections D) Not mentioned",
                 "LLM_answer": "The publication date of the article is June 5, as mentioned in the text:\n\n\"New Delhi [India], June 5 (ANI): Congress' winning candidate from Rohtak Lok Sabha seat in Haryana, Deepender Singh Hooda said the results of Lok Sabha polls have made it clear that the outcome of the next assembly poll to held after three months would be in Congress' favour.\"",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which community or group is mentioned in the context of voting patterns?",
@@ -10164,7 +10164,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Volodymyr Zelenskyy**, the President of Ukraine.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -11208,7 +11208,7 @@
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The article does not mention any of the options provided (Opinion polls, Exit polls, Election results, Voter demographics). Instead, it focuses on the issuance of visas to Sikh pilgrims from India by the Pakistan High Commission to attend a religious festival in Pakistan. The statistics mentioned include the number of visas issued (962 in 2024 and 215 in 2023) and the dates of the festival.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
@@ -11732,7 +11732,7 @@
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The article primarily discusses the market reaction and investment strategies following the 2024 Lok Sabha election results in India. Here are the key data points and statistics mentioned:\n\n1. **Market Decline**: The Indian stock market experienced its worst crash in four years, with a decline of over 6% on June 4, 2024, after the BJP fell short of securing a clear majority.\n\n2. **Nifty Index**: Emkay Global suggested buying Indian equities if the Nifty falls below 20,000 (18x FY25 PER).\n\n3. **Sector Performance**:\n   - **PSUs and Capital Goods**: Investors are advised to switch from these sectors to FMCG stocks.\n   - **FMCG, IT, and Healthcare**: These sectors are expected to outperform capex-oriented sectors in the near term.\n   - **Financials, Autos, Real Estate, and select Industrials/Manufacturing**: Overweight stance in the longer term.\n\n4. **Market Volatility**: The stock market is expected to remain volatile in the short term despite the NDA-led BJP forming the government for the third time.\n\n5. **Historical Context**: From 1989 to 2014, India's GDP grew by more than 8% annually under coalition governments.\n\n6. **Investment Caution**: Investors are advised to be cautious about investing in momentum stocks or small-cap stocks that have outperformed in the last two years.\n\nThe article does not specifically mention opinion polls, exit polls, election results, or voter demographics in detail. Instead, it focuses on the market's reaction to the election results and provides investment advice based on the current political and economic scenario.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
@@ -13264,7 +13264,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Rahul Gandhi**. The article primarily focuses on the performance of the Congress party, which is led by Rahul Gandhi, in the 2024 Lok Sabha elections and how the INDIA bloc's seat-sharing arrangement impacted the party's results in various states.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -13928,7 +13928,7 @@
                 "Question": "Which region or state is prominently mentioned in the article?",
                 "Answers": "A) North India States \nB) West India States \nC) South India States \nD) East India States",
                 "LLM_answer": "The article prominently mentions various states and regions across India, including Andhra Pradesh, Bihar, Tamil Nadu, Maharashtra, West Bengal, Uttar Pradesh, and Gujarat. However, it does not focus on a single region or state exclusively. Instead, it provides a comprehensive overview of the election results and political developments across multiple states in India. Therefore, the correct answer would be:\n\nE) All of the above",
-                "post_LLM_answer": "E"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which country or region is predominantly discussed in the article?",
@@ -13964,19 +13964,19 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It covers a wide range of topics related to the election results, including statements from political leaders, reactions from international figures, and the overall political landscape in India following the 2024 Lok Sabha elections. The updates and reactions span across various demographics, including youth, women, minority communities, and the general population, but the primary focus is on the overall election outcomes and their implications for the country as a whole.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The data and statistics mentioned in the provided text primarily pertain to **election results**. Here are some key points:\n\n1. **NDA Tally and Leadership**:\n   - Narendra Modi was unanimously elected as the NDA leader.\n   - The NDA tally reached 303 seats, including 3 from smaller parties and 7 independents.\n\n2. **Lok Sabha Election Results**:\n   - BJP secured 240 seats.\n   - Congress secured 99 seats.\n   - Other significant parties: Samajwadi Party (37 seats), Trinamool Congress (29 seats), Dravida Munnetra Kazhagam (22 seats).\n   - Telugu Desam Party (TDP) won 16 seats, and Janata Dal (United) won 12 seats.\n   - NDA's total tally, including allies, was 262 seats without JD(U) and TDP.\n\n3. **World Leaders' Reactions**:\n   - Various world leaders, including UK PM Rishi Sunak, Russian President Vladimir Putin, US President Joe Biden, German Chancellor Olaf Scholz, and others, congratulated PM Modi on the election victory.\n\n4. **Regional and State-specific Results**:\n   - BJP and allies increased their seat tally in Assam to 11 seats.\n   - Congress won both seats in Manipur.\n   - TMC won decisively in West Bengal, increasing its seats to 29.\n   - BJP lost all four seats it contested in Marathwada, Maharashtra.\n   - BJP's performance in Rajasthan was its worst since 2014, securing only 25 seats.\n   - In Gujarat, BJP won 25 out of 26 seats, losing one to Congress.\n\n5. **Notable Individual Wins**:\n   - Shivraj Singh Chouhan won from Vidisha by a huge margin.\n   - Shambhavi Choudhary of LJP won the Samastipur seat, becoming one of the youngest MPs.\n   - Congress' KL Sharma defeated BJP's Smriti Irani in Amethi.\n\n6. **Political Reactions and Statements**:\n   - Congress President Mallikarjun Kharge and other leaders from the INDIA bloc criticized the BJP and PM Modi.\n   - Various leaders from NDA and INDIA bloc made statements regarding the election outcomes and future plans.\n\nThese points highlight the election results, reactions, and political dynamics following the 2024 Lok Sabha elections in India.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
                 "Answers": "A) Election Commission of India B) Parliament C) Supreme Court D) Other",
                 "LLM_answer": "The government institution prominently mentioned in the context of the election results and the formation of the new government is the **Parliament**. This is evident from multiple references to the Lok Sabha (the lower house of India's Parliament), the dissolution of the 17th Lok Sabha, and the upcoming formation of the new government under the leadership of Prime Minister Narendra Modi.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "What is the article's primary source of information?",
@@ -13988,7 +13988,7 @@
                 "Question": "What is the publication date of the article?",
                 "Answers": "A) Before the elections B) During the elections C) After the elections D) Not mentioned",
                 "LLM_answer": "The publication date of the article is **June 5, 2024**.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "Which community or group is mentioned in the context of voting patterns?",
@@ -14030,7 +14030,7 @@
                 "Question": "Which minority group's voting patterns are discussed in the article?",
                 "Answers": "A) Muslim community B) Christian community C) Dalit community D) None",
                 "LLM_answer": "The article mentions the voting patterns of the **Muslim community**. This is evident from the statement by Mayawati, who said, \"We gave enough representation to Muslims in this Lok Sabha election as well as in previous elections, but we did not get adequate support, and they couldn't understand us well.\"",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -14676,7 +14676,7 @@
                 "Question": "What is the publication date of the article?",
                 "Answers": "A) Before the elections B) During the elections C) After the elections D) Not mentioned",
                 "LLM_answer": "The publication date of the article is not explicitly mentioned in the text provided. However, the article references statements made on June 5, which suggests that it was likely published shortly after that date.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "Which community or group is mentioned in the context of voting patterns?",
@@ -15146,7 +15146,7 @@
                 "Question": "Which region or state is prominently mentioned in the article?",
                 "Answers": "A) North India States \nB) West India States \nC) South India States \nD) East India States",
                 "LLM_answer": "The article prominently mentions the Central Board of Secondary Education (CBSE), which is a national-level board of education in India. It does not specifically mention any particular region or state. Therefore, none of the options (A) North India States, B) West India States, C) South India States, D) East India States) are directly applicable based on the information provided in the article.",
-                "post_LLM_answer": "E"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "Which country or region is predominantly discussed in the article?",
@@ -15158,7 +15158,7 @@
                 "Question": "Which political party is frequently mentioned in the article?",
                 "Answers": "A) Bharatiya Janata Party (BJP) B) Indian National Congress (INC) C) Aam Aadmi Party (AAP) D) Other(s)",
                 "LLM_answer": "The article does not mention any political party. The focus of the article is on the Central Board of Secondary Education (CBSE) and its advisory to schools regarding the assessment of practical examinations.",
-                "post_LLM_answer": "E"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "Who is the central figure or main personality discussed in the article?",
@@ -15188,7 +15188,7 @@
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The article primarily discusses the Central Board of Secondary Education (CBSE) and its recent advisory to schools regarding the assessment of practical examinations. It does not directly mention any of the options provided (Opinion polls, Exit polls, Election results, Voter demographics). Instead, it focuses on the following data and statistics:\n\n1. **Variation in Marks**: The CBSE found significant variation in the marks of 50% of students in over 500 schools between theory and practical subjects.\n2. **Use of AI Tools**: The detection of this variation was done through advanced AI tools.\n3. **Class Size Limitations**: The board announced a modification to its class size limitations, allowing up to 45 students per section for mid-year admissions and essential repeats.\n\nTherefore, none of the options (A, B, C, D) are directly relevant to the content of the article.",
-                "post_LLM_answer": "E"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
@@ -15853,7 +15853,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Yogi Adityanath**, the Chief Minister of Uttar Pradesh.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",

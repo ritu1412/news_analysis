@@ -249,7 +249,7 @@
                 "Question": "What kind of data or statistics are mentioned?",
                 "Answers": "A) Opinion polls B) Exit polls C) Election results D) Voter demographics",
                 "LLM_answer": "The text provided does not mention any data or statistics related to opinion polls, exit polls, election results, or voter demographics. Instead, it focuses on the upcoming ICC T20 World Cup 2024 match between India and Ireland, discussing the conditions of the pitch and the challenges it may present. \n\nIf you are looking for information related to elections, you might want to refer to the sections titled \"Loksabha Election 2024 Result\" and \"T20 World Cup: 'यह सही नहीं है...' रोहित शर्मा ने फैंस को बर्बरतापूर्वक अरेस्ट किए जाने पर दिया बड़ा बयान,\" which seem to touch upon election results and related topics. However, these sections are not elaborated in the provided text.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "Which government institution is prominently mentioned?",
@@ -409,7 +409,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It provides an analysis of the results of the Lok Sabha Election 2024, detailing the performance of various political parties and coalitions across the entire country. The information is relevant to all citizens interested in the political landscape and election outcomes in India.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -896,7 +896,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is a regional political leader, specifically Devendra Fadnavis, who is the Deputy Chief Minister of Maharashtra and a BJP leader.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -1905,7 +1905,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figures or main personalities discussed in the article are **Nitish Kumar** and **Chandrababu Naidu**. They are highlighted in the context of their potential roles as kingmakers in the formation of the next government following the 2024 Lok Sabha elections.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -2570,7 +2570,7 @@
                 "Question": "Which political party is frequently mentioned in the article?",
                 "Answers": "A) Bharatiya Janata Party (BJP) B) Indian National Congress (INC) C) Aam Aadmi Party (AAP) D) Other(s)",
                 "LLM_answer": "इस लेख में सबसे अधिक उल्लेखित राजनीतिक पार्टी \"तृणमूल कांग्रेस\" है।",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "Who is the central figure or main personality discussed in the article?",
@@ -4617,7 +4617,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the results of the Lok Sabha Elections 2024, mentioning various political figures and their outcomes, including Pawan Singh and his wife's reaction to his loss, as well as the victory of Raja Ram Singh in the Karakat constituency. The information is relevant to a broad audience interested in the election results and political developments.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -5514,7 +5514,7 @@
                 "Question": "Does this article favor any of the following parties?",
                 "Answers": "A) Bharatiya Janata Party (BJP) B) Indian National Congress (INC) C) Aam Aadmi Party (AAP) D) None",
                 "LLM_answer": "The article appears to favor the Bharatiya Janata Party (BJP). It highlights the BJP's success in the Lok Sabha Election 2024, mentioning that the BJP has emerged as the largest party with 240 seats and that the NDA, led by the BJP, has secured a majority with 292 seats. The article also notes that Prime Minister Modi is set to take the oath again, which indicates a positive outlook towards the BJP's performance.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "Which key election strategy is discussed in the article?",
@@ -5644,7 +5644,7 @@
                 "Question": "Which government institution is prominently mentioned?",
                 "Answers": "A) Election Commission of India B) Parliament C) Supreme Court D) Other",
                 "LLM_answer": "The government institution prominently mentioned in the text is the **Election Commission of India**. The context revolves around election results and exit polls, which are closely associated with the Election Commission's role in conducting and overseeing elections in India.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the article's primary source of information?",
@@ -5798,7 +5798,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the results of the 2024 Lok Sabha elections in India, the congratulatory messages received by Prime Minister Narendra Modi from various foreign leaders, and the implications for India's international relations. The content is relevant to a broad audience interested in political developments and international diplomacy.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -7146,7 +7146,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the results of the 2024 Lok Sabha elections, the formation of the NDA government under Narendra Modi for the third term, and the implications for the country as a whole. The analysis includes the performance of various political parties and alliances, the role of coalition partners, and the overall political landscape, which are topics relevant to the general population.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -7474,7 +7474,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Kishori Lal Sharma**, a Congress leader who won the Amethi Lok Sabha seat by defeating BJP's Smriti Irani.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -8656,7 +8656,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is a regional political leader, specifically Maharashtra's Chief Minister Eknath Shinde.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -9350,7 +9350,7 @@
                 "Question": "Which government institution is prominently mentioned?",
                 "Answers": "A) Election Commission of India B) Parliament C) Supreme Court D) Other",
                 "LLM_answer": "The government institution prominently mentioned in the text is the **Parliament**. This is evident from the repeated references to the \"Lok Sabha,\" which is the lower house of India's Parliament.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "What is the article's primary source of information?",
@@ -9480,7 +9480,7 @@
                 "Question": "Which political party is frequently mentioned in the article?",
                 "Answers": "A) Bharatiya Janata Party (BJP) B) Indian National Congress (INC) C) Aam Aadmi Party (AAP) D) Other(s)",
                 "LLM_answer": "Based on the article, the political party that is frequently mentioned is the **Bharatiya Janata Party (BJP)**.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "Who is the central figure or main personality discussed in the article?",
@@ -10528,7 +10528,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the reactions and statements of political leaders, specifically Mamata Banerjee, regarding the results of the Lok Sabha elections and their implications for Prime Minister Narendra Modi and other political figures. The content is relevant to a broad audience interested in Indian politics and election outcomes.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -11194,7 +11194,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Kishori Lal Sharma**. He is highlighted for his surprising victory over Smriti Irani in the Amethi seat during the 2024 Lok Sabha elections.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -11693,7 +11693,7 @@
                 "Question": "Which political party is frequently mentioned in the article?",
                 "Answers": "A) Bharatiya Janata Party (BJP) B) Indian National Congress (INC) C) Aam Aadmi Party (AAP) D) Other(s)",
                 "LLM_answer": "The political party frequently mentioned in the article is the **All India United Democratic Front (AIUDF)**.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "Who is the central figure or main personality discussed in the article?",
@@ -13239,7 +13239,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Rahul Gandhi**. The article highlights the success of the opposition alliance, INDIA, in the 2024 Lok Sabha elections and attributes part of this success to the promises and campaign strategies led by Rahul Gandhi, particularly his \"Bharat Jodo Nyay Yatra\" and the \"5 Nyay, 25 Guarantee\" promises.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "B"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -13435,7 +13435,7 @@
                 "Question": "Which government institution is prominently mentioned?",
                 "Answers": "A) Election Commission of India B) Parliament C) Supreme Court D) Other",
                 "LLM_answer": "The government institution prominently mentioned in the context of the Lok Sabha election results and the political maneuvers is the **Election Commission of India**. This institution is responsible for administering election processes in India at both the national and state levels.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the article's primary source of information?",
@@ -13923,7 +13923,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **M**enka Gandhi.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -13941,7 +13941,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the ongoing vote counting and election results for various political parties and candidates in the Uttar Pradesh Lok Sabha Election 2024, without specifically targeting any particular demographic group such as youth, women, or minority communities.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -14089,7 +14089,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figures or main personalities discussed in the article are primarily **Akhilesh Yadav** and **Rahul Gandhi**. They are referred to as the \"दो लड़कों की जोड़ी\" (the duo of two boys) who have given a significant setback to the BJP in Uttar Pradesh. The article highlights their successful strategy and alliance in the context of the Lok Sabha Election Results 2024.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -14593,7 +14593,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figure or main personality discussed in the article is **Rajiv Gandhi**. The article highlights that Rajiv Gandhi, the former Prime Minister of India, led the Congress party to win more than 400 seats in the Lok Sabha elections following the assassination of his mother, Indira Gandhi, in 1984.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "C"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -15959,7 +15959,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It discusses the results and trends of the 2024 Lok Sabha elections in Uttar Pradesh, highlighting the performance of various political parties such as the BJP, Congress, and Samajwadi Party. The information is relevant to all voters and citizens interested in the political landscape and election outcomes in India.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -16025,7 +16025,7 @@
                 "Question": "Which minority group's voting patterns are discussed in the article?",
                 "Answers": "A) Muslim community B) Christian community C) Dalit community D) None",
                 "LLM_answer": "The article discusses the voting patterns of the **Muslim community**. This can be inferred from the mention of candidates like Imran Masood in Saharanpur and Kunwar Danish Ali in Amroha, who are known to have significant support from the Muslim community.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -16624,7 +16624,7 @@
                 "Question": "Who is the central figure or main personality discussed in the article?",
                 "Answers": "A) Narendra Modi B) Rahul Gandhi C) A regional political leader D) Other(s)",
                 "LLM_answer": "The central figures or main personalities discussed in the article are **Narendra Modi** and **Rahul Gandhi**. The article mentions Narendra Modi leading in the Varanasi constituency and Rahul Gandhi leading in both Wayanad and Raebareli constituencies.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
@@ -16642,7 +16642,7 @@
                 "Question": "Which demographic is the article focused on?",
                 "Answers": "A)Youth B) Women C) Minority communities D) General population",
                 "LLM_answer": "The article is focused on the general population. It provides detailed information about the 2024 Lok Sabha election results, including the performance of various political parties, key candidates, and the process of counting votes. The information is relevant to all citizens interested in the election outcomes, rather than targeting a specific demographic group such as youth, women, or minority communities.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "D"
             },
             {
                 "Question": "What kind of data or statistics are mentioned?",
@@ -16880,7 +16880,7 @@
                 "Question": "Which minority group's voting patterns are discussed in the article?",
                 "Answers": "A) Muslim community B) Christian community C) Dalit community D) None",
                 "LLM_answer": "The article discusses the voting patterns of the **Muslim community**.",
-                "post_LLM_answer": "NaN"
+                "post_LLM_answer": "A"
             },
             {
                 "Question": "What is the outcome or result mentioned in the article?",
