@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05e1\u05e4\u05d5\u05e8\u05d8 5",
+            "title": "\u05e9\u05d7\u05e8 \u05d5\u05d0\u05d1\u05e8\u05de\u05d5\u05d1 \u05e0\u05e4\u05d2\u05e9\u05d5: \u05e4\u05e8\u05d9\u05e6\u05ea \u05d3\u05e8\u05da \u05d1\u05e0\u05d5\u05e9\u05d0 \u05e7\u05d9\u05e0\u05d3\u05d4 - \u05e1\u05e4\u05d5\u05e8\u05d8 5",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnNwb3J0NS5jby5pbC9hcnRpY2xlcy5hc3B4P0ZvbGRlcklEPTY0JmRvY0lEPTQ3Mzc0NtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T04:37:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05dc\u05e7\u05e8\u05d0\u05ea \u05e2\u05ea\u05d9\u05d3 \u05d1\u05dc\u05d9 HIV? \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05db\u05e0\u05e2\u05d5\u05ea \u05dc\u05e0\u05d9\u05e1\u05d5\u05d9 \u05d1\u05ea\u05e8\u05d5\u05e4\u05d4 \u05d7\u05d3\u05e9\u05d4 - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluZXQuY28uaWwvaGVhbHRoL2FydGljbGUvaGp1NmtsYnVj0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T04:32:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05d1\u05d9\u05df \u05d0\u05dc \u05e0\u05d5\u05e8\u05d3\u05d9 \u05dc\u05d0\u05d9\u05d9\u05dc \u05d4\u05e6\u05e4\u05d5\u05df: \u05d4\u05d3\u05d9\u05e0\u05d5\u05d6\u05d0\u05d5\u05e8 \u05d4\u05de\u05e7\u05d5\u05e8\u05e0\u05df \u05e9\u05d4\u05ea\u05d2\u05dc\u05d4 \u05d1\u05e6\u05e4\u05d5\u05df \u05de\u05d5\u05e0\u05d8\u05e0\u05d4 - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnluZXQuY28uaWwvZW52aXJvbm1lbnQtc2NpZW5jZS9hcnRpY2xlL2Jrdnk0MTF1dWHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T04:05:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05db\u05d0\u05df | \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+            "title": "\u05e4\u05e8\u05e7 102: 1+1 \u05e2\u05dd \u05e9\u05dd \u05d8\u05d5\u05d1 \u05dc\u05d5\u05d9 - \u05db\u05d0\u05df | \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmthbi5vcmcuaWwvY29udGVudC9rYW4vcG9kY2FzdHMvcC04MTQ3Lzc2NDg3NC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:55:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "mako",
+            "title": "\u05e4\u05e8\u05d9\u05e9\u05d4 \u05dc\u05d0 \u05e2\u05dc \u05d4\u05e4\u05e8\u05e7: \u05d6\u05d4\u05d1\u05d9 \u05de\u05e6\u05e4\u05d4 \u05dc\u05d4\u05e6\u05e2\u05d4 \u05de\u05db\u05d1\u05d3\u05ea - mako",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1ha28uY28uaWwvU3BvcnRzLWZvb3RiYWxsLWlsL3ByZW1pZXItbGVhZ3VlLXEyXzIwMjQvQXJ0aWNsZS04YjE4YWJhY2Y0ODQwOTEwMjcuaHRt0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05d0\u05d9\u05d9\u05e1",
+            "title": "\u05e2\u05e0\u05e7\u05d9\u05ea \u05d4\u05e8\u05d9\u05d4\u05d5\u05d8 \u05e7\u05d5\u05e8\u05e1\u05ea: \u05e0\u05db\u05e0\u05e1\u05ea \u05dc\u05e4\u05e9\u05d9\u05d8\u05ea \u05e8\u05d2\u05dc, \u05e1\u05e0\u05d9\u05e4\u05d9\u05dd \u05e0\u05e1\u05d2\u05e8\u05d9\u05dd - \u05d0\u05d9\u05d9\u05e1",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmljZS5jby5pbC9maW5hbmNlL25ld3MvYXJ0aWNsZS8xMDE3NjM50gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Datilin",
+            "title": "\u05d3\u05d9\u05db\u05d0\u05d5\u05df \u05e1\u05d1\u05d9\u05d1 \u05d4\u05dc\u05d9\u05d3\u05d4 \u05e2\u05dc\u05d5\u05dc \u05dc\u05d4\u05d2\u05d1\u05d9\u05e8 \u05d0\u05ea \u05d4\u05e1\u05d9\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05dc\u05d1 \u05d5\u05db\u05dc\u05d9 \u05d3\u05dd - Datilin",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi3QFodHRwczovL2RhdGlsaW4uY28uaWwvJUQ3JTkzJUQ3JTk5JUQ3JTlCJUQ3JTkwJUQ3JTk1JUQ3JTlGLSVENyVBMSVENyU5MSVENyU5OSVENyU5MS0lRDclOTQlRDclOUMlRDclOTklRDclOTMlRDclOTQtJUQ3JUEyJUQ3JTlDJUQ3JTk1JUQ3JTlDLSVENyU5QyVENyU5NCVENyU5MiVENyU5MSVENyU5OSVENyVBOC0lRDclOTAlRDclQUEtJUQ3JTk0JUQ3JUExJUQ3JTk5JUQ3JTlCJUQ3JTk1L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:59:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TheMarker",
+            "title": "\"\u05d4\u05e7\u05d9\u05e5 \u05d9\u05e9 \u05d8\u05d9\u05e1\u05d5\u05ea \u05dc-20 \u05d0\u05d9\u05d9\u05dd \u05d1\u05d9\u05d5\u05d5\u05df \u05e9\u05e2\u05dc \u05d7\u05dc\u05e7\u05dd \u05de\u05e2\u05d5\u05dc\u05dd \u05dc\u05d0 \u05e9\u05de\u05e2\u05ea\u05d9\" - TheMarker",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZW1hcmtlci5jb20vbmV3cy9hdmlhdGlvbi8yMDI0LTA2LTI0L3R5LWFydGljbGUvLnByZW1pdW0vMDAwMDAxOTAtMzBjOC1kMzQwLWExZjgtMzhjY2EzNmIwMDAw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TheMarker",
+            "title": "\u05de\u05d0\u05d5\u05ea \u05de\u05e2\u05d5\u05d1\u05d3\u05d9 \u05d4\u05d7\u05d3\u05be\u05e7\u05e8\u05df \u05d0\u05e8\u05de\u05d9\u05e1 \u05de\u05db\u05e8\u05d5 \u05de\u05e0\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d7\u05d1\u05e8\u05d4 \u05d1-50\u201360 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05d3\u05d5\u05dc\u05e8 - TheMarker",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZW1hcmtlci5jb20vdGVjaG5hdGlvbi8yMDI0LTA2LTI0L3R5LWFydGljbGUvLmhpZ2hsaWdodC8wMDAwMDE5MC00NjBmLWRhNDItYTFiYS03ZjZmN2NhNjAwMDDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Twoday \u05d8\u05d5\u05d3\u05d9\u05d9",
+            "title": "\u05d9\u05d9\u05e9\u05d5\u05e8 \u05e7\u05d5\u05e1\u05de\u05d9 \u05de\u05e4\u05ea\u05d9\u05e2 \u05e0\u05d7\u05e9\u05e3: \u05d8\u05dc\u05e1\u05e7\u05d5\u05e4 \u05d5\u05d5\u05d1 \u05d7\u05d5\u05e9\u05e3 \u05e1\u05d9\u05dc\u05d5\u05e0\u05d9 \u05db\u05d5\u05db\u05d1\u05d9\u05dd \u05de\u05d3\u05d4\u05d9\u05de\u05d9\u05dd \u05d1\u05e2\u05e8\u05e4\u05d9\u05dc\u05d9\u05ea \u05d4\u05e0\u05d7\u05e9\u05d9\u05dd - Twoday \u05d8\u05d5\u05d3\u05d9\u05d9",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi5gFodHRwczovL3d3dy50d29kYXkuY28uaWwvJUQ3JTk5JUQ3JTk5JUQ3JUE5JUQ3JTk1JUQ3JUE4LSVENyVBNyVENyU5NSVENyVBMSVENyU5RSVENyU5OS0lRDclOUUlRDclQTQlRDclQUElRDclOTklRDclQTItJUQ3JUEwJUQ3JTk3JUQ3JUE5JUQ3JUEzLSVENyU5OCVENyU5QyVENyVBMSVENyVBNyVENyU5NSVENyVBNC0lRDclOTUlRDclOTUlRDclOTEtJUQ3JTk3JUQ3JTk1JUQ3JUE5JUQ3JUEzLzExNjcwL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:50:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05db\u05d0\u05df | \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+            "title": "\u05e6\u05d5\u05d5\u05ea F-16 \u05e7\u05d5\u05e8\u05e7\u05e2 \u05dc\u05e9\u05dc\u05d5\u05e9\u05d4 \u05e9\u05d1\u05d5\u05e2\u05d5\u05ea \u05db\u05d9 \u05ea\u05e7\u05e3 \u05d9\u05e2\u05d3\u05d9\u05dd \u05e9\u05d2\u05d5\u05d9\u05d9\u05dd \u05d1\u05e8\u05e6\u05d5\u05e2\u05d4 - \u05db\u05d0\u05df | \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmthbi5vcmcuaWwvY29udGVudC9rYW4tbmV3cy9kZWZlbnNlLzc2NDk0NS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:00:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05de\u05d9 \u05d9\u05e2\u05d6\u05d5\u05e8 \u05dc\u05e4\u05e8\u05d5\u05d3\u05d9\u05dd \u05d4\u05e9\u05db\u05d5\u05dc\u05d9\u05dd? \"\u05d6\u05d4 \u05e9\u05d4\u05d9\u05d9\u05e0\u05d5 \u05d2\u05e8\u05d5\u05e9\u05d9\u05dd \u05dc\u05d0 \u05de\u05e4\u05d7\u05d9\u05ea \u05d0\u05ea \u05e6\u05e8\u05db\u05d9\u05e0\u05d5 \u05db\u05de\u05e9\u05e4\u05d7\u05d4\" - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnluZXQuY28uaWwvbmV3cy9hcnRpY2xlL3lva3JhMTM5NzM2MDXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:41:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05e0\u05e6\u05de\u05d3\u05d9\u05dd \u05dc\u05de\u05d5\u05e6\u05d1\u05d9 \u05d0\u05d5\"\u05dd, \u05e0\u05e2\u05d9\u05dd \u05d1\u05e8\u05db\u05d1\u05d9\u05dd \u05d0\u05d6\u05e8\u05d7\u05d9\u05d9\u05dd | \u05e9\u05d9\u05d8\u05ea \u05d7\u05d9\u05d6\u05d1\u05d0\u05dc\u05dc\u05d4 - \u05d2\u05d9\u05dc\u05d5\u05d9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d9\u05dd - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnluZXQuY28uaWwvbmV3cy9hcnRpY2xlL3lva3JhMTM5NzM3NDPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:28:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8",
+            "title": "\u05de\u05d9 \u05d9\u05e0\u05d4\u05d2 \u05d1\u05de\u05d9: \u05d4\u05e7\u05e8\u05d1 \u05e2\u05dc \u05de\u05e2\u05e8\u05db\u05d5\u05ea \u05d4\u05de\u05d5\u05dc\u05d8\u05d9\u05de\u05d3\u05d9\u05d4 - \u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNhbGNhbGlzdC5jby5pbC9sb2NhbF9uZXdzL2Nhci9hcnRpY2xlL2hrcm5kY3JpY9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:24:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05d0\u05de\u05e8 \u05e9\u05d4\u05d5\u05d0 \"\u05de\u05d5\u05db\u05df \u05dc\u05e2\u05e1\u05e7\u05d4 \u05d7\u05dc\u05e7\u05d9\u05ea\", \u05d5\u05e2\u05d5\u05e8\u05e8 \u05d6\u05e2\u05dd: \"\u05de\u05ea\u05e0\u05d4 \u05dc\u05d7\u05de\u05d0\u05e1\" - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnluZXQuY28uaWwvbmV3cy9hcnRpY2xlL3JqNnd2ZWlpY9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:17:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05d3\u05d1\u05e8",
+            "title": "\u05e9\u05e0\u05d9 \u05e4\u05e6\u05d5\u05e2\u05d9\u05dd \u05e7\u05dc-\u05d1\u05d9\u05e0\u05d5\u05e0\u05d9 \u05de\u05e4\u05d2\u05d9\u05e2\u05ea \u05e0\"\u05d8 \u05d1\u05e8\u05db\u05d1 \u05d1\u05de\u05d8\u05d5\u05dc\u05d4; \u05d3\u05d9\u05d5\u05d5\u05d7 \u05e2\u05dc \u05ea\u05e7\u05d9\u05e4\u05d5\u05ea \u05e6\u05d4\u05f4\u05dc \u05d1\u05d3\u05e8\u05d5\u05dd \u05dc\u05d1\u05e0\u05d5\u05df - \u05d0\u05ea\u05e8 \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d3\u05d1\u05e8 - \u05d3\u05d1\u05e8",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmRhdmFyMS5jby5pbC81MjA1Mjcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05de\u05e2\u05e8\u05d9\u05d1 \u05d0\u05d5\u05df \u05dc\u05d9\u05d9\u05df",
+            "title": "\u05de\u05ea\u05e7\u05e4\u05ea \u05d8\u05e8\u05d5\u05e8 \u05d1\u05e8\u05d5\u05e1\u05d9\u05d4: \u05e4\u05d9\u05d2\u05d5\u05e2\u05d9\u05dd \u05d1\u05d1\u05ea\u05d9 \u05db\u05e0\u05e1\u05ea \u05d5\u05db\u05e0\u05e1\u05d9\u05d5\u05ea, \u05ea\u05e9\u05e2\u05d4 \u05e0\u05e8\u05e6\u05d7\u05d5 - \u05de\u05e2\u05e8\u05d9\u05d1 \u05d0\u05d5\u05df \u05dc\u05d9\u05d9\u05df",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lm1hYXJpdi5jby5pbC9uZXdzL3dvcmxkL0FydGljbGUtMTEwOTQyNdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05d0\u05d9\u05d9\u05e1",
+            "title": "\u05d0\u05e0\u05d4 \u05d0\u05e8\u05d5\u05e0\u05d5\u05d1 \u05d1\u05d4\u05dc\u05dd: \"\u05dc\u05d3\u05e2\u05ea\u05d9 \u05d6\u05d5 \u05d4\u05d5\u05e0\u05d0\u05d4, \u05d0\u05d9\u05d6\u05d5 \u05d4\u05d6\u05d9\u05d9\u05d4\" - \u05d0\u05d9\u05d9\u05e1",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmljZS5jby5pbC9zb2NpYWwvbmV3cy9hcnRpY2xlLzEwMTc2MjfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:37:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8",
+            "title": "\u05dc\u05d4\u05d1 \u05d0\u05dc.\u05d0\u05e8 \u05e8\u05d5\u05db\u05e9\u05ea 30% \u05de\u05de\u05e0\u05d9\u05d5\u05ea \u05e4\u05e8\u05d9\u05d9\u05dd \u05d0\u05e0\u05e8\u05d2\u05f3\u05d9 \u05d1-43 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e9\u05e7\u05dc - \u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmNhbGNhbGlzdC5jby5pbC9tYXJrZXQvYXJ0aWNsZS9iamtmbHh1OHLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:36:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05db\u05d9\u05e4\u05d4",
+            "title": "\u05e7\u05d5\u05e8\u05e2: \u05de\u05d5\u05d7\u05d9\u05dd \u05e4\u05e8\u05d5 \u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9\u05d9\u05dd \u05d4\u05e4\u05e8\u05d9\u05e2\u05d5 \u05e9\u05d5\u05d1 \u05dc\u05d4\u05d5\u05e4\u05e2\u05ea\u05d5 \u05e9\u05dc \u05d2'\u05e8\u05d9 \u05e1\u05d9\u05d9\u05e0\u05e4\u05dc\u05d3 - \u05db\u05da \u05d4\u05d5\u05d0 \u05d4\u05d2\u05d9\u05d1 \u05d4\u05e4\u05e2\u05dd - \u05db\u05d9\u05e4\u05d4",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmtpcGEuY28uaWwvJUQ3JTk3JUQ3JTkzJUQ3JUE5JUQ3JTk1JUQ3JUFBLzExODQxOTEtMC_SASNodHRwczovL3d3dy5raXBhLmNvLmlsL2FtcC8xMTg0MTkxLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:06:28Z",
+            "content": null
+        }
+    ]
+}

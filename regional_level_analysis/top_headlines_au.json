@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Why Tayla Williams believes netball is the perfect place to spark a conversation about endometriosis and periods - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTI0L3RheWxhLXdpbGxpYW1zLWVuZG9tZXRyaW9zaXMtbmV0YmFsbC1zcGFya2luZy1jb252ZXJzYXRpb24vMTA0MDE0MzEw0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwNDAxNDMxMA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:35:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sydney Morning Herald",
+            "title": "Australia news LIVE: Grocery stores face billion-dollar fines; Nuclear energy debate dominates return of parliament - Sydney Morning Herald",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixgFodHRwczovL3d3dy5zbWguY29tLmF1L25hdGlvbmFsL2F1c3RyYWxpYS1uZXdzLWxpdmUtZ3JvY2VyeS1zdG9yZXMtZmFjZS1iaWxsaW9uLWRvbGxhci1maW5lcy11bmRlci1zdHJvbmdlci1sYXdzLXBvbGljZS1odW50LWZvci1hcm1lZC10ZWVuYWdlcnMtd2hvLXRyaWdnZXJlZC13ZXN0ZmllbGQtbG9ja2Rvd24tMjAyNDA2MjQtcDVqbzMyLmh0bWzSAcYBaHR0cHM6Ly9hbXAuc21oLmNvbS5hdS9uYXRpb25hbC9hdXN0cmFsaWEtbmV3cy1saXZlLWdyb2Nlcnktc3RvcmVzLWZhY2UtYmlsbGlvbi1kb2xsYXItZmluZXMtdW5kZXItc3Ryb25nZXItbGF3cy1wb2xpY2UtaHVudC1mb3ItYXJtZWQtdGVlbmFnZXJzLXdoby10cmlnZ2VyZWQtd2VzdGZpZWxkLWxvY2tkb3duLTIwMjQwNjI0LXA1am8zMi5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:28:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI World Desk",
+            "title": "Toxic rocket debris crashes into crowded area in China, people flee in panic - The Times of India",
+            "description": "China News: Chinese citizens were in shock and seen running for safety after toxic rocket debris crashed into a populated area on Saturday.",
+            "url": "https://timesofindia.indiatimes.com/world/china/toxic-rocket-debris-crashes-into-crowded-area-in-china-people-flee-in-panic/articleshow/111218026.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-111218280,width-1070,height-580,imgsize-4120829,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-06-24T03:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "news.com.au",
+            "title": "Wild tech collab nobody saw coming - news.com.au",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS90ZWNobm9sb2d5L2lubm92YXRpb24vYXBwbGUtaG9sZHMtdGFsa3Mtd2l0aC1yaXZhbC1tZXRhLW92ZXItYWktd3NqLXJlcG9ydHMvbmV3cy1zdG9yeS9iOTBhODI4MTRlM2I3ODlhZWE0YjIyMDZkY2EwNmY3YtIBkwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS90ZWNobm9sb2d5L2lubm92YXRpb24vYXBwbGUtaG9sZHMtdGFsa3Mtd2l0aC1yaXZhbC1tZXRhLW92ZXItYWktd3NqLXJlcG9ydHMvbmV3cy1zdG9yeS9iOTBhODI4MTRlM2I3ODlhZWE0YjIyMDZkY2EwNmY3Yj9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:10:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "news.com.au",
+            "title": "Major \u201890s muso still rocking out at 53 - news.com.au",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9lbnRlcnRhaW5tZW50L211c2ljL211c2ljLWZlc3RpdmFscy9saW1wLWJpemtpdC1mcm9udG1hbi1mcmVkLWR1cnN0LXVucmVjb2duaXNhYmxlLWFzLWhlLXBlcmZvcm1zLWF0LXVrLW11c2ljLWZlc3RpdmFsL25ld3Mtc3RvcnkvOWNjMDFlY2Y5MGZjYjBiZTdmY2Q3YWMwMjFiMjI3NTTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:58:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "9News",
+            "title": "Man arrested after acting suspiciously at Sydney church - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbWFuLWFycmVzdGVkLWFmdGVyLWFjdGluZy1zdXNwaWNpb3VzbHktb3V0c2lkZS1yb3NlLWJheS1jaHVyY2gvOTQzNmQyMWMtMTAwZS00Y2Q5LWJkOTEtMTY2Mjg0NGE5Yzk20gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvOTQzNmQyMWMtMTAwZS00Y2Q5LWJkOTEtMTY2Mjg0NGE5Yzk2?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:46:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "news.com.au",
+            "title": "57% off \u2018impressive\u2019 air fryer over 10k love - news.com.au",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9jaGVja291dC9zYWxlcy1hbmQtZGVhbHMvc2FsZXMtYW5kLWRlYWxzLW9mLXRoZS13ZWVrL2Jlc3Qtd2Vla2x5LWRlYWxzL25ld3Mtc3RvcnkvYmYwZjM2OTU5N2NmMzE5ZDI3NjIxZWYyNjU5ZDlmY2bSAY4BaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvY2hlY2tvdXQvc2FsZXMtYW5kLWRlYWxzL3NhbGVzLWFuZC1kZWFscy1vZi10aGUtd2Vlay9iZXN0LXdlZWtseS1kZWFscy9uZXdzLXN0b3J5L2JmMGYzNjk1OTdjZjMxOWQyNzYyMWVmMjY1OWQ5ZmNmP2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:32:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Labor appoints Liberal Matt Kean to top climate role - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTI0L2xhYm9yLWFwcG9pbnRzLWxpYmVyYWwtbWF0dC1rZWFuLXRvLXRvcC1jbGltYXRlLXJvbGUvMTA0MDE0NjUy0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwNDAxNDY1Mg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:30:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "News-Medical.Net",
+            "title": "New study warns of potential pandemic risk from \u03b1-H1N2 swine flu virus - News-Medical.Net",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5ld3MtbWVkaWNhbC5uZXQvbmV3cy8yMDI0MDYyMy9OZXctc3R1ZHktd2FybnMtb2YtcG90ZW50aWFsLXBhbmRlbWljLXJpc2stZnJvbS1jZWIxLUgxTjItc3dpbmUtZmx1LXZpcnVzLmFzcHjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "news.com.au",
+            "title": "Rocker\u2019s scathing Taylor Swift diss - news.com.au",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitAFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9lbnRlcnRhaW5tZW50L211c2ljL2Zvby1maWdodGVycy1mcm9udG1hbi1kYXZlLWdyb2hsLXNlZW1pbmdseS10YWtlcy1zd2lwZS1hdC10YXlsb3Itc3dpZnQtd2UtYWN0dWFsbHktcGxheS1saXZlL25ld3Mtc3RvcnkvYjc1YWE0OTQwM2JiNzAwNmVjNDllNTAzM2U1YTA3OGXSAbgBaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvZW50ZXJ0YWlubWVudC9tdXNpYy9mb28tZmlnaHRlcnMtZnJvbnRtYW4tZGF2ZS1ncm9obC1zZWVtaW5nbHktdGFrZXMtc3dpcGUtYXQtdGF5bG9yLXN3aWZ0LXdlLWFjdHVhbGx5LXBsYXktbGl2ZS9uZXdzLXN0b3J5L2I3NWFhNDk0MDNiYjcwMDZlYzQ5ZTUwMzNlNWEwNzhlP2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:12:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Police recover pistol believed to have been used in alleged murder of Natalie Frahm in Mackay - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTI0L3BvbGljZS1waXN0b2wtYWxsZWdlZC1tdXJkZXItbWFja2F5LW1vdGhlci1uYXRhbGllLWZyYWhtLzEwNDAxNDQ1MtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDQwMTQ0NTI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:08:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "9News",
+            "title": "Instagram account of missing British teenager mysteriously accessed - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvaW5zdGFncmFtLWFjY291bnQtb2YtbWlzc2luZy1icml0aXNoLXRlZW5hZ2VyLW15c3RlcmlvdXNseS1hY2Nlc3NlZC8yYjdkYTc4MS0zZTJiLTQyN2MtYWU0My03YWFkZGFjYjJkYzfSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS8yYjdkYTc4MS0zZTJiLTQyN2MtYWU0My03YWFkZGFjYjJkYzc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:34:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Age",
+            "title": "Judge lashes Xavier\u2019s \u2018troubling\u2019 conduct as school faces abuse claim - The Age",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy50aGVhZ2UuY29tLmF1L25hdGlvbmFsL3ZpY3RvcmlhL2p1ZGdlLWxhc2hlcy10cm91YmxpbmctY29uZHVjdC1ieS14YXZpZXItYXMtc2Nob29sLWZhY2VzLWFidXNlLWNsYWltLTIwMjQwNjI0LXA1am80eC5odG1s0gGFAWh0dHBzOi8vYW1wLnRoZWFnZS5jb20uYXUvbmF0aW9uYWwvdmljdG9yaWEvanVkZ2UtbGFzaGVzLXRyb3VibGluZy1jb25kdWN0LWJ5LXhhdmllci1hcy1zY2hvb2wtZmFjZXMtYWJ1c2UtY2xhaW0tMjAyNDA2MjQtcDVqbzR4Lmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:23:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Banks to the rescue with $50 million lifeline for cash transporter Armaguard - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTI0L2JhbmtzLW9mZmVyLWxpZmVsaW5lLXRvLWNhc2gtdHJhbnNwb3J0ZXItYXJtYWd1YXJkLzEwNDAxNDI1MNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:10:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Age",
+            "title": "AFL cleared of anti-doping breach but integrity boss calls for overhaul of drug policy - The Age",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy50aGVhZ2UuY29tLmF1L3Nwb3J0L2FmbC9hZmwtcy1vZmYtdGhlLWJvb2tzLWRydWctdGVzdHMtZGlkLW5vdC1icmVhY2gtYW50aS1kb3BpbmctcnVsZXMtYnV0LWFyb3VzZWQtc3VzcGljaW9uLWludmVzdGlnYXRpb24tZmluZHMtMjAyNDA2MjQtcDVqbzZmLmh0bWzSAaIBaHR0cHM6Ly9hbXAudGhlYWdlLmNvbS5hdS9zcG9ydC9hZmwvYWZsLXMtb2ZmLXRoZS1ib29rcy1kcnVnLXRlc3RzLWRpZC1ub3QtYnJlYWNoLWFudGktZG9waW5nLXJ1bGVzLWJ1dC1hcm91c2VkLXN1c3BpY2lvbi1pbnZlc3RpZ2F0aW9uLWZpbmRzLTIwMjQwNjI0LXA1am82Zi5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:01:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kotaku Australia",
+            "title": "I Spent An Hour With Astro Bot And Video Games Are Good Again - Kotaku Australia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmtvdGFrdS5jb20uYXUvMjAyNC8wNi9pLXNwZW50LWFuLWhvdXItd2l0aC1hc3Ryby1ib3QtYW5kLXZpZGVvLWdhbWVzLWFyZS1nb29kLWFnYWluL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T00:27:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mirage News",
+            "title": "Prompt Avian Flu Detection Crucial, Says Australian Eggs - Mirage News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL3Byb21wdC1hdmlhbi1mbHUtZGV0ZWN0aW9uLWNydWNpYWwtc2F5cy0xMjYxNTQxL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T00:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Daily Mail",
+            "title": "Margot Robbie's husband Tom Ackerley reveals they spend '24 hours a day' together in rare interview - Daily Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzU2MTI4OS9NYXJnb3QtUm9iYmllLXNwZW5kcy0yNC1ob3Vycy1kYXktaHVzYmFuZC1Ub20tQWNrZXJsZXkuaHRtbNIBdmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzU2MTI4OS9hbXAvTWFyZ290LVJvYmJpZS1zcGVuZHMtMjQtaG91cnMtZGF5LWh1c2JhbmQtVG9tLUFja2VybGV5Lmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:54:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Scotland crash out of Euro 2024 - Football Daily - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9hdWRpby8yMDI0L2p1bi8yNC9zY290bGFuZC1jcmFzaC1vdXQtb2YtZXVyby0yMDI0LWZvb3RiYWxsLWRhaWx50gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:51:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Woman attacked by wolves after straying into 'safari zone' at Thoiry zoo near Paris - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTI0L3dvbHZlcy1hdHRhY2std29tYW4tYXQtem9vLW5lYXItcGFyaXMvMTA0MDEzNzU40gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwNDAxMzc1OA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:34:16Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sky News",
+            "title": "UK weather: Four-day heat health alert comes into force today - as forecasters reveal warmest day this week - Sky News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS91ay13ZWF0aGVyLW1vc3Qtb2YtZW5nbGFuZC10by1jb21lLXVuZGVyLWhlYXQtaGVhbHRoLWFsZXJ0LXdpdGgtd2FybmluZy1vZi1zaWduaWZpY2FudC1pbXBhY3RzLWluLXBhcnRzLW9mLWNvdW50cnktMTMxNTcxMjTSAZoBaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL3VrLXdlYXRoZXItbW9zdC1vZi1lbmdsYW5kLXRvLWNvbWUtdW5kZXItaGVhdC1oZWFsdGgtYWxlcnQtd2l0aC13YXJuaW5nLW9mLXNpZ25pZmljYW50LWltcGFjdHMtaW4tcGFydHMtb2YtY291bnRyeS0xMzE1NzEyNA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:44:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Lando Norris takes blame for botched start that ruined victory chance in Spain - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVuLzIzL2xhbmRvLW5vcnJpcy1zcGFuaXNoLWdyYW5kLXByaXgtZm9ybXVsYS1vbmUtbWF4LXZlcnN0YXBwZW7SAXBodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vc3BvcnQvYXJ0aWNsZS8yMDI0L2p1bi8yMy9sYW5kby1ub3JyaXMtc3BhbmlzaC1ncmFuZC1wcml4LWZvcm11bGEtb25lLW1heC12ZXJzdGFwcGVu?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Jay Slater: Brit still missing in Tenerife after eight-day search - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzIyMjVkanhsOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyMjI1ZGp4bDlvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:06:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Evening Standard",
+            "title": "Barnabas Varga to undergo operation but in stable condition after sickening injury in Hungary's Euro 2024 win - Evening Standard",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Jhcm5hYmFzLXZhcmdhLWluanVyeS1odW5nYXJ5LXNjb3RsYW5kLWV1cm8tMjAyNC1iMTE2NjI3NS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:38:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Huge plume of smoke as firefighters tackle industrial site blaze - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDExMTI5bjduam_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxMTEyOW43bmpvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:18:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Nearly 19,000 NHS patients left waiting for three days in A&E over 12 months - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vc29jaWV0eS9hcnRpY2xlLzIwMjQvanVuLzI0L25lYXJseS0xOTAwMC1uaHMtcGF0aWVudHMtbGVmdC13YWl0aW5nLWZvci10aHJlZS1kYXlzLWluLWFlLW92ZXItMTItbW9udGhz0gGCAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5L2FydGljbGUvMjAyNC9qdW4vMjQvbmVhcmx5LTE5MDAwLW5ocy1wYXRpZW50cy1sZWZ0LXdhaXRpbmctZm9yLXRocmVlLWRheXMtaW4tYWUtb3Zlci0xMi1tb250aHM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Telegraph",
+            "title": "Taylor Swift brings boyfriend Travis Kelce on stage during London concert - The Telegraph",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDYvMjQvdGF5bG9yLXN3aWZ0LWJyaW5ncy10cmF2aXMta2VsY2Utb24tc3RhZ2UtbG9uZG9uLWNvbmNlcnQv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC",
+            "title": "I almost died trying to get salt from the sea - BBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwMzM1bGprZzVyb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwMzM1bGprZzVyby5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:28:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Daily Record",
+            "title": "Stuart Armstrong \u2018looking\u2019 for Scotland penalty as Chris Sutton claims spot kick snub was RIGHT decision - Daily Record",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2Zvb3RiYWxsLW5ld3Mvc3R1YXJ0LWFybXN0cm9uZy1sb29raW5nLXNjb3RsYW5kLXBlbmFsdHktMzMwOTE5NDnSAXFodHRwczovL3d3dy5kYWlseXJlY29yZC5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL3N0dWFydC1hcm1zdHJvbmctbG9va2luZy1zY290bGFuZC1wZW5hbHR5LTMzMDkxOTQ5LmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "GBNews",
+            "title": "BBC's 'INSULTING' axing of Sue Barker 'speaks volumes' about the corporation's 'ageism culture' - GBNews",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC295a0I4Zm51a3JRmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:18:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC Sport",
+            "title": "Highlights - Scotland vs Hungary | Uefa Euro 2024 | BBC Sport - BBC Sport",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC09saEpuS2JyM04wmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:08:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sky News",
+            "title": "Flights start departing from two Manchester Airport terminals after travel chaos - Sky News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2ZsaWdodHMtZnJvbS10d28tbWFuY2hlc3Rlci1haXJwb3J0LXRlcm1pbmFscy1yZXN1bWUtYWZ0ZXItcG93ZXItY3V0LWNhdXNlZC10cmF2ZWwtY2hhb3MtMTMxNTcwMDfSAYABaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL2ZsaWdodHMtZnJvbS10d28tbWFuY2hlc3Rlci1haXJwb3J0LXRlcm1pbmFscy1yZXN1bWUtYWZ0ZXItcG93ZXItY3V0LWNhdXNlZC10cmF2ZWwtY2hhb3MtMTMxNTcwMDc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:19:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Financial Times",
+            "title": "Netanyahu says end of intense phase of Gaza war very close - Financial Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzA0NTU2MGJlLTAyZTYtNDFmYy05MDhiLWU4Y2U2NzBhMGQ4NNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:07:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Financial Times",
+            "title": "Extreme heat at hajj pilgrimage blamed for 1,300 deaths - Financial Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2M4NjBlZmIwLWFmOWQtNDZlZS04MDQxLTEzYWM4YjQzNmRkZNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:52:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Telegraph",
+            "title": "Labour would drop guidance banning schools from teaching gender ideology, suggests Phillipson - The Telegraph",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wb2xpdGljcy8yMDI0LzA2LzIzL2JyaWRnZXQtcGhpbGxpcHNvbi1sYWJvdXItbWF5LXNjcmFwLWdlbmRlci1pZGVvbG9neS1iYW4v0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Who are the five being investigated over UK election date betting scandal? - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vcG9saXRpY3MvYXJ0aWNsZS8yMDI0L2p1bi8yMy93aG8tYXJlLXRoZS1maXZlLWJlaW5nLWludmVzdGlnYXRlZC1vdmVyLXVrLWVsZWN0aW9uLWRhdGUtYmV0dGluZy1zY2FuZGFs0gGCAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjQvanVuLzIzL3doby1hcmUtdGhlLWZpdmUtYmVpbmctaW52ZXN0aWdhdGVkLW92ZXItdWstZWxlY3Rpb24tZGF0ZS1iZXR0aW5nLXNjYW5kYWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Daily Mail",
+            "title": "Daily guide to what the stars have in store for YOU - June 24, 2024 - Daily Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvaG9yb3Njb3Blcy9hcnRpY2xlLTEzNTYwNTIxL0hvcm9zY29wZS10b2RheS1EYWlseS1ndWlkZS1zdGFycy1zdG9yZS1KdW5lLTI0LTIwMjQuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:16:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Independent",
+            "title": "MoD issue 'myth-busting' Nato video after Farage comments on Ukraine invasion - The Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvZXVyb3BlL25hdG8tZmFyYWdlLXB1dGluLXdhci11a3JhaW5lLWIyNTY3NDMyLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T18:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC",
+            "title": "Deadly attacks on Dagestan synagogues and churches - BBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NyZ2dnd2cxNThkb9IBNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NyZ2dnd2cxNThkby5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T18:16:17Z",
+            "content": null
+        }
+    ]
+}

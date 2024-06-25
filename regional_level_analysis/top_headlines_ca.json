@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Winnipeg Free Press",
+            "title": "From cold sweats to clarity: journey to a POTS diagnosis - Winnipeg Free Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndpbm5pcGVnZnJlZXByZXNzLmNvbS9hcnRzLWFuZC1saWZlLzIwMjQvMDYvMjMvYS1oZWFydC1yYWNpbmctZXhwZXJpZW5jZdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:57:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "InfoQ.com",
+            "title": "Spring Ecosystem Releases Focus on Spring Boot, Spring Security and Spring Modulith - InfoQ.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDYvc3ByaW5nLXJlbGVhc2VzLWp1bjE3LTIwMjQv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:00:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News Edmonton",
+            "title": "Big pizza party promise if Oilers win Stanley Cup - CTV News Edmonton",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9iaWctcGl6emEtcGFydHktcHJvbWlzZS1pZi1vaWxlcnMtd2luLXN0YW5sZXktY3VwLTEuNjkzODEyNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T01:17:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Zach Seemayer",
+            "title": "Ben Affleck Ditches Wedding Ring During Dinner Date With Daughter Violet as Jennifer Lopez Vacations in Italy - Entertainment Tonight",
+            "description": "Ben Affleck was spotted sans wedding ring while out with his 18-year-old daughter, Violet, as Jennifer Lopez vacations in Italy.",
+            "url": "https://www.etonline.com/ben-affleck-ditches-wedding-ring-during-dinner-date-with-daughter-violet-as-jennifer-lopez",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-06/X17_BEN_AFFLECK_NO_RING_062224_002_1280.jpg?h=c673cd1c",
+            "publishedAt": "2024-06-24T01:09:00Z",
+            "content": "Ben Affleck enjoyed a dinner date with his eldest daughter, Violet, on Saturday -- and the Oscar-winning actor and filmmaker was spotted walking through Los Angeles sans wedding ring.\r\nAffleck, 51, w\u2026 [+5331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Edmonton Oilers thrill fans with historic Stanley Cup finals comeback - BBC.com",
+            "description": "The NHL team could break Canada's 31-year Stanley Cup drought in a make-or-break Game 7 against the Florida Panthers.",
+            "url": "https://www.bbc.com/news/articles/ce55l4l4x11o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/623e/live/20e60ff0-31b3-11ef-90be-b75b34b0bbb2.jpg",
+            "publishedAt": "2024-06-24T01:04:01Z",
+            "content": "The Edmonton Oilers are facing off the Florida Panthers in the Stanley Cup finals\r\nSome of Shelina Gwaduri's earliest memories are of huddling around the family TV to watch the Edmonton Oilers play. \u2026 [+6715 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WESH 2 News",
+            "title": "New NOAA weather satellite set to launch Tuesday - WESH 2 News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC25CaXVmWE5vdEhBmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:23:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Global News Toronto",
+            "title": "Nenshi will need major boost in NDP popularity to win 2027 election: analyst - Global News Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTgzODU1L25lbnNoaS1hbGJlcnRhLW5kcC1wb3B1bGFyaXR5LWFuYWx5c3Qv0gFOaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL25ld3MvMTA1ODM4NTUvbmVuc2hpLWFsYmVydGEtbmRwLXBvcHVsYXJpdHktYW5hbHlzdC9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:16:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Edmonton Journal",
+            "title": "Wild in the city: Edmonton's Big Lake hosts critters of all sorts \u2014 and an award-winning artist - Edmonton Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWRtb250b24tYmlnLWxha2Utd2lsZGxpZmUtcGhvdG9ncmFwaHktYXJ0aXN0LW1lbW9yeS1yb3Ro0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:13:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "World first epilepsy device fitted in UK boy's skull - BBC.com",
+            "description": "Oran, who is 13, was sometimes having hundreds of seizures a day due to his severe epilepsy.",
+            "url": "https://www.bbc.com/news/articles/cg33kgd81mvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44b1/live/1c22d0a0-31b5-11ef-bde7-8da015f1008e.jpg",
+            "publishedAt": "2024-06-23T23:07:56Z",
+            "content": "By\u00a0Fergus Walsh,\u00a0Medical editor\r\nOran (R) lives with his mum, brother and sister\r\nA boy with severe epilepsy has become the first patient in the world to trial a new device fitted in their skull to c\u2026 [+5040 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "\u2018Intense phase of war with Hamas about to end,\u2019 focus to shift to Lebanon border, Netanyahu says - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMy9taWRkbGVlYXN0L2ludGVuc2UtcGhhc2UtaGFtYXMtd2FyLWVuZC1uZXRhbnlhaHUtbGViYW5vbi1pbnRsLWxhdGFtL2luZGV4Lmh0bWzSAWZodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzIzL21pZGRsZWVhc3QvaW50ZW5zZS1waGFzZS1oYW1hcy13YXItZW5kLW5ldGFueWFodS1sZWJhbm9uLWludGwtbGF0YW0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CP24",
+            "title": "Eyes pinned to Toronto byelection as safe Liberal seat teeters under Trudeau - CP24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvZXllcy1waW5uZWQtdG8tdG9yb250by1ieWVsZWN0aW9uLWFzLXNhZmUtbGliZXJhbC1zZWF0LXRlZXRlcnMtdW5kZXItdHJ1ZGVhdS0xLjY5MzgwNzDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TSN",
+            "title": "Montreal's 1993 Stanley Cup champions are watching as Edmonton can end Canada's title drought - TSN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRzbi5jYS9uaGwvbW9udHJlYWwtcy0xOTkzLXN0YW5sZXktY3VwLWNoYW1waW9ucy1hcmUtd2F0Y2hpbmctYXMtZWRtb250b24tY2FuLWVuZC1jYW5hZGEtcy10aXRsZS1kcm91Z2h0LTEuMjEzOTExOdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:36:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC.ca",
+            "title": "Saskatoon sparks Emergency Operations Centre in response to tornado watch in Central Sask. - CBC.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9zYXNrYXRvb24vZW1lcmdlbmN5LW9wZXJhdGlvbnMtY2VudHJlLXRvcm5hZG8td2F0Y2gtMS43MjQ0MjUw0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyNDQyNTA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T22:05:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Global News Toronto",
+            "title": "Armed militants in Dagestan kill priest and police in attacks on churches, synagogue and police post - Global News Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDU4Mzc3OC9hcm1lZC1taWxpdGFudHMtaW4tZGFnZXN0YW4ta2lsbC1wcmllc3QtYW5kLXBvbGljZS1pbi1hdHRhY2tzLW9uLWNodXJjaGVzLXN5bmFnb2d1ZS1hbmQtcG9saWNlLXBvc3Qv0gGMAWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTgzNzc4L2FybWVkLW1pbGl0YW50cy1pbi1kYWdlc3Rhbi1raWxsLXByaWVzdC1hbmQtcG9saWNlLWluLWF0dGFja3Mtb24tY2h1cmNoZXMtc3luYWdvZ3VlLWFuZC1wb2xpY2UtcG9zdC9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportsnet.ca",
+            "title": "After losing Martinez, Blue Jays\u2019 hapless season reaches new low in sweep by Guardians - Sportsnet.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9tbGIvYXJ0aWNsZS9hZnRlci1sb3NpbmctbWFydGluZXotYmx1ZS1qYXlzLWhhcGxlc3Mtc2Vhc29uLXJlYWNoZXMtbmV3LWxvdy1pbi1zd2VlcC1ieS1ndWFyZGlhbnMv0gF5aHR0cHM6Ly93d3cuc3BvcnRzbmV0LmNhL21sYi9hZnRlci1sb3NpbmctbWFydGluZXotYmx1ZS1qYXlzLWhhcGxlc3Mtc2Vhc29uLXJlYWNoZXMtbmV3LWxvdy1pbi1zd2VlcC1ieS1ndWFyZGlhbnMvc24tYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Global News Toronto",
+            "title": "Calgary water emergency: Welding of new steel pipes to begin Sunday night - Global News Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTgzNDIzL2NhbGdhcnktd2F0ZXItZW1lcmdlbmN5LWNyZXdzLXJlcGFpcnMtc3VuZGF5L9IBVWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTgzNDIzL2NhbGdhcnktd2F0ZXItZW1lcmdlbmN5LWNyZXdzLXJlcGFpcnMtc3VuZGF5L2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:44:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CityNews Vancouver",
+            "title": "Woman found dead on shores of Okanagan Lake: Kelowna RCMP - CityNews Vancouver",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDYvMjMva2Vsb3duYS13b21hbi1kZWFkLW9rYW5hZ2FuLWxha2Uv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:28:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Canada",
+            "title": "Taylor Swift Shocks Fans by Bringing Travis Kelce Onstage at 3rd Wembley Show: Watch Him Carry Her! - Yahoo Canada",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2EueWFob28uY29tL25ld3MvdGF5bG9yLXN3aWZ0LXNob2Nrcy1mYW5zLWJyaW5naW5nLTIwNTIyNTg4NS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:52:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CP24",
+            "title": "Unifor announces strike action against Bombardier - CP24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvdW5pZm9yLWFubm91bmNlcy1zdHJpa2UtYWN0aW9uLWFnYWluc3QtYm9tYmFyZGllci0xLjY5Mzc5ODPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:42:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "InfoQ.com",
+            "title": "Kubernetes 1.30 Released with Contextual Logging, Improved Performance, and Security - InfoQ.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDYva3ViZXJuZXRlcy0xLTMwL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:00:06Z",
+            "content": null
+        }
+    ]
+}

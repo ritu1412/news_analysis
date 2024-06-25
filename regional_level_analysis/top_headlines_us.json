@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI World Desk",
+            "title": "'What are the odds': Space debris crashes into Florida home; here's what the family did next - The Times of India",
+            "description": "US News: Alejandro Otero and his family in Naples, Florida, file an $80,000 lawsuit against Nasa for damages caused by space debris crashing into their home. T",
+            "url": "https://timesofindia.indiatimes.com/world/us/what-are-the-odds-space-debris-crashes-into-florida-home-heres-what-the-family-did-next/articleshow/111217922.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-111219439,width-1070,height-580,imgsize-1680822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-06-24T03:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "More than a dozen killed in synagogue, church attacks in Russia\u2019s Dagestan - Al Jazeera English",
+            "description": "Civilians and a priest among dead as gunmen attack religious buildings in Derbent and a Makhachkala police post.",
+            "url": "https://www.aljazeera.com/news/2024/6/23/synagogue-church-attacks-in-russias-dagestan-kill-police-report",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20240623__34YL3PE__v1__HighRes__RussiaDagestanAttackReligion-1719189681.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2024-06-24T03:02:30Z",
+            "content": "Gunmen have attacked churches, a synagogue and a police post in Russias North Caucasus region of Dagestan, killing at least 15 police and National Guard officers, several civilians and an Orthodox pr\u2026 [+4495 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Izso, Mohammed Tawfeeq",
+            "title": "\u2018Intense phase of war with Hamas about to end,\u2019 focus to shift to Lebanon border, Netanyahu says - CNN",
+            "description": "Israeli Prime Minister Benjamin Netanyahu said Sunday that the \u201cintense phase of the war with Hamas (in Gaza) is about to end,\u201d and that the military\u2019s focus could then shift to Israel\u2019s northern border with Lebanon.",
+            "url": "https://www.cnn.com/2024/06/23/middleeast/intense-phase-hamas-war-end-netanyahu-lebanon-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2156070578.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-24T02:53:00Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu said Sunday that the intense phase of the war with Hamas (in Gaza) is about to end, and that the militarys focus could then shift to Israels northern border \u2026 [+5416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "MLB.com",
+            "title": "Edwin D\u00edaz ejected for sticky stuff violation - MLB.com",
+            "description": null,
+            "url": "https://www.mlb.com/news/edwin-diaz-ejected-for-sticky-stuff-violation",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T02:21:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jennifer Maas",
+            "title": "\u2018House of the Dragon\u2019 Cast on That Heartbreaking Child Funeral, Double Deaths and Missing Book Characters - Variety",
+            "description": "'House of the Dragon' showrunner Ryan Condal explains that funeral scene and the twins showdown.",
+            "url": "https://variety.com/2024/tv/news/house-of-the-dragon-twins-deaths-fight-funeral-1236035742/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/06/olivia-cooke-phia-saban.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-06-24T02:00:00Z",
+            "content": "SPOILER ALERT: This story contains major spoilers from Season 2, Episode 2 of HBO\u2019s \u201cHouse of the Dragon.\u201d\r\nThe fallout from \u201cBlood and Cheese\u201d continues in \u201cHouse of the Dragon.\u201d\r\nEpisode 2 begins w\u2026 [+7283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Timothy Smith",
+            "title": "Nvidia Stock in Spotlight After Drop From Record High - Investopedia",
+            "description": "AI chipmaker Nvidia remains in focus after shares dropped from a record high reached Thursday and news that it will supply Middle Eastern telecommunications giant Ooredoo with its technology. Monitor these important chart levels.",
+            "url": "https://www.investopedia.com/nvidia-stock-in-spotlight-after-drop-from-record-high-8667927",
+            "urlToImage": "https://www.investopedia.com/thmb/gl3B24NHnc7Fj-mPtdeb_Dg0lT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-728c2c909550441cbb7d78311e8a1009.GIF",
+            "publishedAt": "2024-06-24T01:58:00Z",
+            "content": "<ul><li>AI chipmaker Nvidia remains in the spotlight after shares dropped from a record high reached Thursday and news that it will supply Middle Eastern telecommunications giant Ooredoo with its tec\u2026 [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Karishma Pranav Bhavsar",
+            "title": "NASA alert! A 'never-before-detected' Asteroid has 72% chance of hitting Earth on THIS date | Mint - Mint",
+            "description": "NASA's hypothetical exercise revealed a 72% chance of an asteroid hitting Earth. The exercise aimed to assess preparedness for asteroid threats and involved various US agencies.",
+            "url": "https://www.livemint.com/science/news/nasa-alert-a-never-before-detected-asteroid-has-72-chance-of-hitting-earth-on-this-date-11719192430594.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/24/1600x900/Asteroid__1663412281936_1719193483436.jpg",
+            "publishedAt": "2024-06-24T01:55:47Z",
+            "content": "The National Aeronautics of Space Administration (NASA) in its hypothetical exercise found that a never-before-detected asteroid likely have a 72 percent chance of hitting Earth. This observations we\u2026 [+2346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Riley Cardoza",
+            "title": "Ben Affleck ditches ring during lunch with daughter as Jennifer Lopez vacations - Page Six",
+            "description": "The \u201cGone Girl\u201d star co-parents the 18-year-old with his ex-wife, Jennifer Garner, as well as Seraphina, 15, and Samuel, 12.",
+            "url": "https://pagesix.com/2024/06/23/entertainment/ben-affleck-ditches-ring-during-lunch-with-daughter-as-jennifer-lopez-vacations/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/06/ben-jlo-violet.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-24T01:08:00Z",
+            "content": "Ben Affleck ditched his wedding ring during an outing with daughter Violet. ROL/X17online.com\r\nBen Affleck\u2019s wedding ring is \u201cGone, Girl.\u201d\r\nThe actor was spotted without the band while getting lunch \u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Travis Kelce makes on-stage appearance during Taylor Swift's London show - NBC Sports",
+            "description": "Kelce takes part in concert before nearly 90,000 at Wembley.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-makes-on-stage-appearance-during-taylor-swifts-london-show",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7be422e/2147483647/strip/true/crop/7468x4201+0+268/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F95%2Ffe1248234629b3d865ad49b16d25%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2158904096",
+            "publishedAt": "2024-06-24T00:45:47Z",
+            "content": "Its the Summer of Kelce.\r\nWhich followed the Spring of Kelce. Which came right after the Winter of Kelce. Preceded by the Autumn of Kelce.\r\nIts basically been Kelce World for more than a year, both f\u2026 [+615 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mariama Jalloh",
+            "title": "Flooding in northwest Iowa leads to 250 water rescues, hundreds of properties destroyed - ABC News",
+            "description": "Reynolds said over 1,000 residents had to be sheltered overnight.",
+            "url": "https://abcnews.go.com/US/flooding-northwest-iowa-leads-250-water-rescues-hundreds/story?id=111355969",
+            "urlToImage": "https://i.abcnewsfe.com/a/dc384e87-fd2a-4a06-8c02-da73d645aeab/iowa-062324_1719188223076_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-24T00:30:28Z",
+            "content": "Flooding in northwest Iowa, caused by heavy rainfall, has impacted 1,900 properties, leaving hundreds destroyed, Iowa Gov. Kim Reynolds told reporters Sunday.\r\nDuring a media briefing, Reynolds said \u2026 [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Jack Maloney",
+            "title": "Angel Reese leads furious comeback from 15 points down as Sky defeat Caitlin Clark's Fever - CBS Sports",
+            "description": "Reese had her best game as a pro as Sky get first win over Fever this season",
+            "url": "https://www.cbssports.com/wnba/news/angel-reese-leads-furious-comeback-from-15-points-down-as-sky-defeat-caitlin-clarks-fever/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/23/5cfb6df6-df37-4259-a433-7a79eae34db1/thumbnail/1200x675/8c65e165bd7e95f01d00bbd723ce670d/untitled-design-2024-06-23t150736-577.png",
+            "publishedAt": "2024-06-24T00:30:20Z",
+            "content": "CHICAGO -- Another matchup between the Chicago Sky and Indiana Fever, another dramatic finish. This time, it was the Sky who came away victorious, as they completed a 15-point second-half comeback to\u2026 [+5360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTVD-TV"
+            },
+            "author": null,
+            "title": "UPS agrees to sell its freight-brokerage division for less than it paid for the business in 2015 - WTVD-TV",
+            "description": "UPS is selling its freight-brokerage business for less than it paid for the business back in 2015.",
+            "url": "https://abc11.com/post/ups-agrees-sell-freight-brokerage-division-less-paid/14993512/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/6430934_generic-AP-UPS-TN-img.jpg?w=1600",
+            "publishedAt": "2024-06-24T00:23:57Z",
+            "content": "ATLANTA -- United Parcel Service said Sunday it agreed to sell its Coyote Logistics division to RXO for just over $1 billion - less than it paid for the freight-brokerage company in 2015 - to focus m\u2026 [+1137 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "3 Columbia University administrators put on leave over alleged text exchange - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/06/23/columbia-university-administrators-on-leave-text-exchange-00164610",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T00:21:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Henry Bushnell",
+            "title": "Copa Am\u00e9rica: USMNT cruises to businesslike win over Bolivia on goals from Christian Pulisic, Folarin Balogun - Yahoo Sports",
+            "description": "In its first of two pre-tests at the 2024 Copa Am\u00e9rica, the U.S. men\u2019s national team wasted no time.",
+            "url": "https://sports.yahoo.com/live/copa-america-usmnt-cruises-to-businesslike-win-over-bolivia-on-goals-from-christian-pulisic-folarin-balogun-210338370.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DZ9EjIAFBFYMEcosiUUSGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/c19a4f70-31b2-11ef-b6ff-97e27598c360",
+            "publishedAt": "2024-06-24T00:11:00Z",
+            "content": "ARLINGTON, Texas In its first of two pre-tests at the 2024 Copa Am\u00e9rica, the U.S. mens national team wasted no time. It knew that with every passing scoreless minute, fans would grow restless; it kne\u2026 [+5394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Brooke Edwards",
+            "title": "Powerful rocket: The SpaceX Falcon Heavy will launch NOAA satellite - Florida Today",
+            "description": "Here's what to know about the SpaceX Falcon Heavy, which will launch once again from Florida on June 25.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/06/22/spacex-falcon-heavy-booster-launch-noaa-nasa-satellite-cape-canaveral-florida-powerful-thrust-ksc/74155648007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2023/12/29/PBRE/72055797007-crb-122823-spacex-12.jpg?crop=3315,1865,x0,y315&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-06-23T23:41:35Z",
+            "content": "It's time to bring out the big engines. Those on the Space Coast will soon be in for a treat.\r\nNot one, but three Falcon 9 first stage rockets making up the Falcon Heavy are tentatively scheduled to \u2026 [+4886 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ryan McGee",
+            "title": "A Nebraska-sized surplus of tension: Tennessee, Texas A&M and a defining Game 3 on deck - ESPN",
+            "description": "Hardball heat is nothing new for Texas A&M and Tennessee as they will meet one final time for the MCWS title.",
+            "url": "https://www.espn.com/college-sports/story/_/id/40414675/mcws-2024-finals-tennessee-texas-defining-championship-deck",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0623%2Fr1349549_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-06-23T23:41:00Z",
+            "content": "OMAHA, Neb. -- Texas A&amp;M and Tennessee have waited 73 years to finally win a Men's College World Series championship. So, what's another day? A day when this year's series could have ended with a\u2026 [+6434 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Adam Thompson",
+            "title": "Maryland couple dies during extreme heat on Hajj pilgrimage in Saudi Arabia - CBS Baltimore",
+            "description": "A Maryland couple was among the more than 1,300 people who died during extreme heat at the Hajj pilgrimage in the Middle East.",
+            "url": "https://www.cbsnews.com/baltimore/news/maryland-couple-dies-during-extreme-heat-during-hajj-pilgrimage-in-saudi-arabia/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/23/dbfb2e14-a50a-4d41-9c53-b097d9897cd7/thumbnail/1200x630/2548d19867344422b44b04f7958dd72c/hajj.jpg?v=cb1f2643a8816828741cfb3a3fb2d931",
+            "publishedAt": "2024-06-23T23:09:44Z",
+            "content": "BALTIMORE - A Maryland couple was among the more than 1,300 people who died during extreme heat at the Hajj pilgrimage in the Middle East.\r\nU.S. Senate candidate Angela Alsobrooks confirmed in a post\u2026 [+2959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": "Mike Haddad",
+            "title": "Warnings issued for parts of SE New Hampshire - WMUR Manchester",
+            "description": "A tornado warning in effect for parts of New Hampshire has expired, but the same storm has triggered a severe thunderstorm warning for parts of southeastern New Hampshire.",
+            "url": "https://www.wmur.com/article/new-hampshire-severe-weather-62324/61226217",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wmur/WEB_RADAR.jpg?crop=1.00xw:1.00xh;0,0&t=2024-06-24T00:43:00.770497Z&resize=1200:*",
+            "publishedAt": "2024-06-23T23:08:00Z",
+            "content": "MANCHESTER, N.H. \u2014A tornado watch remains in effect for parts of New Hampshire after multiple storms triggered several severe thunderstorm and tornado warnings on Sunday.\r\nThe tornado watch is now in\u2026 [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "ONTARIA WOODS",
+            "title": "Trump rips Biden\u2019s debate prep strategy - CNN",
+            "description": "Donald Trump took aim at President Joe Biden\u2019s debate preparation strategy during a rally in Philadelphia, Pennsylvania Saturday. CNN\u2019s Steve Contorno reports",
+            "url": "https://www.cnn.com/2024/06/23/politics/video/donald-trump-philadelphia-rally-debate-talks-contorno-ctm-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24174840516768.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-23T22:52:00Z",
+            "content": "Donald Trump took aim at President Joe Biden's debate preparation strategy during a rally in Philadelphia, Pennsylvania Saturday. CNN's Steve Contorno reports"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Pamela McClintock",
+            "title": "Box Office: \u2018Inside Out 2\u2019 Soars to Record $100M Second Weekend in U.S., Hits $724M Globally - Hollywood Reporter",
+            "description": "The Pixar sequel boasts the biggest sophomore outing of all time for an animated film and the seventh-biggest of any film behind just behemoths as the 'Star Wars' and 'Avengers' series. It even beat 'Barbie.'",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-soars-to-record-100m-weekend-1235930446/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/INSIDE-OUT-2-ONLINE-USE-pubstill.pub16-copy.jpg?w=1024",
+            "publishedAt": "2024-06-23T22:50:11Z",
+            "content": "Joyful? Ecstatic? Elated? Take your pick.\r\nPixar\u2019s Inside Out 2 is on fire at the global box office, where it grossed a record-shattering $100 million domestically and $164.4 million overseas in its \u2026 [+4074 chars]"
+        }
+    ]
+}

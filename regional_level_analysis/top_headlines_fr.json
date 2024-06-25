@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Monde",
+            "title": "Emmanuel Macron exclut de d\u00e9missionner, quel que soit le r\u00e9sultat des \u00e9lections l\u00e9gislatives - Le Monde",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5sZW1vbmRlLmZyL3BvbGl0aXF1ZS9hcnRpY2xlLzIwMjQvMDYvMjQvZW1tYW51ZWwtbWFjcm9uLWV4Y2x1dC1kZS1kZW1pc3Npb25uZXItcXVlbC1xdWUtc29pdC1sZS1yZXN1bHRhdC1kZXMtZWxlY3Rpb25zLWxlZ2lzbGF0aXZlc182MjQzMDU0XzgyMzQ0OC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:30:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNEWS",
+            "title": "Russie: des hommes ouvrent le feu contre une voiture de police, une synagogue et des \u00e9glises et tuent sept personnes - CNEWS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNuZXdzLmZyL21vbmRlLzIwMjQtMDYtMjMvcnVzc2llLWRlcy1ob21tZXMtb3V2cmVudC1sZS1mZXUtY29udHJlLXVuZS12b2l0dXJlLWRlLXBvbGljZS11bmUtc3luYWdvZ3VlLWV0LWRlc9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T23:32:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sports.fr",
+            "title": "Euro 2024: Le points sur les qualifi\u00e9s pour les huiti\u00e8mes - Sports.fr",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNwb3J0cy5mci9mb290YmFsbC9ldXJvLTIwMjQvZXVyby0yMDI0LWxlLXBvaW50cy1zdXItbGVzLXF1YWxpZmllcy1wb3VyLWxlcy1odWl0aWVtZXMtODQyMDM5Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RFI",
+            "title": "\u00c9tats-Unis: deux ans apr\u00e8s, l'abrogation du droit \u00e0 l'IVG ne fait plus consensus chez les R\u00e9publicains - RFI",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5yZmkuZnIvZnIvYW0lQzMlQTlyaXF1ZXMvMjAyNDA2MjMtJUMzJUE5dGF0cy11bmlzLWRldXgtYW5zLWFwciVDMyVBOHMtbC1hYnJvZ2F0aW9uLWR1LWRyb2l0LSVDMyVBMC1sLWl2Zy1uZS1mYWl0LXBsdXMtY29uc2Vuc3VzLWNoZXotbGVzLXIlQzMlQTlwdWJsaWNhaW5z0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:34:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Figaro",
+            "title": "Hauts-de-Seine : un jeune homme gri\u00e8vement bless\u00e9 dans une chute apr\u00e8s un refus d'obtemp\u00e9rer - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9mYWl0cy1kaXZlcnMvaGF1dHMtZGUtc2VpbmUtdW4tamV1bmUtaG9tbWUtZ3JpZXZlbWVudC1ibGVzc2UtZGFucy11bmUtY2h1dGUtYXByZXMtdW4tcmVmdXMtZC1vYnRlbXBlcmVyLTIwMjQwNjIz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:06:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Figaro",
+            "title": "Euro 2024 : l'Allemagne garde la t\u00eate in extremis, la Hongrie attend un miracle - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9zcG9ydHMvZm9vdGJhbGwvZXVyby9ldXJvLTIwMjQtbC1hbGxlbWFnbmUtZ2FyZGUtbGEtdGV0ZS1pbi1leHRyZW1pcy1sLWVjb3NzZS1hdHRlbmQtdW4tbWlyYWNsZS0yMDI0MDYyM9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T21:00:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNEWS",
+            "title": "L'Arabie saoudite annonce 1.301 morts pendant le hajj, la plupart seraient des p\u00e8lerins non autoris\u00e9s - CNEWS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNuZXdzLmZyL21vbmRlLzIwMjQtMDYtMjMvbGFyYWJpZS1zYW91ZGl0ZS1hbm5vbmNlLTEzMDEtbW9ydHMtcGVuZGFudC1sZS1oYWpqLWxhLXBsdXBhcnQtc2VyYWllbnQtZGVz0gF1aHR0cHM6Ly93d3cuY25ld3MuZnIvbW9uZGUvMjAyNC0wNi0yMy9sYXJhYmllLXNhb3VkaXRlLWFubm9uY2UtMTMwMS1tb3J0cy1wZW5kYW50LWxlLWhhamotbGEtcGx1cGFydC1zZXJhaWVudC1kZXM_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T20:35:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Outre-mer la 1\u00e8re",
+            "title": "Violences en Nouvelle-Cal\u00e9donie. Un homme bless\u00e9 par balle, de nombreux \u00e9tablissements scolaires ferm\u00e9s ce lundi - Nouvelle-Cal\u00e9donie la 1\u00e8re - Outre-mer la 1\u00e8re",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirAFodHRwczovL2xhMWVyZS5mcmFuY2V0dmluZm8uZnIvbm91dmVsbGVjYWxlZG9uaWUvdmlvbGVuY2VzLWVuLW5vdXZlbGxlLWNhbGVkb25pZS11bi1ob21tZS1ibGVzc2UtcGFyLWJhbGxlLWRlLW5vbWJyZXV4LWV0YWJsaXNzZW1lbnRzLXNjb2xhaXJlcy1mZXJtZXMtY2UtbHVuZGktMTQ5OTQ4OS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:58:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Lib\u00e9ration",
+            "title": "Ce que l'on sait sur l'attaque d'une femme de 37 ans par des loups au zoo de Thoiry - Lib\u00e9ration",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvcG9saWNlLWp1c3RpY2UvdW5lLWZlbW1lLWRlLTM3LWFucy1ncmlldmVtZW50LWJsZXNzZWUtcGFyLWRlcy1sb3Vwcy1hdS16b28tZGUtdGhvaXJ5LTIwMjQwNjIzX1AzUDRFUFlSSVJINzNJQjdBRVkzVFFWMjRRL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:48:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Parisien",
+            "title": "Le p\u00e8re Preynat, ex-pr\u00eatre condamn\u00e9 pour agressions sexuelles sur mineurs, est mort - Le Parisien",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5sZXBhcmlzaWVuLmZyL2ZhaXRzLWRpdmVycy9sZS1wZXJlLXByZXluYXQtY29uZGFtbmUtcG91ci1hZ3Jlc3Npb25zLXNleHVlbGxlcy1zdXItbWluZXVycy1lc3QtbW9ydC0yMy0wNi0yMDI0LUlWRFZGVFRUUzVFWjNJTkFWREdFU09LSklVLnBocNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RFI",
+            "title": "L\u00e9gislatives en France: la gauche tente d'\u00e9carter l'insoumis M\u00e9lenchon, \u00e9pouvantail de Renaissance et du RN - RFI",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5yZmkuZnIvZnIvZnJhbmNlLzIwMjQwNjIzLWwlQzMlQTlnaXNsYXRpdmVzLWVuLWZyYW5jZS1sYS1nYXVjaGUtdGVudGUtZC0lQzMlQTljYXJ0ZXItbC1pbnNvdW1pcy1tJUMzJUE5bGVuY2hvbi0lQzMlQTlwb3V2YW50YWlsLWRlLXJlbmFpc3NhbmNlLWV0LWR1LXJu0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:15:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "franceinfo",
+            "title": "Guerre entre Isra\u00ebl et le Hamas : les combats \"intenses\" \u00e0 Rafah sont \"sur le point de se terminer\", assure le Premier ministre Benyamin N\u00e9tanyahou - franceinfo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi2gFodHRwczovL3d3dy5mcmFuY2V0dmluZm8uZnIvbW9uZGUvcHJvY2hlLW9yaWVudC9pc3JhZWwtcGFsZXN0aW5lL2d1ZXJyZS1lbnRyZS1pc3JhZWwtZXQtbGUtaGFtYXMtbGVzLWNvbWJhdHMtaW50ZW5zZXMtYS1yYWZhaC1zb250LXN1ci1sZS1wb2ludC1kZS1zZS10ZXJtaW5lci1hc3N1cmUtbGUtcHJlbWllci1taW5pc3RyZS1iZW55YW1pbi1uZXRhbnlhaG91XzY2MjE4MzcuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T19:06:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Figaro",
+            "title": "\u00c0 la recherche de capacit\u00e9s d'IA, Apple a discut\u00e9 avec son rival Facebook - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL3NlY3RldXIvaGlnaC10ZWNoL2EtbGEtcmVjaGVyY2hlLWRlLWNhcGFjaXRlcy1kLWlhLWFwcGxlLWEtZGlzY3V0ZS1hdmVjLXNvbi1yaXZhbC1mYWNlYm9vay0yMDI0MDYyM9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T18:32:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RFI",
+            "title": "Liban: le Hezbollah hausse le ton avec de puissantes attaques contre des cibles isra\u00e9liennes \u00e9loign\u00e9es - RFI",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5yZmkuZnIvZnIvbW95ZW4tb3JpZW50LzIwMjQwNjIzLWxpYmFuLWxlLWhlemJvbGxhaC1oYXVzc2UtbGUtdG9uLWF2ZWMtZGUtcHVpc3NhbnRlcy1hdHRhcXVlcy1jb250cmUtZGVzLWNpYmxlcy1pc3JhJUMzJUE5bGllbm5lcy0lQzMlQTlsb2lnbiVDMyVBOWVz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T18:24:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Ouest-France",
+            "title": "VID\u00c9O. A Saint-Nazaire, l'\u00ab Utopia of the seas \u00bb a quitt\u00e9 son port d'origine - Ouest-France",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9zYWludC1uYXphaXJlLTQ0NjAwL3ZpZGVvLWEtc2FpbnQtbmF6YWlyZS1sLXV0b3BpYS1vZi10aGUtc2Vhcy1hLXF1aXR0ZS1zb24tcG9ydC1kb3JpZ2luZS01MmU0NjhhNS1lMGUyLTRmMzEtYTM4Mi0zMDZiOWRjMTczOWLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T17:48:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TF1 INFO",
+            "title": "EN DIRECT - Ukraine : pour Moscou, Washington a une \"responsabilit\u00e9\" dans l'attaque meurtri\u00e8re de Kiev en Crim\u00e9e - TF1 INFO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50ZjFpbmZvLmZyL2ludGVybmF0aW9uYWwvZW4tZGlyZWN0LWd1ZXJyZS1lbi11a3JhaW5lLWxhLXJ1c3NpZS1wb3Vyc3VpdC1zZXMtZnJhcHBlcy1jb250cmUtbGUtcmVzZWF1LWVuZXJnZXRpcXVlLTIzMDUzMTAuaHRtbNIBjQFodHRwczovL3d3dy50ZjFpbmZvLmZyL2FtcC9pbnRlcm5hdGlvbmFsL2VuLWRpcmVjdC1ndWVycmUtZW4tdWtyYWluZS1sYS1ydXNzaWUtcG91cnN1aXQtc2VzLWZyYXBwZXMtY29udHJlLWxlLXJlc2VhdS1lbmVyZ2V0aXF1ZS0yMzA1MzEwLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T17:26:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RMC Sport",
+            "title": "Euro 2024: \"Un cavalier qui surgit\", Griezmann chambre Mbapp\u00e9 et son nouveau masque avec la chanson de... - RMC Sport",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3JtY3Nwb3J0LmJmbXR2LmNvbS9mb290YmFsbC9ldXJvL2V1cm8tMjAyNC11bi1jYXZhbGllci1xdWktc3VyZ2l0LWdyaWV6bWFubi1jaGFtYnJlLW1iYXBwZS1ldC1zb24tbm91dmVhdS1tYXNxdWUtYXZlYy1sYS1jaGFuc29uLWRlLXpvcnJvX0FWLTIwMjQwNjIzMDM1MC5odG1s0gGqAWh0dHBzOi8vcm1jc3BvcnQuYmZtdHYuY29tL2FtcC9mb290YmFsbC9ldXJvL2V1cm8tMjAyNC11bi1jYXZhbGllci1xdWktc3VyZ2l0LWdyaWV6bWFubi1jaGFtYnJlLW1iYXBwZS1ldC1zb24tbm91dmVhdS1tYXNxdWUtYXZlYy1sYS1jaGFuc29uLWRlLXpvcnJvX0FWLTIwMjQwNjIzMDM1MC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T17:03:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Monde",
+            "title": "Sur la base de lancement de Xichang, l'ambition sans limite de la Chine dans la course \u00e0 l'espace - Le Monde",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5sZW1vbmRlLmZyL3NjaWVuY2VzL2FydGljbGUvMjAyNC8wNi8yMy9zdXItbGEtYmFzZS1kZS1sYW5jZW1lbnQtZGUteGljaGFuZy1sLWFtYml0aW9uLXNhbnMtbGltaXRlLWRlLWxhLWNoaW5lLWRhbnMtbGEtY291cnNlLWEtbC1lc3BhY2VfNjI0Mjk2Ml8xNjUwNjg0Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T17:00:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mediapart",
+            "title": "Au Havre, du rap et des punchlines contre l'extr\u00eame droite - Mediapart",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1lZGlhcGFydC5mci9qb3VybmFsL3BvbGl0aXF1ZS8yMzA2MjQvYXUtaGF2cmUtZHUtcmFwLWV0LWRlcy1wdW5jaGxpbmVzLWNvbnRyZS1sLWV4dHJlbWUtZHJvaXRl0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T16:39:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Closer France",
+            "title": "\u201cMa m\u00e8re en avait un peu assez\u201d : Thomas Dutronc en plein deuil, cet hommage qui le fait rire - Closer France",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jbG9zZXJtYWcuZnIvcGVvcGxlL21hLW1lcmUtZW4tYXZhaXQtdW4tcGV1LWFzc2V6LXRob21hcy1kdXRyb25jLWVuLXBsZWluLWRldWlsLWNldC1ob21tYWdlLXF1aS1sZS1mYWl0LXJpcmUtMzQ1MDE4MNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-23T16:31:29Z",
+            "content": null
+        }
+    ]
+}
