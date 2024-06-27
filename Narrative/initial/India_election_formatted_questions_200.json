@@ -1,0 +1,302 @@
+{
+    "Q1": {
+        "question": "Who is the main agent in the narrative?",
+        "choices": {
+            "A": "US President Joe Biden",
+            "B": "Indian Prime Minister Narendra Modi",
+            "C": "Rahul Gandhi",
+            "D": "Chandrababu Naidu",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What was the primary action taken?",
+        "choices": {
+            "A": "Congratulating the election winners",
+            "B": "Forming a coalition government",
+            "C": "Launching new airline routes",
+            "D": "Conducting bilateral talks",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Where did the significant events take place?",
+        "choices": {
+            "A": "New Delhi",
+            "B": "Uttar Pradesh",
+            "C": "Andhra Pradesh",
+            "D": "West Bengal",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What was the main purpose of the actions described?",
+        "choices": {
+            "A": "Strengthening international relations",
+            "B": "Securing a majority in the elections",
+            "C": "Enhancing economic development",
+            "D": "Addressing environmental issues",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Who were the key allies mentioned in the narratives?",
+        "choices": {
+            "A": "Nitish Kumar and Chandrababu Naidu",
+            "B": "Joe Biden and Rishi Sunak",
+            "C": "Mamata Banerjee and Akhilesh Yadav",
+            "D": "Narendra Modi and Amit Shah",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What was the main outcome of the events?",
+        "choices": {
+            "A": "Formation of a coalition government",
+            "B": "Expansion of airline operations",
+            "C": "Strengthening of bilateral ties",
+            "D": "Significant electoral gains for opposition",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What was the primary setting for the political maneuvers?",
+        "choices": {
+            "A": "Lok Sabha elections",
+            "B": "CAPA India Aviation Summit",
+            "C": "World Environment Day event",
+            "D": "Bilateral talks in Sri Lanka",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What was the main conflict or challenge highlighted?",
+        "choices": {
+            "A": "Securing a majority in the elections",
+            "B": "Addressing environmental concerns",
+            "C": "Enhancing trade relations",
+            "D": "Managing coalition dynamics",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "Who were the main recipients of congratulatory messages?",
+        "choices": {
+            "A": "Narendra Modi and the NDA",
+            "B": "Rahul Gandhi and the Congress",
+            "C": "Chandrababu Naidu and the TDP",
+            "D": "Mamata Banerjee and the TMC",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What was the main strategy employed by political leaders?",
+        "choices": {
+            "A": "Forming alliances and coalitions",
+            "B": "Launching new economic initiatives",
+            "C": "Conducting international diplomacy",
+            "D": "Addressing voter concerns directly",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "What was the main scene of the electoral outcomes?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Andhra Pradesh",
+            "C": "West Bengal",
+            "D": "Bihar",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What was the primary motive behind the actions of political leaders?",
+        "choices": {
+            "A": "Securing electoral victory",
+            "B": "Enhancing international relations",
+            "C": "Addressing economic challenges",
+            "D": "Promoting environmental sustainability",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "Who were the main opponents in the electoral narratives?",
+        "choices": {
+            "A": "BJP and the INDIA alliance",
+            "B": "TMC and the Congress",
+            "C": "NDA and the Samajwadi Party",
+            "D": "BJP and the Bahujan Samaj Party",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What was the main result of the coalition efforts?",
+        "choices": {
+            "A": "Formation of a new government",
+            "B": "Expansion of airline routes",
+            "C": "Strengthening of bilateral ties",
+            "D": "Addressing environmental issues",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "What was the primary focus of international leaders' messages?",
+        "choices": {
+            "A": "Congratulating election winners",
+            "B": "Enhancing trade relations",
+            "C": "Addressing global security concerns",
+            "D": "Promoting environmental sustainability",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "What was the main scene of the political activities?",
+        "choices": {
+            "A": "New Delhi",
+            "B": "Uttar Pradesh",
+            "C": "Andhra Pradesh",
+            "D": "West Bengal",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "What was the primary goal of the opposition alliance?",
+        "choices": {
+            "A": "Securing a majority in the elections",
+            "B": "Enhancing economic development",
+            "C": "Strengthening international relations",
+            "D": "Addressing environmental issues",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "Who were the main figures in the coalition government formation?",
+        "choices": {
+            "A": "Nitish Kumar and Chandrababu Naidu",
+            "B": "Joe Biden and Rishi Sunak",
+            "C": "Mamata Banerjee and Akhilesh Yadav",
+            "D": "Narendra Modi and Amit Shah",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "What was the main challenge faced by the ruling party?",
+        "choices": {
+            "A": "Securing a majority in the elections",
+            "B": "Addressing economic challenges",
+            "C": "Enhancing international relations",
+            "D": "Managing coalition dynamics",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What was the primary action taken by international leaders?",
+        "choices": {
+            "A": "Congratulating election winners",
+            "B": "Launching new economic initiatives",
+            "C": "Conducting international diplomacy",
+            "D": "Addressing environmental concerns",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "What was the primary action taken by the BJP in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The BJP secured a significant victory in the Unnao constituency with Swami Sachchidanand Hari Sakshi winning by a margin of 35,818 votes.",
+            "B": "The BJP-led NDA coalition won 292 seats, surpassing the 272-seat threshold needed to form a government.",
+            "C": "The BJP's Rae Bareli candidate, Dinesh Pratap Singh, announced he would take partial leave on weekends to attend to family responsibilities.",
+            "D": "The BJP faced a significant setback in Uttar Pradesh, losing ground to the opposition INDIA alliance.",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "Who were the key agents involved in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Swami Sachchidanand Hari Sakshi, Dinesh Pratap Singh, and Sanjana Jatav.",
+            "B": "Prime Minister Narendra Modi, Congress President Mallikarjun Kharge, and Bihar Chief Minister Nitish Kumar.",
+            "C": "Mamata Banerjee, Tejashwi Yadav, and Chandrababu Naidu.",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "What was the primary scene of the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The Unnao constituency in Uttar Pradesh.",
+            "B": "The entire country of India, with specific focus on states like Uttar Pradesh, West Bengal, and Bihar.",
+            "C": "The Rae Bareli constituency.",
+            "D": "The Rohtak constituency in Haryana.",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "What was the main purpose behind the actions taken by the political parties in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "To secure a majority in the Lok Sabha and form the government.",
+            "B": "To address local issues and responsibilities, as seen with Dinesh Pratap Singh's announcement.",
+            "C": "To increase women's representation in the Lok Sabha, as championed by Mamata Banerjee.",
+            "D": "To challenge the BJP's dominance and present a strong opposition, as demonstrated by the INDIA alliance.",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "What was the primary means through which the political parties aimed to achieve their goals in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "By forming alliances and coalitions, such as the NDA and INDIA alliances.",
+            "B": "By fielding strong candidates in key constituencies.",
+            "C": "By addressing local and national issues to gain voter support.",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections for the BJP?",
+        "choices": {
+            "A": "The BJP secured a majority on its own, winning over 300 seats.",
+            "B": "The BJP fell short of a majority but the NDA coalition secured enough seats to form the government.",
+            "C": "The BJP lost significant ground in key states like Uttar Pradesh and West Bengal.",
+            "D": "Both B and C",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "What was the reaction of international leaders to the 2024 Lok Sabha election results?",
+        "choices": {
+            "A": "Many international leaders congratulated Prime Minister Narendra Modi on his victory.",
+            "B": "Some international media highlighted the challenges Modi might face due to the reduced majority.",
+            "C": "Neighboring countries expressed concerns over the implications of the election results.",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "What was a significant challenge faced by the BJP in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The BJP's overconfidence and failure to gauge ground realities in states like Uttar Pradesh.",
+            "B": "The need to rely on coalition partners to form a government.",
+            "C": "The strong performance of the opposition INDIA alliance.",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "What was a notable achievement for the opposition INDIA alliance in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The INDIA alliance won 234 seats, posing a strong challenge to the BJP-led NDA.",
+            "B": "Sanjana Jatav, a 25-year-old Congress candidate, became the youngest Member of Parliament in India.",
+            "C": "The INDIA alliance's performance in states like West Bengal and Uttar Pradesh.",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "What was a key strategy used by the BJP to secure votes in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Fielding candidates from other parties, such as Samajwadi Party defectors.",
+            "B": "Emphasizing local issues and responsibilities, as seen with Dinesh Pratap Singh.",
+            "C": "Forming alliances with regional parties like the TDP and JD(U).",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    }
+}

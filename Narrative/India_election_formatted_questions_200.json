@@ -1,0 +1,412 @@
+{
+    "Q1": {
+        "question": "Who expressed optimism about forming a government despite the BJP falling short of a majority in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Tejashwi Yadav",
+            "B": "Narendra Modi",
+            "C": "Rahul Gandhi",
+            "D": "Mamata Banerjee",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What was a significant factor in the BJP's inability to secure a clear majority in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Effective opposition campaign",
+            "B": "Economic downturn",
+            "C": "Natural disasters",
+            "D": "International sanctions",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Where did the BJP face significant losses in the 2024 Lok Sabha elections, particularly affecting their overall seat count?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Gujarat",
+            "C": "Punjab",
+            "D": "Kerala",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "When did the counting of votes for the 2024 Lok Sabha elections conclude?",
+        "choices": {
+            "A": "June 1, 2024",
+            "B": "June 4, 2024",
+            "C": "May 30, 2024",
+            "D": "June 8, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Why did the BJP need to rely on coalition partners to form the government in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "They did not achieve a simple majority",
+            "B": "They faced international pressure",
+            "C": "They had internal party conflicts",
+            "D": "They lost key allies",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "How did the opposition INDIA alliance perform in the 2024 Lok Sabha elections compared to previous elections?",
+        "choices": {
+            "A": "They gained significant strength",
+            "B": "They lost more seats",
+            "C": "They maintained the same number of seats",
+            "D": "They boycotted the elections",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "Who congratulated Prime Minister Narendra Modi on his victory in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Vladimir Putin",
+            "B": "Joe Biden",
+            "C": "Emmanuel Macron",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What was a key issue that the opposition INDIA alliance capitalized on during the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Anti-incumbency sentiment",
+            "B": "Foreign policy",
+            "C": "Environmental issues",
+            "D": "Technological advancements",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "Where did the BJP experience a significant decline in performance in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Scheduled Castes reserved seats in Uttar Pradesh",
+            "B": "Urban constituencies in Maharashtra",
+            "C": "Rural areas in Punjab",
+            "D": "Coastal regions in Kerala",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "When is Prime Minister Narendra Modi expected to take the oath for his third term following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "June 8, 2024",
+            "B": "June 5, 2024",
+            "C": "June 10, 2024",
+            "D": "June 12, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "Why did the stock market experience a significant crash following the 2024 Lok Sabha election results?",
+        "choices": {
+            "A": "BJP failed to secure a clear majority",
+            "B": "Natural disasters",
+            "C": "International sanctions",
+            "D": "Technological failures",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "How did the INDIA alliance plan to form a government despite falling short of a majority in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "By seeking support from NDA partners and independents",
+            "B": "By calling for re-elections",
+            "C": "By forming a new political party",
+            "D": "By merging with the BJP",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "Who was a key figure in the INDIA alliance's strategy to gain additional support to form a government in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Nitish Kumar",
+            "B": "Amit Shah",
+            "C": "Arvind Kejriwal",
+            "D": "Mamata Banerjee",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What was a major challenge for Prime Minister Narendra Modi in his third term following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Maintaining coalition unity",
+            "B": "International trade agreements",
+            "C": "Technological advancements",
+            "D": "Environmental policies",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "Where did the opposition INDIA alliance see a significant increase in their seat count in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "West Bengal",
+            "B": "Gujarat",
+            "C": "Punjab",
+            "D": "Kerala",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "When did the Election Commission of India announce the results for the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "June 4, 2024",
+            "B": "May 30, 2024",
+            "C": "June 1, 2024",
+            "D": "June 8, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "Why did the opposition INDIA alliance perform better than expected in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Effective campaign strategies",
+            "B": "Technological advancements",
+            "C": "International support",
+            "D": "Economic policies",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "How did the BJP's seat count in the 2024 Lok Sabha elections compare to their performance in 2019?",
+        "choices": {
+            "A": "It decreased significantly",
+            "B": "It increased significantly",
+            "C": "It remained the same",
+            "D": "It fluctuated throughout the election",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "Who played a crucial role in the BJP's coalition management following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Nitish Kumar and Chandrababu Naidu",
+            "B": "Rahul Gandhi and Mamata Banerjee",
+            "C": "Arvind Kejriwal and Akhilesh Yadav",
+            "D": "Tejashwi Yadav and Sharad Pawar",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What was a significant outcome of the 2024 Lok Sabha elections for the Congress party?",
+        "choices": {
+            "A": "They increased their seat count to 99",
+            "B": "They lost all their seats",
+            "C": "They formed a new coalition",
+            "D": "They boycotted the elections",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "Who congratulated Prime Minister Narendra Modi on his third consecutive term following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "US President Joe Biden",
+            "B": "Russian President Vladimir Putin",
+            "C": "French President Emmanuel Macron",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "What was the primary reason for the BJP's poor performance in Rajasthan during the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Boycott by major castes such as Jats, Rajputs, Meenas, and Gurjars",
+            "B": "Overconfidence and lack of experienced leadership",
+            "C": "Internal conflicts and controversial remarks by party leaders",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "Where did the Samajwadi Party (SP) show a strong performance in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "West Bengal",
+            "D": "Bihar",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "When did the 2024 Lok Sabha elections take place?",
+        "choices": {
+            "A": "April 19 to June 1",
+            "B": "March 15 to May 10",
+            "C": "May 1 to June 15",
+            "D": "April 1 to May 30",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "Why did the BJP need coalition support to form the government after the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The BJP won 240 seats, falling short of the 272-seat majority mark",
+            "B": "The BJP lost significant ground in key states like Uttar Pradesh and Bihar",
+            "C": "The INDIA alliance posed strong competition",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "How did the international media react to the 2024 Lok Sabha election results?",
+        "choices": {
+            "A": "Highlighted Modi's need for coalition support",
+            "B": "Emphasized the opposition's gains",
+            "C": "Questioned Modi's ability to push economic reforms",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "Who emerged victorious in the Shrawasti constituency in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "BJP's candidate",
+            "B": "Congress's candidate",
+            "C": "SP's Ram Shiromani Verma",
+            "D": "BSP's candidate",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "What significant political shift occurred in Andhra Pradesh during the 2024 elections?",
+        "choices": {
+            "A": "N Chandrababu Naidu secured 135 out of 175 Assembly seats",
+            "B": "The BJP won a majority in the state",
+            "C": "The Congress party gained significant ground",
+            "D": "The INDIA alliance dominated the elections",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "Where did the TMC increase its vote share in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "West Bengal",
+            "D": "Bihar",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "When did the Election Commission of India announce the 2024 Lok Sabha election results?",
+        "choices": {
+            "A": "June 1",
+            "B": "June 4",
+            "C": "June 5",
+            "D": "June 6",
+            "E": "None of the above"
+        }
+    },
+    "Q31": {
+        "question": "Why did the INDIA bloc decide to sit in opposition despite winning 234 seats in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "They did not have enough seats to form a government",
+            "B": "They wanted to focus on opposing BJP's rule",
+            "C": "They believed it was a moral defeat for the BJP",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q32": {
+        "question": "How did the BJP perform in the 2024 Lok Sabha elections in Maharashtra?",
+        "choices": {
+            "A": "Won 9 out of 48 seats",
+            "B": "Secured a majority in the state",
+            "C": "Lost all seats to the INDIA alliance",
+            "D": "Dominated the elections with a landslide victory",
+            "E": "None of the above"
+        }
+    },
+    "Q33": {
+        "question": "Who led the strategic meeting of the INDIA bloc held in New Delhi on June 5?",
+        "choices": {
+            "A": "Prime Minister Narendra Modi",
+            "B": "Congress President Mallikarjun Kharge",
+            "C": "BJP President JP Nadda",
+            "D": "TMC leader Mamata Banerjee",
+            "E": "None of the above"
+        }
+    },
+    "Q34": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections for the BJP in Uttar Pradesh?",
+        "choices": {
+            "A": "BJP won 37 seats",
+            "B": "BJP lost significant ground to the INDIA alliance",
+            "C": "BJP's strategy failed against the opposition's social coalition",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q35": {
+        "question": "Where did the BJP face significant losses in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "Rajasthan",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q36": {
+        "question": "When did Prime Minister Narendra Modi receive congratulatory messages from several world leaders following his re-election?",
+        "choices": {
+            "A": "Immediately after the election results were announced",
+            "B": "During the election campaign",
+            "C": "Before the elections",
+            "D": "After forming the government",
+            "E": "None of the above"
+        }
+    },
+    "Q37": {
+        "question": "Why did the BJP's performance in the 2024 Lok Sabha elections surprise many political analysts?",
+        "choices": {
+            "A": "The BJP did not secure a majority on its own",
+            "B": "The opposition INDIA alliance performed better than expected",
+            "C": "The BJP needed coalition support to form the government",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q38": {
+        "question": "How did the Samajwadi Party (SP) perform in the 2024 Lok Sabha elections in Uttar Pradesh?",
+        "choices": {
+            "A": "Leading in 37 out of 44 seats for the INDIA alliance",
+            "B": "Lost all seats to the BJP",
+            "C": "Secured a majority in the state",
+            "D": "Dominated the elections with a landslide victory",
+            "E": "None of the above"
+        }
+    },
+    "Q39": {
+        "question": "Who won the high-profile Amethi seat in the 2024 UP Lok Sabha elections?",
+        "choices": {
+            "A": "BJP's Smriti Irani",
+            "B": "Congress's Rahul Gandhi",
+            "C": "Congress's Kishori Lal Sharma",
+            "D": "SP's Akhilesh Yadav",
+            "E": "None of the above"
+        }
+    },
+    "Q40": {
+        "question": "What was the significant outcome of the 2024 Lok Sabha elections for the INDIA alliance?",
+        "choices": {
+            "A": "Secured 234 seats",
+            "B": "Decided to sit in opposition",
+            "C": "Criticized BJP and Prime Minister Narendra Modi",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q41": {
+        "question": "What is the tone of the article?",
+        "choices": {
+            "A": "Neutral",
+            "B": "Optimistic",
+            "C": "Pessimistic",
+            "D": "Informative",
+            "E": "None of the above"
+        }
+    }
+}
