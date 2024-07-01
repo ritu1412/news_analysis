@@ -1,0 +1,1002 @@
+{
+    "Q1": {
+        "question": "Who was re-elected as the leader of the National Democratic Alliance (NDA) for a third consecutive term?",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Mallikarjun Kharge",
+            "C": "Amit Shah",
+            "D": "JP Nadda",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections for the BJP?",
+        "choices": {
+            "A": "The BJP won a majority on its own.",
+            "B": "The BJP fell short of a majority and required coalition support.",
+            "C": "The BJP did not participate in the elections.",
+            "D": "The BJP won exactly 272 seats.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Where did the key meeting of the NDA take place to re-elect Narendra Modi as their leader?",
+        "choices": {
+            "A": "Mumbai",
+            "B": "Kolkata",
+            "C": "Delhi",
+            "D": "Chennai",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "When is Prime Minister Narendra Modi expected to take his oath for the third term?",
+        "choices": {
+            "A": "June 5",
+            "B": "June 7",
+            "C": "June 8",
+            "D": "June 10",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Why did the BJP need coalition support to form the government after the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "The BJP won fewer than 272 seats.",
+            "B": "The BJP decided to form a coalition for strategic reasons.",
+            "C": "The BJP wanted to include more regional parties in the government.",
+            "D": "The BJP lost significant support in key states.",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "How did international leaders respond to Narendra Modi's victory in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "They condemned the election results.",
+            "B": "They congratulated Modi and expressed hopes for stronger bilateral ties.",
+            "C": "They remained neutral and did not comment.",
+            "D": "They criticized Modi's leadership.",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "Who among the following leaders did not attend the NDA meeting at Modi's residence in Delhi?",
+        "choices": {
+            "A": "JP Nadda",
+            "B": "Amit Shah",
+            "C": "Rajnath Singh",
+            "D": "Mallikarjun Kharge",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What significant international position is India pushing for under Modi's leadership?",
+        "choices": {
+            "A": "Permanent seat on the UN Security Council",
+            "B": "Membership in the European Union",
+            "C": "Leadership of the G20",
+            "D": "Presidency of the World Bank",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "Where did the INDIA bloc, led by Congress chief Mallikarjun Kharge, meet to express their commitment to constitutional values?",
+        "choices": {
+            "A": "Mumbai",
+            "B": "Delhi",
+            "C": "Bangalore",
+            "D": "Hyderabad",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "When did President Droupadi Murmu dissolve the 17th Lok Sabha?",
+        "choices": {
+            "A": "Immediately after the election results",
+            "B": "After the NDA meeting",
+            "C": "Before the election results",
+            "D": "During the election campaign",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "Why did the NDA need to rely on allies to form the government after the 2024 elections?",
+        "choices": {
+            "A": "The BJP won fewer than 272 seats.",
+            "B": "The NDA wanted to include more regional parties.",
+            "C": "The NDA lost significant support in key states.",
+            "D": "The NDA decided to form a coalition for strategic reasons.",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "How did the BJP's seat count in the 2024 Lok Sabha elections compare to its previous tally in 2019?",
+        "choices": {
+            "A": "The BJP won more seats in 2024.",
+            "B": "The BJP won fewer seats in 2024.",
+            "C": "The BJP won the same number of seats in both elections.",
+            "D": "The BJP did not participate in the 2019 elections.",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "Who congratulated Narendra Modi on his victory from the United States?",
+        "choices": {
+            "A": "Kamala Harris",
+            "B": "Antony Blinken",
+            "C": "Joe Biden",
+            "D": "Donald Trump",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What was the main reason for the BJP's reliance on coalition support in the 2024 elections?",
+        "choices": {
+            "A": "The BJP's seat count fell short of the majority mark.",
+            "B": "The BJP wanted to form a broader government.",
+            "C": "The BJP lost key allies before the elections.",
+            "D": "The BJP faced internal party conflicts.",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "Where did the formal dinner hosted by President Droupadi Murmu take place?",
+        "choices": {
+            "A": "Rashtrapati Bhavan",
+            "B": "Prime Minister's residence",
+            "C": "Parliament House",
+            "D": "India Gate",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "When did the Election Commission of India declare the results of the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "June 1",
+            "B": "June 5",
+            "C": "June 7",
+            "D": "June 10",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "Why did the INDIA bloc pose a significant challenge to the BJP in the 2024 elections?",
+        "choices": {
+            "A": "They won a substantial number of seats.",
+            "B": "They formed a coalition with the BJP.",
+            "C": "They boycotted the elections.",
+            "D": "They supported the BJP's policies.",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "How did the BJP's performance in the 2024 elections impact its coalition strategy?",
+        "choices": {
+            "A": "The BJP decided to go solo.",
+            "B": "The BJP needed to rely on allies to form the government.",
+            "C": "The BJP dissolved its coalition.",
+            "D": "The BJP merged with the Congress party.",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "Who among the following leaders did not send a congratulatory message to Narendra Modi after the 2024 elections?",
+        "choices": {
+            "A": "Joe Biden",
+            "B": "Vladimir Putin",
+            "C": "Emmanuel Macron",
+            "D": "Mallikarjun Kharge",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What was the main focus of the NDA meeting after the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Dissolving the coalition",
+            "B": "Re-electing Narendra Modi as the leader",
+            "C": "Forming a new political party",
+            "D": "Announcing new election dates",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "**Who is expected to form the government despite not securing a majority on its own?**",
+        "choices": {
+            "A": "The Indian National Congress (INC)",
+            "B": "The National Democratic Alliance (NDA)",
+            "C": "The All India Trinamool Congress (AITC)",
+            "D": "The Samajwadi Party (SP)",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "**What was a significant factor in the BJP's reduced performance in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Effective opposition campaign",
+            "B": "Increased vote share of the Congress",
+            "C": "Decline in support from regional parties",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "**Where did the BJP face significant losses due to the influence of the INDIA alliance?**",
+        "choices": {
+            "A": "West Bengal",
+            "B": "Uttar Pradesh",
+            "C": "Maharashtra",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "**When were the results of the 2024 Lok Sabha elections announced?**",
+        "choices": {
+            "A": "June 1, 2024",
+            "B": "June 4, 2024",
+            "C": "June 5, 2024",
+            "D": "June 6, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "**Why did the BJP's performance decline in the 2024 elections according to political analysts?**",
+        "choices": {
+            "A": "Poor candidate selection",
+            "B": "Internal party issues",
+            "C": "Effective opposition strategies",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "**How did the INDIA alliance perform in the 2024 Lok Sabha elections compared to previous elections?**",
+        "choices": {
+            "A": "They won fewer seats than in 2019",
+            "B": "They won more seats than in 2019",
+            "C": "Their performance remained the same",
+            "D": "They did not participate in the 2024 elections",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "**Who expressed gratitude to the people of Chhapra for electing him for the third consecutive time?**",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Rajiv Pratap Rudy",
+            "C": "Rahul Gandhi",
+            "D": "Akhilesh Yadav",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "**What was the main reason for the BJP's setback in Rajasthan according to the summaries?**",
+        "choices": {
+            "A": "Boycott by major castes",
+            "B": "Overconfidence and lack of experienced leadership",
+            "C": "Internal conflicts and controversial remarks",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "**Where did the Samajwadi Party (SP) and Congress alliance achieve significant success in the 2024 elections?**",
+        "choices": {
+            "A": "Maharashtra",
+            "B": "Uttar Pradesh",
+            "C": "West Bengal",
+            "D": "Tamil Nadu",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "**When did the vote counting for the 2024 Lok Sabha elections begin?**",
+        "choices": {
+            "A": "April 19, 2024",
+            "B": "May 22, 2024",
+            "C": "June 1, 2024",
+            "D": "June 4, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q31": {
+        "question": "**Why did the AIUDF face significant setbacks in the 2024 elections?**",
+        "choices": {
+            "A": "Controversial statements by its leader",
+            "B": "Strategic missteps in candidate selection",
+            "C": "Decline in support from Bengali-origin Muslims",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q32": {
+        "question": "**How did the Congress party perform in the 2024 Lok Sabha elections compared to 2019?**",
+        "choices": {
+            "A": "They won fewer seats",
+            "B": "They won more seats",
+            "C": "Their performance remained the same",
+            "D": "They did not participate in the 2024 elections",
+            "E": "None of the above"
+        }
+    },
+    "Q33": {
+        "question": "**Who criticized the BJP for using divisive tactics based on caste and religion?**",
+        "choices": {
+            "A": "Bhupinder Singh Hooda",
+            "B": "Mamata Banerjee",
+            "C": "Akhilesh Yadav",
+            "D": "Nitish Kumar",
+            "E": "None of the above"
+        }
+    },
+    "Q34": {
+        "question": "**What was a notable outcome for the BJP in the 2024 elections in Uttar Pradesh?**",
+        "choices": {
+            "A": "They won all 80 seats",
+            "B": "Their seats halved from 62 in 2019 to 31",
+            "C": "They did not win any seats",
+            "D": "They increased their seat count",
+            "E": "None of the above"
+        }
+    },
+    "Q35": {
+        "question": "**Where did a clash erupt between supporters of the BJP and SP during the vote counting?**",
+        "choices": {
+            "A": "Delhi",
+            "B": "Lucknow",
+            "C": "Mumbai",
+            "D": "Kolkata",
+            "E": "None of the above"
+        }
+    },
+    "Q36": {
+        "question": "**When did the final phase of voting for the 2024 Lok Sabha elections conclude?**",
+        "choices": {
+            "A": "April 19, 2024",
+            "B": "May 22, 2024",
+            "C": "June 1, 2024",
+            "D": "June 4, 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q37": {
+        "question": "**Why did the BJP's seat count drop in Karnataka in the 2024 elections?**",
+        "choices": {
+            "A": "Losses by small margins",
+            "B": "Improved performance by Congress",
+            "C": "Decline in support from regional allies",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q38": {
+        "question": "**How did the TMC perform in the 2024 Lok Sabha elections in West Bengal?**",
+        "choices": {
+            "A": "They won fewer seats than in 2019",
+            "B": "They won more seats than in 2019",
+            "C": "Their performance remained the same",
+            "D": "They did not participate in the 2024 elections",
+            "E": "None of the above"
+        }
+    },
+    "Q39": {
+        "question": "**Who is set to become Prime Minister for the third consecutive term despite BJP's reduced seat count?**",
+        "choices": {
+            "A": "Rahul Gandhi",
+            "B": "Narendra Modi",
+            "C": "Mamata Banerjee",
+            "D": "Akhilesh Yadav",
+            "E": "None of the above"
+        }
+    },
+    "Q40": {
+        "question": "**What was a significant challenge for the BJP in the 2024 elections according to the summaries?**",
+        "choices": {
+            "A": "Maintaining coalition unity",
+            "B": "Managing ally expectations",
+            "C": "Ideological differences with allies",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q41": {
+        "question": "Who emerged victorious in the 2024 Amethi Lok Sabha election?",
+        "choices": {
+            "A": "Smriti Irani",
+            "B": "Kishori Lal Sharma",
+            "C": "Rahul Gandhi",
+            "D": "Akhilesh Yadav",
+            "E": "None of the above"
+        }
+    },
+    "Q42": {
+        "question": "What significant event took place in Uttar Pradesh involving Chief Minister Yogi Adityanath?",
+        "choices": {
+            "A": "He won the Lok Sabha election in Varanasi.",
+            "B": "He resumed the 'Janta Darshan' program after a two-month hiatus.",
+            "C": "He announced his resignation from his position.",
+            "D": "He led a protest against the election results.",
+            "E": "None of the above"
+        }
+    },
+    "Q43": {
+        "question": "Where did the National Investigation Agency (NIA) file a chargesheet against 12 individuals for a murder case?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Bihar",
+            "C": "Rajasthan",
+            "D": "West Bengal",
+            "E": "None of the above"
+        }
+    },
+    "Q44": {
+        "question": "When did the 2024 Lok Sabha elections conclude?",
+        "choices": {
+            "A": "May 2023",
+            "B": "June 2024",
+            "C": "December 2023",
+            "D": "January 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q45": {
+        "question": "Why did Devendra Fadnavis express his desire to resign from his position?",
+        "choices": {
+            "A": "Due to health issues",
+            "B": "Due to the BJP's poor performance in Maharashtra",
+            "C": "Due to a scandal involving party funds",
+            "D": "Due to personal reasons",
+            "E": "None of the above"
+        }
+    },
+    "Q46": {
+        "question": "How did the Samajwadi Party (SP) perform in the 2024 UP Lok Sabha elections?",
+        "choices": {
+            "A": "They won all the seats in Uttar Pradesh.",
+            "B": "They led in 37 out of 44 seats for the INDIA alliance.",
+            "C": "They did not win any seats.",
+            "D": "They formed a coalition with the BJP.",
+            "E": "None of the above"
+        }
+    },
+    "Q47": {
+        "question": "Who was the mastermind behind the murder of Karni Sena chief Sukhdev Singh Gogamedi?",
+        "choices": {
+            "A": "Goldy Brar",
+            "B": "Rohit Godara",
+            "C": "Lakhma Ram",
+            "D": "Ajay Taware",
+            "E": "None of the above"
+        }
+    },
+    "Q48": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections for the BJP in West Bengal?",
+        "choices": {
+            "A": "They won all the seats.",
+            "B": "They lost significant seats to the TMC.",
+            "C": "They formed a coalition government.",
+            "D": "They increased their vote share significantly.",
+            "E": "None of the above"
+        }
+    },
+    "Q49": {
+        "question": "Where did the Congress candidate Deepender Singh Hooda win a significant lead in the 2024 elections?",
+        "choices": {
+            "A": "Amethi",
+            "B": "Rohtak",
+            "C": "Varanasi",
+            "D": "Rae Bareli",
+            "E": "None of the above"
+        }
+    },
+    "Q50": {
+        "question": "When did the National Investigation Agency (NIA) file a chargesheet against Lakhma Ram?",
+        "choices": {
+            "A": "January 2024",
+            "B": "May 2023",
+            "C": "December 2023",
+            "D": "June 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q51": {
+        "question": "Why did the BJP experience a significant decline in performance in the 2024 UP Lok Sabha elections?",
+        "choices": {
+            "A": "Due to internal party conflicts",
+            "B": "Due to effective campaigning by the opposition",
+            "C": "Due to economic downturn",
+            "D": "Due to natural disasters",
+            "E": "None of the above"
+        }
+    },
+    "Q52": {
+        "question": "How did the INDIA alliance perform in the 2024 Lok Sabha elections compared to the NDA?",
+        "choices": {
+            "A": "They won more seats than the NDA.",
+            "B": "They performed better than expected but still trailed behind the NDA.",
+            "C": "They did not win any seats.",
+            "D": "They formed a majority government.",
+            "E": "None of the above"
+        }
+    },
+    "Q53": {
+        "question": "Who won the Sultanpur Lok Sabha seat in the 2024 elections?",
+        "choices": {
+            "A": "Maneka Gandhi",
+            "B": "Ram Bhual Nishad",
+            "C": "Akhilesh Yadav",
+            "D": "Rahul Gandhi",
+            "E": "None of the above"
+        }
+    },
+    "Q54": {
+        "question": "What was the significant outcome of the 2024 Lok Sabha elections in Bihar?",
+        "choices": {
+            "A": "The BJP won all the seats.",
+            "B": "The RJD secured the highest vote share but won only four seats.",
+            "C": "The Congress formed a coalition government.",
+            "D": "The Left parties won the majority of seats.",
+            "E": "None of the above"
+        }
+    },
+    "Q55": {
+        "question": "Where did the BJP candidate Swami Sachchidanand Hari Sakshi win in the 2024 elections?",
+        "choices": {
+            "A": "Amethi",
+            "B": "Unnao",
+            "C": "Varanasi",
+            "D": "Rae Bareli",
+            "E": "None of the above"
+        }
+    },
+    "Q56": {
+        "question": "When did the 'Janta Darshan' program resume in Uttar Pradesh?",
+        "choices": {
+            "A": "January 2024",
+            "B": "May 2023",
+            "C": "December 2023",
+            "D": "June 2024",
+            "E": "None of the above"
+        }
+    },
+    "Q57": {
+        "question": "Why did the TMC call for Prime Minister Narendra Modi's resignation after the 2024 elections?",
+        "choices": {
+            "A": "Due to allegations of election fraud",
+            "B": "Due to the BJP's failure to secure over 400 seats",
+            "C": "Due to economic policies",
+            "D": "Due to health issues",
+            "E": "None of the above"
+        }
+    },
+    "Q58": {
+        "question": "How did the Congress candidate Kishori Lal Sharma perform in the 2024 Amethi election?",
+        "choices": {
+            "A": "He lost to Smriti Irani.",
+            "B": "He won by a significant margin.",
+            "C": "He did not contest the election.",
+            "D": "He formed a coalition with the BJP.",
+            "E": "None of the above"
+        }
+    },
+    "Q59": {
+        "question": "Who led the police team that visited the families of the software engineers killed in a car accident in Pune?",
+        "choices": {
+            "A": "Devendra Fadnavis",
+            "B": "Manoj Patil",
+            "C": "Ajay Taware",
+            "D": "Rohit Godara",
+            "E": "None of the above"
+        }
+    },
+    "Q60": {
+        "question": "What was the significant shift in the 2024 Lok Sabha elections in Uttar Pradesh?",
+        "choices": {
+            "A": "The BJP won all the seats.",
+            "B": "The Samajwadi Party and Congress disrupted BJP's dominance.",
+            "C": "The BSP formed a majority government.",
+            "D": "The BJP increased its vote share significantly.",
+            "E": "None of the above"
+        }
+    },
+    "Q61": {
+        "question": "Who expressed concerns about the delay in election results and questioned the Election Commission's transparency?",
+        "choices": {
+            "A": "Pawan Khera",
+            "B": "Rajeev Shukla",
+            "C": "KC Tyagi",
+            "D": "Ashneer Grover",
+            "E": "None of the above"
+        }
+    },
+    "Q62": {
+        "question": "What was the primary reason for the stock market crash following the 2024 Lok Sabha election results?",
+        "choices": {
+            "A": "Misleading exit polls predicting a strong BJP victory",
+            "B": "Economic instability in the global market",
+            "C": "A sudden increase in interest rates by the RBI",
+            "D": "A major corporate scandal in India",
+            "E": "None of the above"
+        }
+    },
+    "Q63": {
+        "question": "Where did Prime Minister Narendra Modi tender his resignation following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "Rashtrapati Bhavan",
+            "B": "Parliament House",
+            "C": "BJP Headquarters",
+            "D": "His official residence",
+            "E": "None of the above"
+        }
+    },
+    "Q64": {
+        "question": "When did the INDIA bloc hold a post-election results meeting to discuss their performance in the 2024 general elections?",
+        "choices": {
+            "A": "June 1",
+            "B": "June 3",
+            "C": "June 5",
+            "D": "June 7",
+            "E": "None of the above"
+        }
+    },
+    "Q65": {
+        "question": "Why did the Central Board of Secondary Education (CBSE) issue an advisory to schools regarding practical examinations?",
+        "choices": {
+            "A": "To ensure fairness and accuracy in assessments",
+            "B": "To introduce new examination guidelines",
+            "C": "To announce changes in the curriculum",
+            "D": "To address issues related to online learning",
+            "E": "None of the above"
+        }
+    },
+    "Q66": {
+        "question": "How did the world experience its hottest May on record according to the European Union's Copernicus Climate Change Service (C3S)?",
+        "choices": {
+            "A": "Due to a volcanic eruption",
+            "B": "Due to the weakening El Nino and human-caused climate change",
+            "C": "Due to increased solar activity",
+            "D": "Due to a significant reduction in global forest cover",
+            "E": "None of the above"
+        }
+    },
+    "Q67": {
+        "question": "Who won the 2024 Lok Sabha election from Pithapuram, receiving widespread support and congratulations from fans and fellow celebrities?",
+        "choices": {
+            "A": "Chiranjeevi",
+            "B": "Ram Charan",
+            "C": "Mahesh Babu",
+            "D": "Pawan Kalyan",
+            "E": "None of the above"
+        }
+    },
+    "Q68": {
+        "question": "What significant political shift occurred in Andhra Pradesh following the 2024 elections?",
+        "choices": {
+            "A": "YS Jagan Mohan Reddy's party won a majority",
+            "B": "N Chandrababu Naidu's TDP secured a significant victory",
+            "C": "The Congress party formed a coalition government",
+            "D": "The BJP won a majority in the state assembly",
+            "E": "None of the above"
+        }
+    },
+    "Q69": {
+        "question": "Where did the INDIA bloc, led by Congress President Mallikarjun Kharge, hold a meeting to discuss their future strategies?",
+        "choices": {
+            "A": "Mumbai",
+            "B": "Kolkata",
+            "C": "New Delhi",
+            "D": "Chennai",
+            "E": "None of the above"
+        }
+    },
+    "Q70": {
+        "question": "When did the BJP-led NDA secure a third consecutive term in India's general elections?",
+        "choices": {
+            "A": "June 1",
+            "B": "June 2",
+            "C": "June 3",
+            "D": "June 4",
+            "E": "None of the above"
+        }
+    },
+    "Q71": {
+        "question": "Why did the International Atomic Energy Agency (IAEA) censure Iran?",
+        "choices": {
+            "A": "For not fully cooperating with the agency",
+            "B": "For conducting unauthorized nuclear tests",
+            "C": "For withdrawing from the Nuclear Non-Proliferation Treaty",
+            "D": "For developing nuclear weapons",
+            "E": "None of the above"
+        }
+    },
+    "Q72": {
+        "question": "How did the INDIA alliance plan to challenge the BJP's rule following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "By forming a coalition government",
+            "B": "By sitting in opposition and addressing key issues",
+            "C": "By launching a series of protests",
+            "D": "By seeking international support",
+            "E": "None of the above"
+        }
+    },
+    "Q73": {
+        "question": "Who is expected to play significant roles in the new government formed by the BJP-led NDA?",
+        "choices": {
+            "A": "Rahul Gandhi and Sonia Gandhi",
+            "B": "Nitish Kumar and Chandrababu Naidu",
+            "C": "Akhilesh Yadav and MK Stalin",
+            "D": "Mallikarjun Kharge and Sharad Pawar",
+            "E": "None of the above"
+        }
+    },
+    "Q74": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections in terms of seat distribution between the BJP and Congress?",
+        "choices": {
+            "A": "BJP won 240 seats, Congress won 99 seats",
+            "B": "BJP won 300 seats, Congress won 150 seats",
+            "C": "BJP won 200 seats, Congress won 120 seats",
+            "D": "BJP won 250 seats, Congress won 110 seats",
+            "E": "None of the above"
+        }
+    },
+    "Q75": {
+        "question": "Where did the Andhra Pradesh Governor dissolve the 15th State Legislative Assembly following the election results?",
+        "choices": {
+            "A": "Hyderabad",
+            "B": "Vijayawada",
+            "C": "Visakhapatnam",
+            "D": "Amaravati",
+            "E": "None of the above"
+        }
+    },
+    "Q76": {
+        "question": "When is Prime Minister Narendra Modi set to take oath for his third term following the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "June 6",
+            "B": "June 7",
+            "C": "June 8",
+            "D": "June 9",
+            "E": "None of the above"
+        }
+    },
+    "Q77": {
+        "question": "Why did the INDIA alliance decide to sit in opposition despite winning 234 seats in the 2024 Lok Sabha elections?",
+        "choices": {
+            "A": "They did not have enough seats to form a majority",
+            "B": "They wanted to focus on regional elections",
+            "C": "They planned to merge with another party",
+            "D": "They were invited to form the government but declined",
+            "E": "None of the above"
+        }
+    },
+    "Q78": {
+        "question": "How did the international media react to the BJP-led NDA's victory in the 2024 general elections?",
+        "choices": {
+            "A": "They celebrated the victory as a landslide",
+            "B": "They highlighted Modi's need for coalition support",
+            "C": "They ignored the election results",
+            "D": "They criticized the election process",
+            "E": "None of the above"
+        }
+    },
+    "Q79": {
+        "question": "Who is the leader of the Telugu Desam Party (TDP) who secured a significant victory in the 2024 Andhra Pradesh Assembly elections?",
+        "choices": {
+            "A": "YS Jagan Mohan Reddy",
+            "B": "N Chandrababu Naidu",
+            "C": "Pawan Kalyan",
+            "D": "Amit Shah",
+            "E": "None of the above"
+        }
+    },
+    "Q80": {
+        "question": "What was the main focus of the meeting held by the INDIA bloc in New Delhi on June 5?",
+        "choices": {
+            "A": "To celebrate their victory",
+            "B": "To discuss government formation strategies",
+            "C": "To announce new party leaders",
+            "D": "To plan a series of protests",
+            "E": "None of the above"
+        }
+    },
+    "Q81": {
+        "question": "**Who emerged as the largest party in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Congress",
+            "B": "BJP",
+            "C": "Samajwadi Party",
+            "D": "AIMIM",
+            "E": "None of the above"
+        }
+    },
+    "Q82": {
+        "question": "**What was the outcome for the BJP in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Achieved an outright majority",
+            "B": "Fell short of a majority and relied on coalition partners",
+            "C": "Lost all seats in Uttar Pradesh",
+            "D": "Did not contest in several key states",
+            "E": "None of the above"
+        }
+    },
+    "Q83": {
+        "question": "**Where did Prime Minister Narendra Modi win his seat in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Rae Bareli",
+            "B": "Varanasi",
+            "C": "Amethi",
+            "D": "Gorakhpur",
+            "E": "None of the above"
+        }
+    },
+    "Q84": {
+        "question": "**When did the 2024 Lok Sabha elections conclude?**",
+        "choices": {
+            "A": "April 19",
+            "B": "June 1",
+            "C": "June 4",
+            "D": "May 15",
+            "E": "None of the above"
+        }
+    },
+    "Q85": {
+        "question": "**Why did the BJP need to rely on allies in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "They did not contest enough seats",
+            "B": "They fell short of the majority mark",
+            "C": "They lost significant support in southern states",
+            "D": "They faced internal party conflicts",
+            "E": "None of the above"
+        }
+    },
+    "Q86": {
+        "question": "**How did the INDIA alliance perform in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Won a majority of seats",
+            "B": "Secured 234 seats",
+            "C": "Did not win any seats",
+            "D": "Formed the government independently",
+            "E": "None of the above"
+        }
+    },
+    "Q87": {
+        "question": "**Who led the campaign for Abdul Rashid Sheikh in Baramulla?**",
+        "choices": {
+            "A": "His political party",
+            "B": "His sons",
+            "C": "Local community leaders",
+            "D": "National Congress",
+            "E": "None of the above"
+        }
+    },
+    "Q88": {
+        "question": "**What significant event occurred in Uttar Pradesh during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "BJP won all seats",
+            "B": "Samajwadi Party limited BJP to 33 seats",
+            "C": "Congress did not contest",
+            "D": "BJP formed a coalition with Samajwadi Party",
+            "E": "None of the above"
+        }
+    },
+    "Q89": {
+        "question": "**Where did Rahul Gandhi win seats in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Varanasi and Amethi",
+            "B": "Rae Bareli and Wayanad",
+            "C": "Gorakhpur and Hyderabad",
+            "D": "Thiruvananthapuram and Baramulla",
+            "E": "None of the above"
+        }
+    },
+    "Q90": {
+        "question": "**When is Narendra Modi expected to take the oath for his third term as Prime Minister?**",
+        "choices": {
+            "A": "June 1",
+            "B": "June 4",
+            "C": "June 8",
+            "D": "June 9",
+            "E": "None of the above"
+        }
+    },
+    "Q91": {
+        "question": "**Why did the BJP face setbacks in Uttar Pradesh during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Overconfidence and failure to gauge ground realities",
+            "B": "Lack of candidates",
+            "C": "Poor campaign strategies",
+            "D": "Internal party conflicts",
+            "E": "None of the above"
+        }
+    },
+    "Q92": {
+        "question": "**How did the Election Commission of India conduct the vote counting for the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Only manual counting",
+            "B": "Postal ballots first, followed by EVM votes, and VVPAT verification",
+            "C": "Only electronic counting",
+            "D": "Counting was done in a single day",
+            "E": "None of the above"
+        }
+    },
+    "Q93": {
+        "question": "**Who criticized the false exit poll predictions in the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Chamala Kiran Kumar Reddy",
+            "C": "Rahul Gandhi",
+            "D": "Shashi Tharoor",
+            "E": "None of the above"
+        }
+    },
+    "Q94": {
+        "question": "**What was the significant outcome for the BJP in Odisha during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Lost all seats",
+            "B": "Achieved a historic victory, ending Biju Janata Dal rule",
+            "C": "Formed a coalition with Congress",
+            "D": "Did not contest",
+            "E": "None of the above"
+        }
+    },
+    "Q95": {
+        "question": "**Where did Konda Vishweshwar Reddy express gratitude to his constituents?**",
+        "choices": {
+            "A": "Varanasi",
+            "B": "Chevella, Telangana",
+            "C": "Rae Bareli",
+            "D": "Baramulla",
+            "E": "None of the above"
+        }
+    },
+    "Q96": {
+        "question": "**When did the final results of the 2024 Lok Sabha elections become expected?**",
+        "choices": {
+            "A": "June 1",
+            "B": "June 4",
+            "C": "June 8",
+            "D": "June 9",
+            "E": "None of the above"
+        }
+    },
+    "Q97": {
+        "question": "**Why did the BJP's strategy fail in Uttar Pradesh during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Strong opposition coalition and strategic planning",
+            "B": "Lack of campaign funds",
+            "C": "Poor candidate selection",
+            "D": "Internal party conflicts",
+            "E": "None of the above"
+        }
+    },
+    "Q98": {
+        "question": "**How did the BJP perform in Telangana during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "Won all seats",
+            "B": "Improved performance, winning eight seats",
+            "C": "Did not contest",
+            "D": "Formed a coalition with AIMIM",
+            "E": "None of the above"
+        }
+    },
+    "Q99": {
+        "question": "**Who won the Chandni Chowk seat in Delhi during the 2024 Lok Sabha elections?**",
+        "choices": {
+            "A": "JP Agarwal",
+            "B": "Praveen Khandelwal",
+            "C": "Pankaj Kumar Gupta",
+            "D": "Harsh Vardhan",
+            "E": "None of the above"
+        }
+    },
+    "Q100": {
+        "question": "**What was the reaction of Prime Minister Narendra Modi after the 2024 Lok Sabha election results?**",
+        "choices": {
+            "A": "Resigned from politics",
+            "B": "Expressed gratitude and remembered his late mother",
+            "C": "Criticized the opposition",
+            "D": "Announced new economic policies",
+            "E": "None of the above"
+        }
+    }
+}
