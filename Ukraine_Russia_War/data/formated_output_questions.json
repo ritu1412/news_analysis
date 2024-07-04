@@ -1,0 +1,402 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the article?",
+        "choices": {
+            "A": "Military actions and attacks",
+            "B": "Political statements and negotiations",
+            "C": "Humanitarian impact and casualties",
+            "D": "Protests and public reactions",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Who are the primary actors mentioned in the article?",
+        "choices": {
+            "A": "Military officials and soldiers",
+            "B": "Political leaders and diplomats",
+            "C": "Business executives and investors",
+            "D": "Activists and protestors",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Which geographical area is primarily discussed in the article?",
+        "choices": {
+            "A": "Europe",
+            "B": "Asia",
+            "C": "North America",
+            "D": "Middle East",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What is the outcome or potential outcome highlighted in the article?",
+        "choices": {
+            "A": "Military victory or defeat",
+            "B": "Political agreement or negotiation",
+            "C": "Economic growth or decline",
+            "D": "Social unrest or stability",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "How has the public reacted to the events described in the article?",
+        "choices": {
+            "A": "Supportive and approving",
+            "B": "Opposed and protesting",
+            "C": "Indifferent and apathetic",
+            "D": "Divided and conflicted",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "Which organizations or events are specifically mentioned in the article?",
+        "choices": {
+            "A": "United Nations and NATO",
+            "B": "International Monetary Fund and World Bank",
+            "C": "Greenpeace and Amnesty International",
+            "D": "World Health Organization and Red Cross",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What is the primary concern or issue addressed in the article?",
+        "choices": {
+            "A": "National security and defense",
+            "B": "Economic policies and trade",
+            "C": "Environmental protection and climate change",
+            "D": "Human rights and social justice",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What type of strategic moves or decisions are discussed in the article?",
+        "choices": {
+            "A": "Military deployments and operations",
+            "B": "Diplomatic talks and treaties",
+            "C": "Business mergers and acquisitions",
+            "D": "Legislative reforms and policies",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What is the historical context or background provided in the article?",
+        "choices": {
+            "A": "Previous wars and conflicts",
+            "B": "Past political regimes and leaders",
+            "C": "Earlier economic crises and recoveries",
+            "D": "Former social movements and protests",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What future implications or predictions are made in the article?",
+        "choices": {
+            "A": "Increased military tensions and conflicts",
+            "B": "Improved diplomatic relations and peace",
+            "C": "Economic downturns and recessions",
+            "D": "Social reforms and advancements",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "What specific challenges or obstacles are highlighted in the article?",
+        "choices": {
+            "A": "Logistical and supply chain issues",
+            "B": "Political opposition and resistance",
+            "C": "Financial constraints and budget cuts",
+            "D": "Technological limitations and failures",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What solutions or recommendations are proposed in the article?",
+        "choices": {
+            "A": "Military interventions and strategies",
+            "B": "Diplomatic negotiations and agreements",
+            "C": "Economic policies and incentives",
+            "D": "Social programs and initiatives",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "What is the tone or perspective of the article?",
+        "choices": {
+            "A": "Optimistic and hopeful",
+            "B": "Pessimistic and critical",
+            "C": "Neutral and objective",
+            "D": "Alarmist and urgent",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What specific events or incidents are described in the article?",
+        "choices": {
+            "A": "Battles and military engagements",
+            "B": "Political summits and meetings",
+            "C": "Economic conferences and forums",
+            "D": "Social protests and rallies",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "What are the key statistics or data points mentioned in the article?",
+        "choices": {
+            "A": "Military casualties and losses",
+            "B": "Economic growth rates and figures",
+            "C": "Environmental impact assessments",
+            "D": "Social survey results and polls",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "What are the main arguments or viewpoints presented in the article?",
+        "choices": {
+            "A": "Pro-military intervention and action",
+            "B": "Pro-diplomatic resolution and peace",
+            "C": "Pro-economic reform and development",
+            "D": "Pro-social justice and equality",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "What are the potential risks or dangers discussed in the article?",
+        "choices": {
+            "A": "Escalation of military conflict",
+            "B": "Breakdown of diplomatic relations",
+            "C": "Economic collapse and instability",
+            "D": "Social unrest and violence",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "What are the key achievements or successes highlighted in the article?",
+        "choices": {
+            "A": "Military victories and advancements",
+            "B": "Diplomatic agreements and treaties",
+            "C": "Economic growth and prosperity",
+            "D": "Social reforms and improvements",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "What are the main criticisms or controversies mentioned in the article?",
+        "choices": {
+            "A": "Military strategies and tactics",
+            "B": "Diplomatic policies and decisions",
+            "C": "Economic measures and plans",
+            "D": "Social programs and initiatives",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What are the broader geopolitical implications discussed in the article?",
+        "choices": {
+            "A": "Shifts in global power dynamics",
+            "B": "Changes in international alliances",
+            "C": "Impact on global trade and economy",
+            "D": "Influence on social and cultural trends",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "What is the outcome or result highlighted in the article?",
+        "choices": {
+            "A": "Successful negotiations and agreements",
+            "B": "Increased military tensions and conflicts",
+            "C": "Economic downturn and financial instability",
+            "D": "Public protests and social unrest",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "How has the public reacted according to the article?",
+        "choices": {
+            "A": "Supportive and optimistic",
+            "B": "Critical and dissatisfied",
+            "C": "Indifferent and apathetic",
+            "D": "Divided and polarized",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "What is the central issue or problem discussed in the article?",
+        "choices": {
+            "A": "Economic policies and trade agreements",
+            "B": "Military strategies and defense spending",
+            "C": "Political leadership and governance",
+            "D": "Social justice and human rights",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "What type of actions or measures are proposed or taken in the article?",
+        "choices": {
+            "A": "Diplomatic negotiations and peace talks",
+            "B": "Military interventions and defense upgrades",
+            "C": "Economic sanctions and trade restrictions",
+            "D": "Legal reforms and policy changes",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "Which countries are prominently featured in the article?",
+        "choices": {
+            "A": "United States and China",
+            "B": "Russia and Ukraine",
+            "C": "India and Pakistan",
+            "D": "Germany and France",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "What is the main theme or subject of the article?",
+        "choices": {
+            "A": "International relations and diplomacy",
+            "B": "Domestic politics and governance",
+            "C": "Economic trends and market analysis",
+            "D": "Social issues and public policy",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "What is the article's stance on the issue discussed?",
+        "choices": {
+            "A": "Supportive and endorsing",
+            "B": "Critical and opposing",
+            "C": "Neutral and balanced",
+            "D": "Ambiguous and unclear",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "What solutions or recommendations are offered in the article?",
+        "choices": {
+            "A": "Strengthening international alliances",
+            "B": "Implementing economic reforms",
+            "C": "Enhancing military capabilities",
+            "D": "Promoting social justice initiatives",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "What is the outcome or proposed solution mentioned in the article?",
+        "choices": {
+            "A": "Military victory",
+            "B": "Diplomatic negotiations",
+            "C": "Economic sanctions",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "How has the public reacted to the events or issues discussed in the article?",
+        "choices": {
+            "A": "Protests and demonstrations",
+            "B": "Support and approval",
+            "C": "Indifference and apathy",
+            "D": "Outrage and criticism",
+            "E": "None of the above"
+        }
+    },
+    "Q31": {
+        "question": "What is the primary concern or issue highlighted in the article?",
+        "choices": {
+            "A": "Security and defense",
+            "B": "Economic stability",
+            "C": "Political leadership",
+            "D": "Social justice",
+            "E": "None of the above"
+        }
+    },
+    "Q32": {
+        "question": "What type of support or aid is discussed in the article?",
+        "choices": {
+            "A": "Military aid",
+            "B": "Financial aid",
+            "C": "Humanitarian aid",
+            "D": "Technological aid",
+            "E": "None of the above"
+        }
+    },
+    "Q33": {
+        "question": "What strategic or tactical changes are mentioned in the article?",
+        "choices": {
+            "A": "Military adaptations",
+            "B": "Economic reforms",
+            "C": "Political alliances",
+            "D": "Social policies",
+            "E": "None of the above"
+        }
+    },
+    "Q34": {
+        "question": "What measures or actions are proposed to address the issues in the article?",
+        "choices": {
+            "A": "Policy reforms",
+            "B": "Military interventions",
+            "C": "Diplomatic talks",
+            "D": "Economic incentives",
+            "E": "None of the above"
+        }
+    },
+    "Q35": {
+        "question": "What historical or contextual background is provided in the article?",
+        "choices": {
+            "A": "Previous conflicts or wars",
+            "B": "Economic trends and data",
+            "C": "Political history and events",
+            "D": "Social movements and changes",
+            "E": "None of the above"
+        }
+    },
+    "Q36": {
+        "question": "What are the key points or main arguments presented in the article?",
+        "choices": {
+            "A": "Military strategies and outcomes",
+            "B": "Economic policies and impacts",
+            "C": "Political negotiations and statements",
+            "D": "Humanitarian issues and responses",
+            "E": "None of the above"
+        }
+    },
+    "Q37": {
+        "question": "What specific incidents or events are detailed in the article?",
+        "choices": {
+            "A": "Military attacks and battles",
+            "B": "Political meetings and summits",
+            "C": "Economic reports and data releases",
+            "D": "Social protests and movements",
+            "E": "None of the above"
+        }
+    },
+    "Q38": {
+        "question": "What international relations or alliances are discussed in the article?",
+        "choices": {
+            "A": "NATO and EU",
+            "B": "SCO and BRICS",
+            "C": "UN and ASEAN",
+            "D": "G7 and G20",
+            "E": "None of the above"
+        }
+    },
+    "Q39": {
+        "question": "What are the potential risks or threats mentioned in the article?",
+        "choices": {
+            "A": "Military escalation",
+            "B": "Economic recession",
+            "C": "Political instability",
+            "D": "Social upheaval",
+            "E": "None of the above"
+        }
+    },
+    "Q40": {
+        "question": "What are the main sectors or industries affected according to the article?",
+        "choices": {
+            "A": "Defense and military",
+            "B": "Finance and banking",
+            "C": "Technology and innovation",
+            "D": "Healthcare and education",
+            "E": "None of the above"
+        }
+    }
+}
