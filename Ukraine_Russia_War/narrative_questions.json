@@ -1,0 +1,82 @@
+{
+    "Q1": {
+        "question": "Which perspective is most aligned with the article regarding Western support for Ukraine?",
+        "choices": {
+            "A": "The article highlights substantial and continued support from Western countries, detailing military aid and strategic importance for Ukraine's defense.",
+            "B": "The article questions the effectiveness and sustainability of Western support, emphasizing delays in aid delivery, internal disagreements among Western allies, and potential reduction in future support.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q2": {
+        "question": "How does the article describe the situation of Ukrainian forces?",
+        "choices": {
+            "A": "The narrative is supportive of Ukraine's military efforts, highlighting successes and resilience of Ukrainian forces, with emphasis on the importance of Western support.",
+            "B": "The narrative portrays Ukraine's military situation as dire, with significant challenges and setbacks, focusing on difficulties faced and potential for prolonged conflict.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q3": {
+        "question": "What is the article's stance on the geopolitical implications of the Ukraine-Russia war?",
+        "choices": {
+            "A": "The article discusses the war's impact on global security, emphasizing the need for a united Western response to counter Russian aggression.",
+            "B": "The article focuses on the negative consequences of the war for global stability, highlighting divisions within Western alliances and potential for escalation.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q4": {
+        "question": "How does the article frame Russia's military strategy?",
+        "choices": {
+            "A": "The article describes Russia's strategy as aggressive and expansionist, aiming to destabilize the region and undermine international norms.",
+            "B": "The article suggests that Russia's strategy is defensive, responding to perceived threats from NATO expansion and Western interference.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q5": {
+        "question": "Which aspect of the humanitarian crisis does the article emphasize?",
+        "choices": {
+            "A": "The article focuses on the suffering of Ukrainian civilians, detailing the impact of Russian attacks on infrastructure and population displacement.",
+            "B": "The article discusses the broader regional humanitarian crisis, including the impact on neighboring countries and refugee flows.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q6": {
+        "question": "How does the article address the role of international organizations in the conflict?",
+        "choices": {
+            "A": "The article highlights active involvement of international organizations in mediating peace and providing humanitarian aid.",
+            "B": "The article criticizes the inefficacy of international organizations, pointing out their inability to resolve the conflict or provide adequate support.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q7": {
+        "question": "What economic impact of the war is most discussed in the article?",
+        "choices": {
+            "A": "The article discusses the economic impact on Ukraine and global markets, focusing on disruptions to supply chains and energy markets.",
+            "B": "The article emphasizes the economic sanctions on Russia and their effectiveness in weakening the Russian economy.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q8": {
+        "question": "How does the article portray the response of the Ukrainian government?",
+        "choices": {
+            "A": "The article portrays the Ukrainian government as resilient and determined, taking effective measures to defend the country and support its citizens.",
+            "B": "The article questions the effectiveness of the Ukrainian government's response, highlighting internal challenges and governance issues.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q9": {
+        "question": "What is the article's view on the prospects for a peaceful resolution?",
+        "choices": {
+            "A": "The article is optimistic about diplomatic efforts and potential for negotiations leading to a peaceful resolution.",
+            "B": "The article is skeptical about the chances for peace, emphasizing ongoing hostilities and entrenched positions on both sides.",
+            "C": "Not relevant to this article"
+        }
+    },
+    "Q10": {
+        "question": "Which narrative best describes the article's overall tone?",
+        "choices": {
+            "A": "The narrative is hopeful and supportive of Ukraine, emphasizing solidarity and the potential for eventual victory.",
+            "B": "The narrative is critical and somber, focusing on the challenges, potential for prolonged conflict, and the difficulties in achieving a resolution.",
+            "C": "Not relevant to this article"
+        }
+    }
+}
