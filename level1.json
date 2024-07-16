@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Session 1: Introduction to Chess",
+        "description": "History of chess, chessboard, name of squares, name of chessmen, value and abbreviation of chessmen, algebraic notation, chessboard and chessmen setup.",
+        "image_url": "https://p7.hiclipart.com/preview/460/420/891/sheepop-computer-icons-tap-tap-legions-company-introduction.jpg"
+    },
+    {
+        "title": "Session 2: Piece Movement - Part 1",
+        "description": "Piece movement for rook, bishop, and queen.",
+        "image_url": "https://cdn-icons-png.freepik.com/256/5988/5988146.png?semt=ais_hybrid"
+    },
+    {
+        "title": "Session 3: Piece Movement - Part 2",
+        "description": "Piece movement for king, knight, pawn; pawn promotion and capture.",
+        "image_url": "https://cdn2.iconfinder.com/data/icons/rpg-basic-set-2/512/chess_knight-512.png"
+    },
+    {
+        "title": "Session 4: Basic Game Mechanics",
+        "description": "Concept of attack and defense, check, ways to prevent check (CBM), and checkmate.",
+        "image_url": "https://www.flaticon.com/free-icon/kill_14243365?term=check+chess&page=1&position=55&origin=search&related_id=14243365"
+    },
+    {
+        "title": "Session 5: Special Moves and Notation",
+        "description": "Castling, rules for castling, notation of special moves, capture notation, illegal move, touch to play, 'I adjust'.",
+        "image_url": "https://www.flaticon.com/free-icon/castling_3854565?term=chess+castling&page=1&position=24&origin=search&related_id=3854565"
+    },
+    {
+        "title": "Session 6: Draw Situations and Special Rules",
+        "description": "Draw situations, en-passant, complete revision of e-material 1.",
+        "image_url": "https://www.flaticon.com/free-icon/chess-game_5077119?term=chess+draw&page=1&position=2&origin=search&related_id=5077119"
+    },
+    {
+        "title": "Session 7: Checkmate Patterns - Part 1",
+        "description": "Checkmate in one move puzzles, scholar’s mate.",
+        "image_url": "https://www.flaticon.com/free-icon/hashtag_4510810?term=hashtag&page=1&position=1&origin=search&related_id=4510810"
+    },
+    {
+        "title": "Session 8: Checkmate Patterns - Part 2",
+        "description": "Checkmate in one move puzzles, double rook checkmate.",
+        "image_url": "https://www.flaticon.com/free-icon/checkmate_2774420?term=chess+checkmate&page=1&position=10&origin=search&related_id=2774420"
+    },
+    {
+        "title": "Session 9: Checkmate Patterns - Part 3",
+        "description": "Checkmate in one move puzzles, double bishop checkmate, doubt clarification for examination.",
+        "image_url": "https://www.flaticon.com/free-icon/bishop_6908503?term=bishop&page=1&position=46&origin=search&related_id=6908503"
+    },
+    {
+        "title": "Session 10: Level-1 Examination",
+        "description": "Level-1 examination, feedback, and course completion.",
+        "image_url": "https://www.flaticon.com/free-icon/exam_4344869?term=exam&page=1&position=3&origin=search&related_id=4344869"
+    }
+]
