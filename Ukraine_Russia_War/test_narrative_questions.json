@@ -1,0 +1,10 @@
+{
+    "Q1": {
+        "question": "Which perspective is most aligned with the article regarding Western support for Ukraine?",
+        "choices": {
+            "A": "The article highlights substantial and continued support from Western countries, detailing military aid and strategic importance for Ukraine's defense.",
+            "B": "The article questions the effectiveness and sustainability of Western support, emphasizing delays in aid delivery, internal disagreements among Western allies, and potential reduction in future support.",
+            "C": "Not relevant to this article"
+        }
+    }
+}
