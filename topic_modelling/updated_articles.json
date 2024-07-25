@@ -1,0 +1,888 @@
+[
+    {
+        "uri": "8208401968",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-03",
+        "time": "19:48:14",
+        "dateTime": "2024-07-03T19:48:14Z",
+        "dateTimePub": "2024-07-03T19:47:35Z",
+        "dataType": "news",
+        "sim": 0.6705882549285889,
+        "url": "https://nypost.com/2024/07/03/world-news/zelensky-says-hes-ready-to-meet-with-trump-as-he-decries-weapons-delays/",
+        "title": "Zelensky says he's ready to meet with Trump  --  as he decries weapons...",
+        "body": "Ukrainian President Volodymyr Zelensky is ready to meet with Donald Trump should the presumptive GOP nominee win the election -- but said that if the presidential hopeful has a plan to end Ukraine's war, he should \"tell us today.\"\n\nThe ex-president -- who currently leads the 2024 race in the polls -- claimed during last week's debate that if he wins in November, he could end the desperate war in Eastern Europe even before he gets inaugurated about two months later.\n\nBut Zelensky said that if Trump knows how to end the conflict -- which began when Russia invaded its neighbor without provocation in February 2022 -- he should tell Ukrainian officials now, according to Bloomberg.\n\n\"If Trump knows how to finish this war, he should tell us today,\" Zelensky said in a Bloomberg Television interview in Kyiv on Wednesday. \"If there are risks to Ukrainian independence, if we lose statehood - we want to be ready for this, we want to know.\n\n\"They can't plan my life and the life of our people and our children,\" he added during the hour-long interview, in which he also lamented delays in Western weapons system deliveries.\n\n\"We want to understand whether in November we will have the powerful support of the US, or will be all alone.\"\n\nOn Wednesday, a Trump spokesman told The Post that Trump has \"repeatedly stated that a top priority in his second term will be to quickly negotiate an end to the Russia-Ukraine war.\"\n\n\"He will do what is necessary to restore peace and rebuild American strength and deterrence on the world stage, and he is the only person who can make that happen,\" spokesperson Steven Cheung said.\n\nRussian officials, however, brushed off Trump's words.\n\nVassily Nebenzia, the country's UN ambassador, said Monday that the \"Ukrainian crisis cannot be solved in one day,\" according to Business Insider.\n\nLast week, two former Trump administration advisers proposed a plan to force peace negotiations by threatening Moscow that Washington would give Ukraine even more aid if Russia didn't come to the table.\n\nAt the same time, it would withhold aid to Ukraine if it declined to meet with Russian officials.\n\nA senior Ukrainian official told The Post that the government hopes a potential Trump administration would respect both its territory and sovereignty.\n\nDuring Thursday's first presidential debate, Trump whined about the United States spending billions in Ukraine's defense but Kyiv is \"not winning the war.\"\n\nZekensky, meanwhile, denied the conflict was deadlocked and insisted Kyiv's armies have replenished lost manpower and are simply waiting for more arms before launching a counteroffensive, according to Bloomberg.\n\n\"It's not a deadlock, it's a problematic situation,\" he said. \"A deadlock means there's no way out. But a problem can be solved if one has the will and has the tools. We do have the will, and the tools - they haven't arrived yet.\"\n\nThe Ukrainian president also praised the $61 billion assistance package passed by Congress earlier this year -- but said it was taking too long to get the equipment to the front, the outlet said.\n\n\"This is the biggest tragedy of this war, that between the decision and real fact, we have a real long, long, long wait,\" Zelenskiy said.\n\nYesterday, Defense Secretary Lloyd Austin said the Pentagon will send Ukraine a military aid package worth $2.3 billion that will include \"more air defense interceptors, anti-tank weapons and other critical munitions from US inventories,\" Austin said.\n\nSome of that money will also pay for additional Patriot surface-to-air missile systems and National Advanced Surface-to-Air Missile Systems that are critical to defending Ukraine's airspace from Russian attacks, he said.\n\nThe Ukrainian president also rejected overtures from Hungarian Prime Minister Viktor Orban, who urged him to consider a cease-fire.\n\n\"Nobody has an answer,\" Zelenskiy said, adding that those saying he should accept an armistice haven't said how it would work.",
+        "source": {
+            "uri": "nypost.com",
+            "dataType": "news",
+            "title": "New York Post",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York City"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2024/07/84887223.jpg?quality=75&strip=all&w=1024",
+        "eventUri": "eng-9703731",
+        "sentiment": -0.01960784313725494,
+        "wgt": 457732094,
+        "relevance": 1,
+        "summary": "Ukrainian President Volodymyr Zelensky expressed his willingness to meet with Donald Trump if Trump wins the 2024 election, but urged Trump to share any plans to end the Ukraine-Russia war immediately. Trump, leading in the polls, claimed he could end the war before his potential inauguration. Zelensky emphasized the need for immediate information to prepare for any risks to Ukraine's independence and criticized delays in Western weapons deliveries. Trump\u2019s spokesperson reiterated Trump's commitment to negotiating an end to the war. Russian officials dismissed Trump's claims, while former Trump advisers suggested a plan to force peace talks by manipulating aid to Ukraine and Russia. Zelensky denied the war was at a deadlock, stating Ukraine is ready for a counteroffensive pending more arms. He praised a $61 billion U.S. aid package but lamented slow equipment deliveries. The Pentagon announced a new $2.3 billion aid package for Ukraine, including air defense systems. Zelensky also rejected Hungarian Prime Minister Viktor Orban's call for a cease-fire, citing a lack of practical solutions.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "A",
+            "2": "A",
+            "3": "A",
+            "4": "A",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 1
+    },
+    {
+        "uri": "8208311451",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-03",
+        "time": "18:22:51",
+        "dateTime": "2024-07-03T18:22:51Z",
+        "dateTimePub": "2024-07-03T18:22:05Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.theepochtimes.com/world/g7-commitment-seeks-to-hinder-chinese-financial-institutions-from-supporting-russias-full-war-economy-5675076",
+        "title": "G7 Commitment Seeks to Hinder Chinese Financial Institutions From Supporting Russia's Full War Economy",
+        "body": "The recently concluded G7 summit demonstrated to the world that Europe and the United States are determined to deter the Chinese Communist Party (CCP) and Russia from further aggression, with sanctions introduced against Chinese entities, including financial institutions that provide economic impetus for Russia to maintain its war against Ukraine.\n\nIn the G7 communiqu\u00e9 released on June 14, \"China\" was mentioned a rare 28 times in its elaborating of the Chinese communist regime for threatening geopolitics and peace on issues such as production overcapacity, support for the Russia-Ukraine war, \"militarization, and coercive and intimidation activities\" in the South China Sea, and other issues.\n\nLeaders from Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States, as well as the European Union, warned the Chinese regime against its support for the Russian war, vowing in the statement to take \"measures against actors in China and third countries that materially support Russia's war machine, including financial institutions, consistent with our legal systems, and other entities in China that facilitate Russia's acquisition of items for its defense industrial base.\"\n\nLi Hengqing, a U.S.-based Chinese economist, told The Epoch Times on June 17 that this G7 summit has reached a consensus against the CCP, a focal point of interest different from the past summits.\n\n\"In the past, those Western countries more or less considering their economic, diplomatic, and political relationship with Communist China, have always dodged naming China (CCP), but this time the G7 has made a major change, sending a clear signal that 'if the CCP furnishes resources to the Russian war, then it will be made to pay a heavy price,\" he said.\n\n\"The U.S. is targeting the CCP as a counterpart bundled with Russia,\" said Henry Wu Chia-lung, macroeconomist and lead economics researcher at Taiwan AIA Capital\n\nMr. Wu shared during the New Tang Dynasty program \"Pinnacle View\" on June 18: \"The U.S. sanctions against Russia have gone through several rafts of escalation, and now they have been further escalated to expand the sanctions against Russia's financial system, including countries with which Russian banks have business dealings, with the obvious intention of targeting the CCP.\"\n\nIt included Hong Kong trading companies that \"route payments related to gold sales through foreign financial institutions back into the Russian financial system.\"\n\nThe Treasury Department also imposed sanctions on key parts of Russia's financial infrastructure, including the Moscow Exchange, as well as its securities depository and the country's largest national clearing center.\n\nIn response, the Russian Stock Exchange suspended on June 13 trading in U.S. dollars and euros in foreign currencies and precious metals, as well as using these two currencies as financial instruments.\n\nOn June 13, the Russian central bank issued 14.2 billion yuan (about $1.96 billion) in loans to commercial banks in Russia for 174.2 billion rubles in a currency swap transaction. The day after, the bank doubled the limit of the currency swap to 20 billion yuan (about $ 2.76 billion).\n\nThe China-Russia Bilateral Local Currency Swap Arrangement was signed earlier in October 2014, when Russia was under sanctions by the West over its annexation of Ukraine's Crimea.\n\nHowever, numerous agricultural and commercial banks in northeastern provinces bordering Russia, including Jilin Bank, Changchun Farmers' and Merchants' Bank, Changchun Development Bank and Yanbian Farmers' and Merchants' Bank, continue to provide \"a freer and more flexible settlement channel for border trade\" through the Cross-Border Inter-Bank Payments System (CIPS) supported by China's central bank, according to multiple Chinese media reports.\n\nThe report said those banks shared ruble channel of Hunchun Bank's ruble channel, and \"given the transactions are mainly settled using the ruble as the currency, not the yuan, this system is outside the regulatory scope of the International Payment System (SWIFT) and won't be directly impacted [by the sanctions].\"\n\nIn this regard, Mr. Li indicated that these small banks are not directly connected to the SWIFT system, which does not mean that they can violate the U.S. and European Union bans and escape sanctions.\n\n\"If the Chinese Communist government continues to support Russia's war against Ukraine in this way, the West will eventually step in and impose sanctions on all Chinese banks. All Chinese banks are more or less state-owned, with shares linked to the Communist regime.\" Mr. Li said.",
+        "source": {
+            "uri": "theepochtimes.com",
+            "dataType": "news",
+            "title": "www.theepochtimes.com",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Plano, Texas"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://img.theepochtimes.com/assets/uploads/2024/06/25/id5675078-GettyImages-2156721547-1080x720.jpg",
+        "eventUri": null,
+        "sentiment": 0.1215686274509804,
+        "wgt": 457726971,
+        "relevance": 1,
+        "summary": "The recent G7 summit concluded with a strong stance against the Chinese Communist Party (CCP) and Russia, particularly focusing on deterring Chinese financial institutions from supporting Russia's war economy in Ukraine. The G7 communiqu\u00e9 mentioned China 28 times, highlighting issues such as geopolitical threats, support for Russia, and activities in the South China Sea. Leaders from Canada, France, Germany, Italy, Japan, the UK, the US, and the EU warned China against aiding Russia, promising measures against Chinese entities that support Russia's defense industry.\n\nU.S.-based Chinese economist Li Hengqing noted a significant shift in the G7's approach, explicitly naming China and signaling severe consequences for supporting Russia. Henry Wu Chia-lung, a macroeconomist, emphasized that U.S. sanctions on Russia have escalated to include financial systems involving Chinese entities.\n\nThe U.S. Treasury imposed sanctions on key parts of Russia's financial infrastructure, leading the Russian Stock Exchange to suspend trading in U.S. dollars and euros. In response, the Russian central bank issued substantial loans in yuan to commercial banks.\n\nDespite sanctions, some Chinese banks in northeastern provinces continue facilitating border trade with Russia using the ruble, circumventing the SWIFT system. Li warned that continued support for Russia could lead to broader sanctions on all Chinese banks, which are largely state-owned.",
+        "cluster": 0,
+        "narrative_answers": {
+            "1": "C",
+            "2": "C",
+            "3": "A",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "B",
+            "8": "C",
+            "9": "C",
+            "10": "C"
+        },
+        "true_narrative": 3
+    },
+    {
+        "uri": "2024-07-410100544",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-03",
+        "time": "13:37:55",
+        "dateTime": "2024-07-03T13:37:55Z",
+        "dateTimePub": "2024-07-03T13:33:18Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.benzinga.com/news/24/07/39617560/zelenskyy-presses-trump-to-tell-how-to-finish-ukraine-russia-war",
+        "title": "Zelenskyy Presses Trump To Tell 'How To Finish' Ukraine-Russia War",
+        "body": "In a recent development, Ukrainian President Volodymyr Zelenskyy has called on former U.S. President Donald Trump to reveal his plan for a swift end to the ongoing Russia-Ukraine war.\n\nWhat Happened: Zelenskyy, during a Wednesday interview, urged Trump to unveil his strategy for a rapid conclusion to the war, stressing that any plan must respect Ukraine's sovereignty, Bloomberg reported on Wednesday.\n\n\"If Trump knows how to finish this war, he should tell us today,\" Zelenskyy asserted.\n\nTrump, who is leading in the polls over President Joe Biden for the upcoming November election, has promised to end the war by his potential inauguration in January. He criticized the billions spent on Ukraine's defense during a recent televised debate, claiming that Kyiv is \"not winning the war.\"\n\nSee Also: Elon Musk Calls Out New Yorker Piece Criticizing Joe Biden: 'So Many Dem Knives In Biden's Back Right Now\n\nZelenskyy expressed his willingness to meet with Trump to discuss his team's proposals. He also voiced his concerns about the delays in weapon deliveries from Western allies.\n\n\"They can't plan my life and life of our people and our children,\" he said.\n\n\"We want to understand whether in November we will have the powerful support of the U.S., or will be all alone.\"\n\nWhy It Matters: Zelenskyy's call to Trump comes in the wake of a series of events. In April, Zelenskyy had shown openness to Trump's suggestions for ending the war, stating that he would \"with pleasure\" consider Trump's ideas. In June, Trump's advisors proposed a strategy to end the conflict, which Trump reportedly responded positively to.\n\nIn a recent move, NATO has planned to \"Trump-proof\" Ukraine aid after Biden's weak debate performance with a $40B annual financial pledge and a new post in Kyiv. This move is aimed at safeguarding Ukraine's potential future NATO membership and countering the impact of a potential return of Trump.\n\nRead Next: Trump Ally Steve Bannon Says Biden Withdrawl Could Upend GOP Campaign, Describes First Debate As 'Pyrrhic Victory' For Ex-President\n\nPhoto by Dmytro Larin on Shutterstock\n\nThis story was generated using Benzinga Neuro and edited by Pooja Rajkumari\n\nMarket News and Data brought to you by Benzinga APIs",
+        "source": {
+            "uri": "benzinga.com",
+            "dataType": "news",
+            "title": "Benzinga",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Detroit"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "benzinga_neuro@benzinga.com",
+                "name": "Benzinga Neuro",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://cdn.benzinga.com/files/images/story/2024/07/03/Volodymyr-Zelenskyy-Photo-by-Dmytro-Lari.jpeg?width=1200&height=800&fit=crop",
+        "eventUri": null,
+        "sentiment": -0.4117647058823529,
+        "wgt": 457709875,
+        "relevance": 1,
+        "summary": "Ukrainian President Volodymyr Zelenskyy has urged former U.S. President Donald Trump to disclose his plan for ending the Russia-Ukraine war, emphasizing that any solution must respect Ukraine's sovereignty. Trump, leading in polls for the upcoming election, has promised to end the war by his potential inauguration in January and criticized the financial aid to Ukraine. Zelenskyy expressed his willingness to discuss proposals with Trump and voiced concerns over delayed weapon deliveries from Western allies. This call comes after Zelenskyy previously showed openness to Trump's suggestions and amid NATO's efforts to secure Ukraine's aid and potential membership, regardless of U.S. political changes.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "B",
+            "3": "C",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 2
+    },
+    {
+        "uri": "8207797147",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-03",
+        "time": "12:45:02",
+        "dateTime": "2024-07-03T12:45:02Z",
+        "dateTimePub": "2024-07-03T12:44:26Z",
+        "dataType": "news",
+        "sim": 0.5843137502670288,
+        "url": "https://www.newsweek.com/kremlin-putin-ukraine-peace-talks-trump-war-1920597",
+        "title": "Kremlin responds to claims of Ukraine talks with Trump",
+        "body": "The Kremlin said on Wednesday that talks were not underway between Russian President Vladimir Putin and former U.S. President Donald Trump on possible conditions for peace in the Russia-Ukraine war.\n\nWhen questioned on the matter, Dmitry Peskov, Putin's spokesperson, told reporters, \"No, that's not true,\" reported Tass, Russia's state-run news agency.\n\nTrump, the presumptive Republican nominee challenging Democratic President Joe Biden, has said repeatedly that if reelected, he would swiftly bring an end to the war in Ukraine by speaking with Putin.\n\n\"I will have that war settled between Putin and [Ukrainian President Volodymyr] Zelensky as president-elect before I take office on January 20. I'll have that war settled,\" Trump said on June 27 during a debate with Biden, adding, \"I'll get it settled fast, before I take office.\"\n\nThe next U.S. presidential election is scheduled for November 5.\n\nIn January 2023, Trump said he would be successful in negotiating an end to the war \"within 24 hours.\"\n\n\"IF I WERE PRESIDENT, THE RUSSIA/UKRAINE WAR WOULD NEVER HAVE HAPPENED, BUT EVEN NOW, IF PRESIDENT, I WOULD BE ABLE TO NEGOTIATE AN END TO THIS HORRIBLE AND RAPIDLY ESCALATING WAR WITHIN 24 HOURS,\" Trump wrote at the time in an all-caps Truth Social post. \"SUCH A TRAGIC WASTE OF HUMAN LIFE!!!\"\n\nThe prospect of peace talks between Kyiv and Moscow has been raised multiple times since Putin launched a full-scale invasion of Ukraine in February 2022.\n\nThe Kremlin has specified a few conditions Russia considers nonnegotiable, including that Ukraine must accept the September 2022 annexation of four of its regions -- Luhansk, Donetsk, Kherson and Zaporizhzhia -- following referendums called by Putin that were deemed illegal by the international community.\n\nOn June 14, Putin said Ukraine must also renounce any plans to join the NATO military alliance.\n\nMeanwhile, Ukraine has said that any peace deal must invalidate the September 2022 annexations of its territory, and that the Crimean Peninsula, which Putin annexed in 2014, must once again be considered part of Ukraine.\n\nAndriy Yermak, Zelensky's chief of staff, told reporters on Tuesday that Ukraine was not prepared to concede any territory to end the conflict.\n\n\"But we [are] not ready to go to the compromise for the very important things and values ... independence, freedom, democracy, territorial integrity, sovereignty,\" he said.\n\nTrump said during his debate with Biden that he believed Putin's terms were \"not acceptable.\" He added: \"But look, this is a war that never should have started if we had a leader in this war.\"",
+        "source": {
+            "uri": "newsweek.com",
+            "dataType": "news",
+            "title": "Newsweek",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "isabel_van_brugen@newsweek.com",
+                "name": "Isabel Van Brugen",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://d.newsweek.com/en/full/2421620/donald-trump-vladimir-putin.webp?w=1600&h=900&q=88&f=11c40877f343a29fbd7038794d5d6172",
+        "eventUri": "eng-9703291",
+        "sentiment": -0.2627450980392156,
+        "wgt": 457706702,
+        "relevance": 12,
+        "summary": "The Kremlin has denied claims that Russian President Vladimir Putin is in talks with former U.S. President Donald Trump regarding peace conditions for the Russia-Ukraine war. Kremlin spokesperson Dmitry Peskov refuted the claims, as reported by Tass. Trump, the likely Republican nominee for the upcoming U.S. presidential election, has repeatedly stated that he would quickly end the war if reelected, asserting he could negotiate peace before taking office. The Kremlin has set nonnegotiable conditions for peace, including Ukraine's acceptance of the annexation of four regions and renunciation of NATO membership plans. Ukraine, however, insists on the invalidation of these annexations and the return of Crimea. Ukrainian President Volodymyr Zelensky's chief of staff, Andriy Yermak, emphasized Ukraine's unwillingness to compromise on its territorial integrity and sovereignty. Trump has criticized the war and expressed that Putin's terms are unacceptable.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "C",
+            "2": "C",
+            "3": "C",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "B",
+            "10": "C"
+        },
+        "true_narrative": 3
+    },
+    {
+        "uri": "8206872028",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-03",
+        "time": "00:39:13",
+        "dateTime": "2024-07-03T00:39:13Z",
+        "dateTimePub": "2024-07-03T00:38:21Z",
+        "dataType": "news",
+        "sim": 0.8588235378265381,
+        "url": "https://gvwire.com/2024/07/02/trump-says-he-can-end-the-russia-ukraine-war-in-one-day-russias-un-ambassador-says-he-cant/",
+        "title": "Trump Says He Can End the Russia-Ukraine War in One Day. Russia's UN Ambassador Says He Can't",
+        "body": "UNITED NATIONS -- Donald Trump has repeatedly said he could settle the war between Russia and Ukraine in one day if he's elected president again. Russia's United Nations ambassador says he can't.\n\nWhen asked to respond to the claim from the presumptive Republican nominee, Vassily Nebenzia told reporters Monday that \"the Ukrainian crisis cannot be solved in one day.\"\n\nAt a CNN town hall in May 2023, Trump said: \"They're dying, Russians and Ukrainians. I want them to stop dying. And I'll have that done -- I'll have that done in 24 hours.\" He said that would happen after he met with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. And he keeps repeating the claim on the campaign trail.\n\nDuring last week's debate with President Joe Biden, Trump claimed, \"If we had a real president, a president that knew -- that was respected by Putin ... he would have never invaded Ukraine.\"\n\nTrump campaign's communications director Steven Cheung said Tuesday that \"a top priority in his second term will be to quickly negotiate an end to the Russia-Ukraine war.\"\n\n\"Trump believes European nations should be paying more of the cost of the conflict,\" Cheung said.\n\nRelated Story: How to Get Voters the Facts They Need Without a Trump Jan. 6 Trial\n\nNebenzia said the war could have ended in April 2022 in Istanbul when Russia and Ukraine were \"very close\" to an agreement. Moscow invaded its neighbor two months earlier on Feb. 24, 2022, though Russia insists its \"special military operation\" began in 2014 after clashes in Ukraine's east resulted in Moscow seizing the Crimea Peninsula.\n\nThe Russian ambassador blamed Ukraine's Western backers for blocking the April 2022 peace deal and telling Kyiv to keep fighting Russia.\n\nNow, he said, Zelenskyy \"is running around with his so-called peace plan which, of course, is not a peace plan but a joke.\" While meeting in Switzerland last month, nearly 80 countries called for the \"territorial integrity\" of Ukraine to be the basis for any peace agreement to end the war. But some key developing nations did not join in and Russia did not attend the conference.\n\nRelated Story: Manhattan Prosecutors Agree to Delay Trump's Sentencing\n\nNebenzia pointed to Putin's offer on June 14 to \"immediately\" order a cease-fire in Ukraine and start negotiations if Kyiv begins withdrawing troops from the four regions annexed by Moscow in 2022 and renounces plans to join NATO.\n\nZelenskyy, who has vowed not to give up any territory, rejected what he called an ultimatum by Putin to surrender more land.\n\nThe Trump campaign didn't immediately respond to an email seeking comment about Nebenzia's remarks.\n\nRelated Story: How did CNN's Moderators Do in the Biden-Trump Debate? It Almost ...\n\nAfter Russia's full-scale invasion, Ukrainian forces thwarted their drive to the capital. Much of the fighting has been focused in Ukraine's south and east, where Moscow illegally seized four regions, although it doesn't fully control any of them.\n\nBut Ukraine is still struggling to stabilize parts of its front line after desperately needed military assistance from the United States was delayed for months before being approved in April. And Russia took advantage of the Ukrainian weapons shortage to launch an offensive and has made gains.\n\nNebenzia called Zelenskyy's peace formula \"a nonstarter\" and said he needs to be \"realistic\" and take into account what's happened since April. The more difficult the situation becomes for Ukraine on the ground, he warned, the more difficult diplomacy will become to end the war.",
+        "source": {
+            "uri": "gvwire.com",
+            "dataType": "news",
+            "title": "GV Wire",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Fresno, California"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "associated_press@gvwire.com",
+                "name": "Associated Press",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/07/02172741/AP24180745744313.jpg",
+        "eventUri": "eng-9698084",
+        "sentiment": 0.003921568627450966,
+        "wgt": 457663153,
+        "relevance": 1,
+        "summary": "Former U.S. President Donald Trump claims he can end the Russia-Ukraine war in one day if re-elected, a statement dismissed by Russia's UN Ambassador Vassily Nebenzia, who argues the conflict is too complex for such a quick resolution. Trump has reiterated his claim during his campaign, suggesting he would negotiate directly with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. Nebenzia criticized Western nations for allegedly blocking a potential peace deal in April 2022 and dismissed Zelenskyy's current peace plan as unrealistic. He emphasized that any peace negotiations should consider the current situation, including Russia's annexation of four Ukrainian regions. Zelenskyy has rejected Putin's conditions for a ceasefire, which include Ukraine withdrawing troops and renouncing NATO membership. The ongoing conflict has seen significant fighting in Ukraine's south and east, with Ukraine struggling due to delayed military aid from the U.S.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "B",
+            "3": "B",
+            "4": "A",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 2
+    },
+    {
+        "uri": "2024-07-409062613",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-02",
+        "time": "16:46:00",
+        "dateTime": "2024-07-02T16:46:00Z",
+        "dateTimePub": "2024-07-02T16:00:12Z",
+        "dataType": "news",
+        "sim": 0.886274516582489,
+        "url": "https://www.newsmax.com/world/globaltalk/trump-russia-ukraine-war-UN-election/2024/07/02/id/1170975/",
+        "title": "Trump Says he Can End the Russia-Ukraine war in One Day. Russia's UN Ambassador Says he Can't",
+        "body": "UNITED NATIONS (AP) -- Donald Trump has repeatedly said he could settle the war between Russia and Ukraine in one day if he's elected president again. Russia's United Nations ambassador says he can't.\n\nWhen asked to respond to the claim from the presumptive Republican nominee, Vassily Nebenzia told reporters Monday that \"the Ukrainian crisis cannot be solved in one day.\"\n\nAt a CNN town hall in May 2023, Trump said: \"They're dying, Russians and Ukrainians. I want them to stop dying. And I'll have that done -- I'll have that done in 24 hours.\" He said that would happen after he met with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. And he keeps repeating the claim on the campaign trail.\n\nDuring last week's debate with President Joe Biden, Trump claimed, \"If we had a real president, a president that knew -- that was respected by Putin ... he would have never invaded Ukraine.\"\n\nTrump campaign's communications director Steven Cheung said Tuesday that \"a top priority in his second term will be to quickly negotiate an end to the Russia-Ukraine war.\"\n\n\"Trump believes European nations should be paying more of the cost of the conflict,\" Cheung said.\n\nNebenzia said the war could have ended in April 2022 in Istanbul when Russia and Ukraine were \"very close\" to an agreement. Moscow invaded its neighbor two months earlier on Feb. 24, 2022, though Russia insists its \"special military operation\" began in 2014 after clashes in Ukraine's east resulted in Moscow seizing the Crimea Peninsula.\n\nThe Russian ambassador blamed Ukraine's Western backers for blocking the April 2022 peace deal and telling Kyiv to keep fighting Russia.\n\nNow, he said, Zelenskyy \"is running around with his so-called peace plan which, of course, is not a peace plan but a joke.\" While meeting in Switzerland last month, nearly 80 countries called for the \"territorial integrity\" of Ukraine to be the basis for any peace agreement to end the war. But some key developing nations did not join in and Russia did not attend the conference.\n\nNebenzia pointed to Putin's offer on June 14 to \"immediately\" order a cease-fire in Ukraine and start negotiations if Kyiv begins withdrawing troops from the four regions annexed by Moscow in 2022 and renounces plans to join NATO.\n\nZelenskyy, who has vowed not to give up any territory, rejected what he called an ultimatum by Putin to surrender more land.\n\nThe Trump campaign didn't immediately respond to an email seeking comment about Nebenzia's remarks.\n\nAfter Russia's full-scale invasion, Ukrainian forces thwarted their drive to the capital. Much of the fighting has been focused in Ukraine's south and east, where Moscow illegally seized four regions, although it doesn't fully control any of them.\n\nBut Ukraine is still struggling to stabilize parts of its front line after desperately needed military assistance from the United States was delayed for months before being approved in April. And Russia took advantage of the Ukrainian weapons shortage to launch an offensive and has made gains.\n\nNebenzia called Zelenskyy's peace formula \"a nonstarter\" and said he needs to be \"realistic\" and take into account what's happened since April. The more difficult the situation becomes for Ukraine on the ground, he warned, the more difficult diplomacy will become to end the war.",
+        "source": {
+            "uri": "newsmax.com",
+            "dataType": "news",
+            "title": "NewsMax",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "West Palm Beach, Florida"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "edith_m_lederer@newsmax.com",
+                "name": "Edith M. Lederer",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=5b160041-9fe6-4e25-b6b3-2a52dd9e0b25&SiteName=Newsmax&maxsidesize=280",
+        "eventUri": "eng-9698084",
+        "sentiment": -0.1215686274509804,
+        "wgt": 457634760,
+        "relevance": 1,
+        "summary": "Former U.S. President Donald Trump claims he can end the Russia-Ukraine war in one day if re-elected, a statement dismissed by Russia's UN Ambassador Vassily Nebenzia. Trump has reiterated this claim, suggesting he would negotiate directly with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. Nebenzia argues the conflict is too complex for such a swift resolution and blames Western nations for obstructing a potential peace deal in April 2022. He also criticized Zelenskyy's peace plan and emphasized that any negotiations should consider the current territorial realities. The Trump campaign maintains that ending the war would be a priority in a second term, with a focus on increased European financial contributions.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "B",
+            "3": "B",
+            "4": "A",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 2
+    },
+    {
+        "uri": "8206334404",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-02",
+        "time": "15:54:56",
+        "dateTime": "2024-07-02T15:54:56Z",
+        "dateTimePub": "2024-07-02T15:54:38Z",
+        "dataType": "news",
+        "sim": 0.7607843279838562,
+        "url": "https://www.ntd.com/defense-secretary-announces-new-us-military-aid-package-to-ukraine_1002654.html",
+        "title": "Defense Secretary Announces New US Military Aid Package to Ukraine",
+        "body": "US Defense Secretary Lloyd Austin welcomes Ukrainian Defense Secretary Rustem Umerov to the Pentagon in Washington on July 2, 2024. (Drew Angerer/AFP via Getty Images)\n\nDefense Secretary Lloyd Austin announced Tuesday that the United States will provide $2.3 billion more in military assistance to Ukraine, which includes missile systems, anti-tank weapons, and more munitions.\n\n\"Make no mistake, Ukraine is not alone, and the United States will never waver in our support,\" Mr. Austin said during a news conference at the Pentagon as he met with Ukrainian Defense Minister Rustem Umerov.\n\n\"Alongside some 50 allies and partners, we'll continue to provide critical capabilities that Ukraine needs to push back Russian aggression today and to deter Russian aggression tomorrow,\" he added.\n\n\"This package ... will provide more air defense interceptors, anti-tank weapons, and other critical munitions\" taken from U.S. military stocks, Mr. Austin confirmed.\n\nUkrainian President Volodymyr Zelenskyy said on social media Sunday that Russia had dropped more than 800 powerful glide bombs in Ukraine in the last week. He urged national leaders to relax restrictions on the use of Western weapons to strike military targets inside Russia. In particular, he said, Ukraine needs the \"necessary means to destroy the carriers of these bombs, including Russian combat aircraft, wherever they are.\"\n\nMr. Austin did not refer to the aforementioned restrictions in his Tuesday comments, but he told Mr. Umerov that they would discuss \"more ways to meet Ukraine's immediate security needs and to build a future force to ward off more Russian aggression.\"\n\nAccording to a Council on Foreign Relations think tank analysis as well as the Committee for a Responsible Budget, some $175 billion has been sent to Ukraine since February 2022, when the Russia-Ukraine war began. A large portion of that -- $61.3 billion -- was sent to the Eastern European country in an April bill that passed both houses of Congress.\n\nAlso Tuesday, Hungarian Prime Minister Viktor Orban met with Mr. Zelenskyy during a public event in Kyiv, Ukraine's capital, and asked him for a \"quick cease-fire.\"\n\n\"I asked the president to consider whether ... a quick cease-fire could speed up the peace talks,\" the Hungarian leader said at a press conference, according to local media reports.\n\nIn response, Mr. Zelenskyy said that he hopes for a \"just peace,\" adding that \"we appreciate that your visit takes place right after the start of the Hungarian Presidency of the European Union. This clearly indicates our common European priorities, of how important it is to bring a just peace to Ukraine.\"\n\nBut he stressed that he hopes that the European Union, of which Hungary is a member, will back his country.\n\n\"It is also very important for all of us in Europe that Europe's support for Ukraine remains sufficient, including our defense against\" Russia, the Ukrainian leader added.\n\nOn Sunday, Mr. Zelenskyy wrote on Telegram, \"Our cities and communities suffer daily from such Russian strikes,\" while saying that there are ways to overcome this that include \"destroying Russian missile launchers, striking with real long-range capability and increasing the number of modern air defense systems.\"\n\nHe also posted images that showed a large smoldering crater near a destroyed building, as well as pictures of bodies.\n\nAs of Tuesday morning, Russia has not issued a public comment in response to Mr. Austin's announcement. Previous U.S. aid packages to Ukraine have been met by scorn from top Russian officials, who have suggested that the aid would lead to more deaths in the conflict.\n\nAfter the April package was passed in Congress, Kremlin spokesman Dmitry Peskov told reporters at the time that \"money allocated and the weapons that will be supplied will not change this dynamic,\" adding, \"More Ukrainians will die, Ukraine will suffer greater losses.\"\n\nThe Pentagon announcement was made about a day after Ukraine's security service announced that it had stopped what it described as an attempted coup that would have \"played into Russia's hands.\"\n\n\"Under the pretext of holding a so-called 'veche' [a people's assembly], the perpetrators planned to announce a 'removal from power' of the current military and political leadership of Ukraine,\" the statement said. \"Then they hoped to seize the building of the Parliament of Ukraine and block its work.\"",
+        "source": {
+            "uri": "ntd.com",
+            "dataType": "news",
+            "title": "NTD",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://i.ntd.com/assets/uploads/2024/07/id1002658-GettyImages-2159714093.jpg",
+        "eventUri": "eng-9698928",
+        "sentiment": -0.09019607843137256,
+        "wgt": 457631696,
+        "relevance": 1,
+        "summary": "US Defense Secretary Lloyd Austin announced a new $2.3 billion military aid package to Ukraine, including missile systems, anti-tank weapons, and munitions, during a meeting with Ukrainian Defense Minister Rustem Umerov at the Pentagon. Austin emphasized continued US and allied support for Ukraine against Russian aggression. Ukrainian President Volodymyr Zelenskyy highlighted recent Russian bombings and called for relaxed restrictions on using Western weapons against Russia. Hungarian Prime Minister Viktor Orban met Zelenskyy in Kyiv, advocating for a quick cease-fire, while Zelenskyy stressed the need for European Union support. The announcement follows a significant $61.3 billion aid package passed by Congress in April. Russia has not yet responded to the latest aid package, though past responses have been critical. Additionally, Ukraine's security service reported thwarting an attempted coup aimed at destabilizing the government.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "A",
+            "2": "A",
+            "3": "A",
+            "4": "A",
+            "5": "A",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "A"
+        },
+        "true_narrative": 1
+    },
+    {
+        "uri": "2024-07-408987436",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-02",
+        "time": "15:35:50",
+        "dateTime": "2024-07-02T15:35:50Z",
+        "dateTimePub": "2024-07-02T15:11:23Z",
+        "dataType": "news",
+        "sim": 0.8901960849761963,
+        "url": "https://santamariatimes.com/news/world/trump-says-he-can-end-the-russia-ukraine-war-in-one-day-russias-un-ambassador/article_9d130406-f07f-5bca-a9ba-8e8a3922d956.html",
+        "title": "Trump says he can end the Russia-Ukraine war in one day. Russia's UN ambassador says he can't",
+        "body": "Donald Trump has repeatedly said he can settle the war between Russia and Ukraine in one day if he's elected president again\n\nUNITED NATIONS (AP) -- Donald Trump has repeatedly said he could settle the war between Russia and Ukraine in one day if he's elected president again. Russia's United Nations ambassador says he can't.\n\nWhen asked to respond to the claim from the presumptive Republican nominee, Vassily Nebenzia told reporters Monday that \"the Ukrainian crisis cannot be solved in one day.\"\n\nAt a CNN town hall in May 2023, Trump said: \"They're dying, Russians and Ukrainians. I want them to stop dying. And I'll have that done -- I'll have that done in 24 hours.\" He said that would happen after he met with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. And he keeps repeating the claim on the campaign trail.\n\nDuring last week's debate with President Joe Biden, Trump claimed, \"If we had a real president, a president that knew -- that was respected by Putin ... he would have never invaded Ukraine.\"\n\nTrump campaign's communications director Steven Cheung said Tuesday that \"a top priority in his second term will be to quickly negotiate an end to the Russia-Ukraine war.\"\n\n\"Trump believes European nations should be paying more of the cost of the conflict,\" Cheung said.\n\nNebenzia said the war could have ended in April 2022 in Istanbul when Russia and Ukraine were \"very close\" to an agreement. Moscow invaded its neighbor two months earlier on Feb. 24, 2022, though Russia insists its \"special military operation\" began in 2014 after clashes in Ukraine's east resulted in Moscow seizing the Crimea Peninsula.\n\nThe Russian ambassador blamed Ukraine's Western backers for blocking the April 2022 peace deal and telling Kyiv to keep fighting Russia.\n\nNow, he said, Zelenskyy \"is running around with his so-called peace plan which, of course, is not a peace plan but a joke.\" While meeting in Switzerland last month, nearly 80 countries called for the \"territorial integrity\" of Ukraine to be the basis for any peace agreement to end the war. But some key developing nations did not join in and Russia did not attend the conference.\n\nNebenzia pointed to Putin's offer on June 14 to \"immediately\" order a cease-fire in Ukraine and start negotiations if Kyiv begins withdrawing troops from the four regions annexed by Moscow in 2022 and renounces plans to join NATO.\n\nZelenskyy, who has vowed not to give up any territory, rejected what he called an ultimatum by Putin to surrender more land.\n\nThe Trump campaign didn't immediately respond to an email seeking comment about Nebenzia's remarks.\n\nAfter Russia's full-scale invasion, Ukrainian forces thwarted their drive to the capital. Much of the fighting has been focused in Ukraine's south and east, where Moscow illegally seized four regions, although it doesn't fully control any of them.\n\nBut Ukraine is still struggling to stabilize parts of its front line after desperately needed military assistance from the United States was delayed for months before being approved in April. And Russia took advantage of the Ukrainian weapons shortage to launch an offensive and has made gains.\n\nNebenzia called Zelenskyy's peace formula \"a nonstarter\" and said he needs to be \"realistic\" and take into account what's happened since April. The more difficult the situation becomes for Ukraine on the ground, he warned, the more difficult diplomacy will become to end the war.",
+        "source": {
+            "uri": "santamariatimes.com",
+            "dataType": "news",
+            "title": "Santa Maria Times",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "associated_press@santamariatimes.com",
+                "name": "Associated Press",
+                "type": "author",
+                "isAgency": false
+            },
+            {
+                "uri": "edith_m_lederer@santamariatimes.com",
+                "name": "Edith M. Lederer",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/custom/image/b9c888ca-59a2-11eb-a31f-0b4d74fa96dc.jpg?resize=200%2C200",
+        "eventUri": "eng-9698084",
+        "sentiment": -0.1764705882352942,
+        "wgt": 457630550,
+        "relevance": 1,
+        "summary": "Former U.S. President Donald Trump has claimed he could end the Russia-Ukraine war in one day if re-elected, a statement dismissed by Russia's UN Ambassador Vassily Nebenzia, who said the crisis cannot be resolved so quickly. Trump has reiterated this claim during his campaign, suggesting he would negotiate with Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin. Nebenzia argued that a potential peace deal in April 2022 was blocked by Ukraine's Western allies and criticized Zelenskyy's current peace plan. He also mentioned Putin's offer for a cease-fire if Ukraine withdraws from annexed regions and renounces NATO ambitions, which Zelenskyy rejected. The Trump campaign emphasized that negotiating an end to the war would be a priority in a second term, with a focus on European nations bearing more conflict costs. The situation remains complex, with ongoing fighting and diplomatic challenges.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "B",
+            "3": "B",
+            "4": "A",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 2
+    },
+    {
+        "uri": "8205868915",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-02",
+        "time": "10:58:59",
+        "dateTime": "2024-07-02T10:58:59Z",
+        "dateTimePub": "2024-07-02T10:58:40Z",
+        "dataType": "news",
+        "sim": 0.6470588445663452,
+        "url": "https://www.breitbart.com/europe/2024/07/02/hungarys-orban-makes-first-trip-to-ukraine-of-war-promoting-peace-talks/",
+        "title": "Orban Makes First Trip to Ukraine of War, Promoting Peace Talks",
+        "body": "Hungarian Prime Minister Viktor Orban arrived in Kyiv, Ukraine on Tuesday morning to promote a peace process, the day after he took over the Presidency of the European Council.\n\nViktor Orban took over the rotating presidency of the European Council on Monday, vowing to work for peace in Europe during his term, and promptly took up the longstanding invitation to travel to Kyiv from Ukrainian President Volodymyr Zelensky in a surprise trip Tuesday morning.\n\nA press spokesman for Mr Orban said of his intentions for the day, which will include talks with President Zelensky, statements, but no press conference: \"The most important topic of the discussion is the possibility of creating peace\". He said they would also discuss Hungarian-Ukrainian bilateral relations, which have tended to be reasonably poor in the past, Budapest accusing Kyiv of mistreating the nation's small Hungarian minority in its south-West.\n\nThis issue has also long been a sticking point in Ukraine's attempts to join the European Union, along with addressing corruption and the influence of oligarchs. The bloc opened formal membership talks with Kyiv last week, a major boost for the country.\n\nHungary's Orban has made clear working for peace in Europe will be the major focus of his time at the top of the European Council, the club of EU member state heads of state, which is chaired by a rotating presidency. On Monday as he took over the role from the Belgians, Mr Orban said the Russia-Ukraine war is the greatest threat presently facing Europe and said he wanted to be sure the continent is ready for what comes next.\n\nArticulating his view that President Trump will be the next U.S. President and will impose a ceasefire on Russia and Ukraine within days of taking office, which he says he believes will lead to peace negotiations, Orban warns of a situation where the United States and Russia negotiate between themselves on the future of a European nation without European leaders being at the table.\n\nSo while Orban's talk of peace is deeply unpopular among some European leaders, and has led to accusations of him being a Russian puppet, he insists being ready for such an outcome would be in the continent's interests. He said on Monday, per Hungarian media: \"Europe must prepare for the situation that sooner or later the Americans and the Russians will negotiate with each other... Where will Europe be in this [situation]? Who will represent your interests? What are your interests anyway?\".",
+        "source": {
+            "uri": "breitbart.com",
+            "dataType": "news",
+            "title": "Breitbart",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Los Angeles"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "oliver_jj_lane@breitbart.com",
+                "name": "Oliver Jj Lane",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://media.breitbart.com/media/2024/07/GettyImages-2158962935-e1719908438174.jpg",
+        "eventUri": "eng-9694271",
+        "sentiment": 0.3490196078431373,
+        "wgt": 457613939,
+        "relevance": 1,
+        "summary": "Hungarian Prime Minister Viktor Orban visited Kyiv, Ukraine, on Tuesday to promote peace talks, following his assumption of the European Council presidency on Monday. Orban's visit, at the invitation of Ukrainian President Volodymyr Zelensky, aims to discuss peace possibilities and Hungarian-Ukrainian relations, which have been strained over the treatment of Ukraine's Hungarian minority. This issue has also impacted Ukraine's EU membership aspirations, although formal talks began last week. Orban's presidency will focus on peace in Europe, particularly concerning the Russia-Ukraine war. He predicts that a future U.S. President Trump will enforce a ceasefire, leading to peace negotiations, and stresses the need for Europe to be prepared for such developments. Despite criticism from some European leaders, Orban argues that Europe must ensure its interests are represented in any U.S.-Russia negotiations.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "C",
+            "2": "C",
+            "3": "C",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "A",
+            "10": "C"
+        },
+        "true_narrative": 3
+    },
+    {
+        "uri": "2024-07-408559978",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-02",
+        "time": "09:34:28",
+        "dateTime": "2024-07-02T09:34:28Z",
+        "dateTimePub": "2024-07-02T09:23:24Z",
+        "dataType": "news",
+        "sim": 0.4627451002597809,
+        "url": "https://www.newsweek.com/russian-troops-sent-battle-motorbikes-destroyed-ukraine-war-1919955",
+        "title": "Russian troops sent into battle on motorbikes \"destroyed\"",
+        "body": "Footage and images posted online appear to depict a squad of Russian troops on motorbikes coming under attack from Ukrainian forces.\n\nA video montage showed Russian tanks, armored vehicles and motorcycles engaged by Ukrainian drones and strikes. Images accompanying the video show over a dozen motorcycles scattered around an armored vehicle along a dirt road. The text at the end of the video lists targets \"destroyed\" by the \"Black Zaporozhians\" (a.k.a. Ukraine's 72 Mechanized Brigade), which includes 16 tanks and 19 motorcycles.\n\nThe video and images were posted online by Anton Gerashchenko, who has served as an adviser to Ukraine's internal affairs minister. Newsweek contacted the Russian and Ukrainian defense ministries for comment.\n\nThe post read: \"Vuhledar direction, Russian losses courtesy of Ukrainian Warriors from the 72 Separate Mechanized Brigade.\n\n\"Note the large number of burned and destroyed Russian motorcycles, sent into combat together with heavy equipment - the Russian soldiers were sent into the meat grinder consciously.\"\n\nUkrainian officials on Monday claimed that Russia lost its highest-ever number of artillery systems in a one-month period. An official post from the Ministry of Defense of Ukraine reported that 1,415 Russian artillery systems were destroyed in June, which it said was a record since the beginning of the full-scale invasion in February 2022.\n\nKyiv also claimed that 1,160 artillery systems were destroyed in May, putting Moscow's artillery losses at around 14,600.\n\nThe posts didn't clarify where the data used in the report originated, however. Russia doesn't publish its military losses, and analysts are skeptical of reports by both sides.\n\nUkraine also claimed Russia suffered its second-highest monthly personnel losses in June - 35,030 soldiers.\n\nThe British government estimated in May that Russia's total casualties had likely reached half a million.\n\nMoscow's forces are pushing to make significant gains in eastern Ukraine, and the Luhansk and Donetsk regions, which comprise the Donbas area, are suffering constant shelling. Russia's tactics include digging tunnels to get behind enemy lines and launch attacks, according to its defense ministry.\n\nUkraine has also been focusing its efforts on the occupied Crimean peninsula, which it has pledged to retake.\n\nRussia has accused Ukrainian forces of using U.S.-made ATACMS (Army Tactical Missile Systems) to attack targets in Crimea. The Russian Union of Travel Industry (RUTI) said Sunday that there had been a 25 to 30 percent decline in bookings in Crimea after debris from Ukrainian missiles intercepted by air defenses landed on a beach in the port city of Sevastopol on June 23.\n\nDo you have a story we should be covering? Do you have any questions about the Russia-Ukraine war? Do you have any questions about Ukraine's 72 Mechanized Brigade? Contact LiveNews@newsweek.com",
+        "source": {
+            "uri": "newsweek.com",
+            "dataType": "news",
+            "title": "Newsweek",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "joe_edwards@newsweek.com",
+                "name": "Joe Edwards",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://d.newsweek.com/en/full/2420714/ukraine-drone.webp?w=1600&h=900&q=88&f=e4cacf5e4dbd03aa8d25aa9db609e701",
+        "eventUri": "eng-9690601",
+        "sentiment": -0.1686274509803921,
+        "wgt": 457608868,
+        "relevance": 1,
+        "summary": "A video posted online by Anton Gerashchenko, an adviser to Ukraine's internal affairs minister, shows Ukrainian forces attacking Russian troops on motorbikes, resulting in significant Russian losses. The footage, attributed to Ukraine's 72 Mechanized Brigade, depicts destroyed Russian tanks, armored vehicles, and motorcycles. Ukrainian officials claim Russia lost a record number of artillery systems in June, with 1,415 destroyed, and suffered its second-highest monthly personnel losses. The British government estimates Russia's total casualties at around half a million. Russia continues its offensive in eastern Ukraine, while Ukraine targets the occupied Crimean peninsula. Russia alleges Ukraine used U.S.-made missiles in Crimea, leading to a decline in tourism bookings.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "C",
+            "2": "A",
+            "3": "C",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "A"
+        },
+        "true_narrative": 3
+    },
+    {
+        "uri": "8204932509",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-01",
+        "time": "21:07:47",
+        "dateTime": "2024-07-01T21:07:47Z",
+        "dateTimePub": "2024-07-01T21:03:57Z",
+        "dataType": "news",
+        "sim": 0.6980392336845398,
+        "url": "https://www.naturalnews.com/2024-07-01-nato-offers-ukraine-new-hq-bridge-membership.html",
+        "title": "NATO offers Ukraine a new HQ in Germany - a \"bridge\" to Kyiv's eventual membership   - NaturalNews.com",
+        "body": "Officials from NATO and the U.S. confirmed the move, adding that the headquarters will be formally announced at the group's upcoming 75th anniversary summit, to be held in Washington, D.C. from July 9 to July 11. The mission will be known as the NATO Security Assistance and Training for Ukraine (NSATU) and will work to \"reduce duplications and complications from the various kinds of weaponry sent to Ukraine.\n\nAccording to DNYUZ, the NSATU will be based at a U.S. military facility in the city of Wiesbaden in Germany's Hesse state. It will be headed by a three-star general - likely an American - reporting to Gen. Christopher Cavoli, the head of the U.S. European Command and Supreme Allied Commander Europe.\n\nNSATU will bring under one umbrella the activities of the current \"capabilities coalition\" of countries that provide various aspects of military aid to Ukraine like air defenses, artillery, F-16 fighter jets, arms and training. The U.S. and NATO officials who spoke on condition of anonymity added that the NSATU will also coordinate the training of Ukrainian military personnel in allied countries and the longer-term bilateral security agreements that different countries have signed with Ukraine.\n\nFormer U.S. Permanent Representative to NATO Ivo Daalder explained that putting the NSATU under Cavoli's NATO hat will protect it from any political change in Washington. Because the mission will be under NATO's auspices, it is designed to function even if former U.S. President Donald Trump wins the November presidential elections and returns to the White House.\n\nWe are building the infrastructure of human freedom and empowering people to be informed, healthy and aware. Explore our decentralized, peer-to-peer, uncensorable Brighteon.io free speech platform here. Learn about our free, downloadable generative AI tools at Brighteon.AI. Every purchase at HealthRangerStore.com helps fund our efforts to build and share more tools for empowering humanity with knowledge and abundance.\n\n\"It's an effort at Trump-proofing, and a deliberate effort to bring Ukraine and NATO closer together to support Ukraine today - as well as into the future,\" said Daalder, now the president of the Chicago Council on Global Affairs think tank.\n\nThe Biden administration has not commented publicly on the NSATU initiative's details. But U.S. National Security Advisor Jake Sullivan said that NATO's 75th anniversary summit would show that allies are taking \"concrete steps\" to bring Ukraine closer. He added that it would also ensure that Kyiv has a \"bridge to eventual membership.\"\n\nAccording to DNYUZ, the Biden administration and NATO officials came up with the idea as a way to give something solid to Kyiv at the summit - even as they maintain the time is not right for Ukraine to join. The hope is that the mission and the commitment it represents will satisfy Ukrainian President Volodymyr Zelensky and lead to a smoother summit. (Related: The outcome of Ukraine's war with Russia will determine whether it achieves NATO membership.)\n\nLast year, Zelensky and other Central European nations fervently hoped that NATO would offer Ukraine membership negotiations during the 2023 NATO summit held in the Lithuanian capital Vilnius. But the alliance refused to offer Ukraine a fixed timeline and clear path to membership or to allow negotiations on membership to begin, driving Zelensky to voice out his displeasure.\n\nAll NATO member countries are on board the NSATU's establishment. However, according to Daalder, Germany objected to calling it a \"mission\" to avoid the implication that NATO was at war with Russia. While the group has yet to declare war with Moscow, its assistance of Ukraine makes it a party to the conflict.\n\nOutgoing NATO Secretary-General Jens Stoltenberg vaguely touched on the NSATU initiative at a June 14 news conference, which followed a meeting of NATO defense ministers on the same day. He called the new mission a \"key summit deliverable\" and a further step \"on Ukraine's path to NATO membership.\"\n\nStoltenberg reiterated that the initiative would \"put our support to Ukraine on a firmer footing for years to come.\" He added: \"These efforts do not make NATO a party to the conflict, but they will enhance our support to Ukraine to uphold its right to self-defense.\"\n\nBut ultimately, the NSATU will surely infuriate Russia and further derail potential peace talks between Kyiv and Moscow. Russian President Vladimir Putin has imposed two requirements before talks to end the Russia-Ukraine war could begin - Ukraine must pull out all its troops in territories annexed by Russia and must abandon its intent to join NATO.\n\nListen to the Health Ranger Mike Adams explaining that the U.S. and NATO have already decided to take the American people to war below.\n\nU.S., Ukraine sign 10-year bilateral security agreement backed by nothing.\n\nNATO to overstep Russia's red line as it mulls sending troops to train Ukrainian armed forces.",
+        "source": {
+            "uri": "naturalnews.com",
+            "dataType": "news",
+            "title": "NaturalNews.com",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Tucson, Arizona"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/07/natoCouncil_0.jpg",
+        "eventUri": "eng-9695519",
+        "sentiment": 0.2470588235294118,
+        "wgt": 457564067,
+        "relevance": 1,
+        "summary": "NATO has announced the establishment of a new headquarters in Wiesbaden, Germany, called the NATO Security Assistance and Training for Ukraine (NSATU). This initiative, to be formally unveiled at NATO's 75th anniversary summit in Washington, D.C., aims to streamline military aid and training for Ukraine, consolidating efforts under a single command led by a three-star general reporting to Gen. Christopher Cavoli. The move is designed to support Ukraine's defense capabilities and bring it closer to NATO membership, while also being resilient to potential political changes in the U.S., such as a possible return of Donald Trump to the presidency. The initiative has unanimous support from NATO members, although Germany objected to calling it a \"mission\" to avoid implying direct conflict with Russia. The NSATU is expected to enhance NATO's support for Ukraine but may further strain relations with Russia, which demands Ukraine withdraw from annexed territories and abandon its NATO aspirations as preconditions for peace talks.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "A",
+            "2": "A",
+            "3": "A",
+            "4": "A",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "A",
+            "9": "B",
+            "10": "A"
+        },
+        "true_narrative": 1
+    },
+    {
+        "uri": "8204628681",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-01",
+        "time": "16:34:13",
+        "dateTime": "2024-07-01T16:34:13Z",
+        "dateTimePub": "2024-07-01T16:33:52Z",
+        "dataType": "news",
+        "sim": 0.7568627595901489,
+        "url": "https://www.theamericanconservative.com/doug-burgum-is-a-neocon/",
+        "title": "Doug Burgum Is a Neocon",
+        "body": "The selection of the North Dakota governor would be a cavalier choice on the issue of greatest presidential power: foreign policy.\n\nIt's July. In the coming days, the Republican presidential ticket will finalize, even as the Democratic ticket could evaporate.\n\nThe former President Donald Trump is meditating on a raft of main choices -- among them Senator Tim Scott (R-SC) and Senator J.D. Vance (R-OH). One contender of a previously lower profile, however, has evolved from dark horse to an apparent favorite in the sweepstakes. North Dakota Governor Doug Burgum is seen by his adherents as a well-suited, no-nonsense deputy for the second Trump tour of duty.\n\nSquint and you can see the case: younger, but not too much younger (at 67, Burgum will not overshadow Trump with youthful panache). He has a business record (he sold a software company to Microsoft in the Clinton-era tech craze). A non-factor rival for the nomination last year, Burgum is said to get on with the presumptive Republican nominee. Burgum's wife is a recovering alcoholic -- a point of sympathy from the ex-president who blames his brother Fred's premature demise on the bottle.\n\nMany are hoping that a second Trump term would be a bespoke version of the first. Populists clamor for a more tough-minded focus on the issues -- foreign policy restraint, trade realism and migration sanity -- that helped make Trump the most powerful man in the world.\n\nThe selection of Burgum would indeed be vintage -- but not in an inspired way.\n\nFor instance, Burgum has stated the U.S. is literally \"at war\" with Russia and appeared to leave the door open to future deployment of American troops. In one video interview, Burgum stated, \"We're in a cold war with China, and we're actually at war with Russia-we just haven't sent troops yet. We're sending material, we're sending funding, we're sending advisors.\"\n\nIt's not just Eurasia that Burgum wants troops, but also that old standby: the Middle East. Burgum has been open to placing American troops in the maelstrom of the Israel-Gaza war. \"Absolutely,\" Burgum told voters in 2023.\n\nBurgum has said U.S. funding for the war in Ukraine, which now totals nearly $200 billion, is \"a bargain\" and was only \"a little bit\" of money -- he also rejected that the spending was \"irresponsible.\" Burgum also suggested Ukraine should not cede any territory to Russia in peace negotiations, comparing that possible outcome to the cessation of the Korean War.\n\n(In fairness, that is not the most irresponsible analogy. Indeed, Washington may eventually have to assent to an armistice that its disputatious and radicalized ally government, led by Volodoymr Zelsensky, absents itself from. This was the case in Korea, with Syngman Rhee, who was committed to the war to the last American. But back in reality, full territorial restoration of Ukraine is out of the question, and such a stance could make the war permanent.)\n\nWhile perhaps no John Bolton, Burgum is many ways more the archetype of the sort of regrettable selection at the commanding heights that Trump made in his first term. In other words, Burgum is Rex Tillerson, except that he ran North Dakota and a vassal company of Microsoft, and not the most powerful American oil company since the age of Rockefeller.\n\n(In a rather rib-tickling aside, Burgum has called Iran the \"parent company\" of Hamas, implying openness to a wider Middle East war. He appears to speak from some experience.)\n\nBurgum has expressed his support for further funding for Ukraine, echoing President Biden and Senate Minority Leader Mitch McConnell's talking points that an endless war is somehow connected to competition with China, and even North Korea for good measure. Burgum appears to fear an axis of evil, a grandiose and discredited view of the non-American world, though he won't call it that.\n\n\"I support us making sure that Putin does not get a win in Ukraine...if we don't defeat Putin it's just basically handing another win to China,\" Burgum has commented. \"You can't say 'Oh, China's our existential threat, but let's not send money to Russia,' Russia and China are absolutely connected and throw in North Korea, who's been meeting both with China and Russia....\"\n\nAt last Thursday's prize-winning debate against Biden, Trump told the nation he would broker the end of the Russia-Ukraine war as president-elect. It was a callback to the kind of fast action pledged by Ronald Reagan in 1980 during the Iran crisis, and Richard Nixon amid the Vietnam War.\n\nBurgum's record suggests he would be a hindrance to such an endeavor. Not in an overt way, a la Bolton. But in a way that is in some ways more familiar, and odious.\n\nBurgum's record is establishmentarian to the core on the issue of greatest presidential power: foreign policy. It's not clear that there is much daylight between Burgum and a figure such as Mike Pompeo, for instance, the former secretary of State who stumped for Trump rival Glenn Youngkin as he considered a presidential bid last year and a person the 45th president is said to have soured on.\n\nMost distressing: Burgum could help deprioritize the Trumpist signature issue of immigration as vice president, just as the public is coming around to realism on migration.\n\nBurgum also refused to prioritize border funding over Ukraine funding, rejecting demands of reformers in Congress. \"The idea that some people are saying: 'Oh, we shouldn't send money to Ukraine because we need to spend it on our own border.' Actually, America can do both of those things at the same time.... We can help Ukraine beat Russia and we can secure our own border at the same time,\" Burgum told Forbes in 2023.\n\nIt goes on.\n\nIn a town hall with New Hampshire voters, Burgum said he thought \"our obligations to Western Europe are significant,\" adding \"Ukraine is actually doing the work of NATO\" by fighting Russia. And Burgum's campaign website still lists two \"common enemies\" under the national security policy section, adding the U.S. should somehow unite against them: \"China and Putin.\"\n\nMany have long postulated Trump might attempt a \"reverse\" Nixon strategy -- get tough with China and get real with Russia. Burgum apparently thinks Trump should not even try.\n\nThere is a rich history on what actually constitutes a \"neocon.\" Some have argued that George W. Bush luminaries Bolton, Donald Rumsfeld, and Dick Cheney were not neoconservatives -- even in the arch-neocon administration. The argument is that they were conservative ultra-nationalists and militarists, in favor of manifold conflicts, but averse to nation-building. This tendency is contrasted with other Bushies like Paul Wolfowitz, Richard Perle, and Doug Feith.\n\nAs the late historian Mark Perry observed in \"Talking To Terrorists\": \"Wolfowitz was completely different. He was haunted by the slaughter of the Shias in the aftermath of the first Gulf War as America sat on its hands. It kept him awake nights.\" But as Jacob Heilbrunn, editor of the National Interest, observed in his treatise They Knew They Were Right: The Rise of the Neocons, at a certain point you can slice and dice the matter to the point that there are no gentile neocons.\n\nWhile fun to riff on, it is a distinction without a difference.\n\nThe true rift in American national security debate is between cocksure primacy and chastened restraint. Either you believe the last quarter century of American foreign policy has been ruinous, or you seek to double down. Whatever his other virtues, Doug Burgum would be another neoconservative in power.",
+        "source": {
+            "uri": "theamericanconservative.com",
+            "dataType": "news",
+            "title": "The American Conservative",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Washington, D.C."
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "curt_mills@theamericanconservative.com",
+                "name": "Curt Mills",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://www.theamericanconservative.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-01-at-11.28.52-AM-e1719847775247.png",
+        "eventUri": "eng-9692423",
+        "sentiment": 0.1372549019607843,
+        "wgt": 457547653,
+        "relevance": 1,
+        "summary": "The article discusses the potential selection of North Dakota Governor Doug Burgum as a vice-presidential candidate for Donald Trump in the upcoming Republican presidential ticket. Despite his low profile, Burgum has emerged as a favorite due to his business background and personal rapport with Trump. However, the article criticizes Burgum's foreign policy stance, labeling him a neoconservative. Burgum has expressed strong support for U.S. involvement in conflicts with Russia, China, and in the Middle East, advocating for continued funding for Ukraine and a hardline stance against Russia. This position contrasts with the populist desire for foreign policy restraint that characterized Trump's first term. The article suggests that Burgum's selection could undermine Trump's focus on immigration and other domestic issues, making him a controversial choice for vice president.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "B",
+            "3": "B",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 2
+    },
+    {
+        "uri": "8203571867",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-07-01",
+        "time": "04:37:02",
+        "dateTime": "2024-07-01T04:37:02Z",
+        "dateTimePub": "2024-07-01T04:36:40Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.wsws.org/en/articles/2024/07/01/xtlx-j01.html",
+        "title": "SEP member R. calls for release of Bogdan Syrotiuk on Tamil Nadu YouTube channel",
+        "body": "facebook icon\n\nOn June 23, R. Shreeharan, a Political Committee member of the Socialist Equality Party in Sri Lanka, was interviewed by the \"Let's Talk Everything\" YouTube channel about the US-NATO-orchestrated war against Russia in Ukraine and the International Committee of the Fourth International's campaign for the release Bogdan Syrotiuk.\n\nThe channel, which has over 23,000 subscribers and 250,000 viewers, is based in the south Indian state of Tamil Nadu. It is connected to \"Let's Talk History,\" another YouTube channel that has over 61,000 subscribers and 3.5 million viewers. Both channels are broadcast in Tamil by Gabriel Devadoss.\n\nThe English-language title of Shreeharan's interview read, \"Is the Russia-Ukraine war spreading to other parts of the world?\" Its Tamil title page said, \"Will the Russia-Ukraine war change into a nuclear war? The ultimate target of the US is to collide with China.\" The 30-minute interview has been watched by 4,000 people so far with most viewers commenting positively.\n\nShreeharan discussed the ongoing proxy war in Ukraine against Russia, the danger of a nuclear third world war, and the detention of socialist Bogdan Syrotiuk by Ukraine's Zelensky government. Syrotiuk is the secretary of Young Guard of Bolshevik Leninist (YGBL), which is affiliated to the International Committee of Fourth International (ICFI), and a writer for the World Socialist Web Site.\n\nGabriel Devadoss began the interview by noting the alignment of the US-led imperialist powers one side and Russia, North Korea and China on the other.\n\nShreeharan responded by explaining that the US had initially promised not to cross various \"red lines\" in Ukraine but that the Biden administration, with the help of the Republicans, had crossed all these lines, providing battle tanks, missiles, billions of dollars and allowing Ukraine to attack inside Russia with US-provided long-range missiles.\n\n\"NATO forces have already entered Ukraine in the name of training soldiers in the new technology provided by US. Now the US is planning to send NATO troops to Ukraine because it has suffered military debacles and the loss of half a million soldiers so far,\" he said.\n\n\"Putin, however, cannot tolerate bombs and missiles exploding in Russian cities and will be compelled to retaliate and NATO can retaliate if any its member states is attacked. Such a scenario would trigger a world war that would be a massive human catastrophe.\n\n\"There are now discussions within the US political establishment that the atom bombs dropped on Hiroshima and Nagasaki 'ended the war' and so justify the use of nuclear weapons to end [current] wars,\" he added.\n\nA question was asked about the situation facing Putin and whether he would choose to use nuclear weapons. Shreeharan explained how Putin had been provoked by the eastward expansion of NATO over decades and the encirclement of Russia by NATO forces.\n\n\"Putin expected a compromise with the imperialist powers by making nuclear threats and launching a war on Ukraine. He miscalculated that the imperialist powers, fearing an all-out war, would roll back. The major powers, however, want to occupy and plunder resource-rich Russia in preparation for war against China as the next step, and ultimately domination of the world,\" he said.\n\nEmphasising this point, the SEP Political Committee member quoted NATO Secretary General Stoltenberg who has stated, \"What happens in Europe matters for Asia. What happens in Asia matters for us. And this is clearly demonstrated in Ukraine, where Iran, North Korea and China are propping up and fuelling Russia's war aggression against Ukraine.\"\n\nConfronted with this sort of war situation, Shreeharan continued, \"Putin would be forced to launch a counter-offensive and may use nuclear weapons... However, the imperialist powers themselves could use nuclear weapons which would create a catastrophe. The US needs a war to challenge the growth of China.\" The speaker later pointed out that some US politicians had suggested the Gaza war could be ended by using nuclear weapons.\n\nResponding to a question about European opposition to Russia's invasion of Ukraine, Shreeharan elaborated on the role played by Germany in the 2014 coup and Washington's efforts to topple the then-elected pro-Moscow Ukraine government and replace it with a pro-US regime.\n\nShreeharan explained the Trotskyist movement's opposition to the Russian invasion of Ukraine, referring to an ICFI statement issued at the outset of the war which said, \"Putin does not stand for the Russian working class but represents the oligarchs in the country and stands for their profit interests.\"\n\nTurning to the suppression of democratic rights in Ukraine and Russia, Shreeharan explained the two-month detention of YGBL secretary Bogdan Syrotiuk:\n\n\"As previously noted, the US in 2014 funded the overthrow of the elected Ukrainian government in a coup and now extreme-right organisations that follow the principles of Stephen Bandera, a Nazi, are very active.\n\n\"The entire Zelensky regime operates as a fascist regime with no one allowed to speak out against the war and opposition parties and communists are banned. But now, under conditions where 500,000 soldiers have been killed, there is popular opposition to war. People are now being forcibly drafted into the military and put on the frontline. This is why the socialist Bogdan Syrotiuk was arrested. This is a matter of freedom of expression,\" Shreeharan said\n\n\"Anti-war sentiment prevails in Ukraine\" he continued, and said the Zelensky regime was concerned that this mass opposition will be given expression through organisations such as the YGBL. \"There is a fear that it could become a pole of attraction for the mass opposition. That's why they arrested Bogdan.\n\n\"Bogdan is fighting to unite the Ukrainian and Russian working class, as well as the international working class, to end the war and for an international socialist program to overthrow the capitalist system. He was arrested because of this fight,\" he said.\n\nShreeharan explained that the Zelensky regime had falsely accused Bogdan of treason and subsequently banned World Socialist Web Site in Ukraine, claiming that it functioned as 'a Russian propaganda and information agency.'\n\n\"This is how the democratic rights are being brutally suppressed in Ukraine,\" he said and called on viewers to sign the petition and support the ICFI's campaign to release Bogdan.\n\nShreeharan said Putin, as a representative of the Russian oligarchy, promoted anti-migrant and right-wing movements while suppressing opposition protests.\n\n\"Neither Putin nor Biden, however, can wage a war allowing democratic rights. Inevitably they are compelled to use dictatorial rule to suppress working people who are rising up against the slashing of social conditions and the imposition of the massive costs of war,\" he said.\n\nThe speaker noted Putin's alliances with North Korea and China and warned that US-NATO war operations against Russia would escalate and expand into military conflict with China. To stop this worsening catastrophe, he said, \"The working class must unite and fight against their imperialist governments and fight to bring workers' governments to power. This is possible.\n\n\"The First World War was ended by the socialist revolution in Russia in 1917 under the leadership of Lenin and Trotsky. That is why the ICFI, its sections, and the WSWS are fighting to build an anti-war movement of the international working class,\" Shreeharan said.\n\nThe speaker pointed to the eruption of massive protests across the US universities against the Gaza genocide, strike action by academics against police attacks on student protesters at the University of California, and ongoing demonstrations internationally against Israel's war on Gaza.\n\nShreeharan explained that the trade unions in the US, and internationally, were sabotaging and suppressing these struggles. He called for workers to break from these organisations and pseudo-left formations that justify imperialism and war.\n\n\"Workers must mobilise their political strength independently. In this way workers can take matters into their own hands by building action committees in their workplaces and creating unity among workers, that could pave the way for an international working-class solidarity.\"\n\nRead moreStop the US-NATO escalation toward nuclear war! Unite the international working class against imperialist war and genocide!2 June 2024Stop the political frame-up of Ukrainian socialist Bogdan Syrotiuk!17 May 2024Contact usRelated TopicsFind out more about these topics:Free Bogdan Syrotiuk!Sri LankaIndiaWar and militarismUS-NATO Conflict with Russia over UkraineThe 2014 coup in UkraineDemocratic rights",
+        "source": {
+            "uri": "wsws.org",
+            "dataType": "news",
+            "title": "World Socialist",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.wsws.org/asset/7b5f8c11-b7e1-4d32-86b1-b22664f8ce37?rendition=1600x900",
+        "eventUri": null,
+        "sentiment": -0.2156862745098039,
+        "wgt": 457504622,
+        "relevance": 12,
+        "summary": "On June 23, R. Shreeharan, a member of the Socialist Equality Party in Sri Lanka, was interviewed on the Tamil Nadu-based YouTube channel \"Let's Talk Everything\" about the US-NATO war against Russia in Ukraine and the campaign for the release of Ukrainian socialist Bogdan Syrotiuk. The channel, hosted by Gabriel Devadoss, has a significant following.\n\nShreeharan discussed the proxy war in Ukraine, the risk of a nuclear conflict, and the detention of Syrotiuk by Ukraine's Zelensky government. Syrotiuk, affiliated with the International Committee of the Fourth International (ICFI), was arrested for his anti-war stance and efforts to unite the working class against the war.\n\nShreeharan criticized the US for crossing \"red lines\" in Ukraine, leading to potential global conflict, and highlighted the imperialist motives behind the war. He emphasized the need for international working-class unity to oppose imperialist wars and called for support in the campaign to release Syrotiuk, who faces false treason charges and suppression of democratic rights in Ukraine.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "A",
+            "2": "B",
+            "3": "B",
+            "4": "B",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 1
+    },
+    {
+        "uri": "8202024914",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-06-29",
+        "time": "22:07:27",
+        "dateTime": "2024-06-29T22:07:27Z",
+        "dateTimePub": "2024-06-29T22:07:13Z",
+        "dataType": "news",
+        "sim": 0.7411764860153198,
+        "url": "https://www.sgtreport.com/2024/06/nato-chief-seeks-to-punish-china-over-free-trade-with-russia/",
+        "title": "NATO Chief Seeks to Punish China Over Free Trade with Russia",
+        "body": "NATO Secretary-General Jens Stoltenberg proposed sanctioning China over its support for Russia amid the Russia-Ukraine war. Unlike the West, China has not directly provided countless aid packages to Russia, but China has kept trade open and exchanged technology with Moscow. Stoltenberg believes China must face \"consequences\" for not aligning with NATO.\n\nThe West is theoretically not at war with Russia or China. NATO is on the offensive, completely stepping over boundaries and harassing foreign nations to instigate World War III. Then they tell the public and mainstream media to announce that they are merely protecting their own people from our enemies who have done absolutely nothing to earn such a title.\n\nTRUTH LIVES on at https://sgtreport.tv/\n\nUnder this line of thinking, the NATO alliance could punish anyone who dissents from their global autocratic authority. \"Beijing cannot have it both ways. At some point -- and unless China changes course -- allies need to impose a cost. There should be consequences,\" Stoltenberg said at the Wilson Center in Washington. He honed in on China trading microelectronics with Russia that has improved Russia's satellite proficiencies. China and Russia have agreed to an open partnership, yet China is not involved in this war.\n\nShould NATO also punish India, Saudi Arabia, Brazil, and others for continuing to trade with Russia? NATO has absolutely no authority to demand that other nations shun Russia from the global economy. They know that these proposed sanctions would not deter China from conducting business with Russia. Instead, these \"consequences\" will cause China and all other non-NATO nations to back away from trading with the West entirely. Will they do the same to nations who continue to trade with China once they redirect their focus to Taiwan? Will they force \"consequences\" upon nations who do not support Israel?\n\nThe Neocons are decimating the economies of western nations by deterring trade. There is no common sense in the boardrooms as the only objective is to fan the flames of war by any means necessary. China already stepped away from Western trade in a major way and now they are actively provoking China to take retaliatory measures.\n\nNATO has zero reason to back Ukraine on paper as it is not a member. They do not plan to offer Ukraine membership at the upcoming Washington summit, but Stoltenberg said they will place the framework to \"build a bridge\" to future membership. Stoltenberg congratulated NATO members for contributing more to the alliance this year than ever before. This global force is a danger to civilization itself as it aims to propel us into a global conflict from which there will be no turning back.",
+        "source": {
+            "uri": "sgtreport.com",
+            "dataType": "news",
+            "title": "SGT Report",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": null,
+        "eventUri": "eng-9699200",
+        "sentiment": -0.1529411764705882,
+        "wgt": 457394847,
+        "relevance": 1,
+        "summary": "NATO Secretary-General Jens Stoltenberg has proposed sanctions against China for its continued trade and technology exchanges with Russia amid the Russia-Ukraine war. Stoltenberg argues that China should face consequences for not aligning with NATO's stance. He specifically criticized China's trade of microelectronics with Russia, which has enhanced Russia's satellite capabilities. Stoltenberg's comments were made at the Wilson Center in Washington.\n\nThe article suggests that NATO's aggressive stance could lead to broader global tensions, potentially isolating non-NATO countries from Western trade. It questions whether NATO will also target other nations like India, Saudi Arabia, and Brazil for their trade relations with Russia. The article criticizes NATO's actions as provocations that could escalate into a larger global conflict, particularly highlighting the potential economic fallout and the risk of pushing China and other nations away from Western trade.\n\nStoltenberg also mentioned that while NATO does not plan to offer Ukraine membership at the upcoming Washington summit, they aim to create a framework for future membership. He praised NATO members for their increased contributions to the alliance. The article concludes by warning that NATO's actions could lead to a global conflict with severe consequences.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "C",
+            "2": "C",
+            "3": "B",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "C",
+            "10": "B"
+        },
+        "true_narrative": 3
+    },
+    {
+        "uri": "2024-06-405235884",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-06-28",
+        "time": "20:34:47",
+        "dateTime": "2024-06-28T20:34:47Z",
+        "dateTimePub": "2024-06-28T20:34:32Z",
+        "dataType": "news",
+        "sim": 0.5254902243614197,
+        "url": "https://www.washingtoninstitute.org/policy-analysis/dueling-summits-show-need-enlist-arab-support-ukraine",
+        "title": "Dueling Summits Show the Need to Enlist Arab Support on Ukraine",
+        "body": "Key Middle East actors tend to distrust the U.S. narrative about the war and conclude they can reap better economic benefits from Russia, so Washington should do more to get them off the sidelines.\n\nTwo competing international gatherings took place this month: a Russian-hosted BRICS meeting in Nizhny Novgorod and a Ukraine peace summit in Lucerne, Switzerland. Alternative visions of the world order stood in the backdrop of these dueling events. Moscow wants to replace the U.S.-led liberal international order with a multipolar world, while the West wants to preserve the existing model. During his opening remarks in Nizhny Novgorod, Russian foreign minister Sergei Lavrov highlighted the growing role of the BRICS alliance -- founded by Brazil, Russia, India, and China and later joined by South Africa, Iran, Egypt, Ethiopia, and the United Arab Emirates -- in creating this new world order. In contrast, the Swiss summit -- organized in coordination with Kyiv but without Russia's participation -- aimed to build broader global support for Ukraine's vision of peace. Moscow dismissed the event as \"futile.\"\n\nThe meetings also represented a battle for support from \"global south\" countries in the Middle East and Africa. Many of these governments have declined to join Western efforts to isolate Russia during the Ukraine war; in fact, some have given Moscow an outlet to keep its economy afloat amid Western pressure, leaving President Vladimir Putin with little reason to change his cost-benefit calculus, halt the war, or seek a genuine peace settlement. Unfortunately, the outcome of the dueling summits suggests that most Arab partners are not contemplating any meaningful policy adjustments as the war surges on.\n\nWhat Happened at the Meetings?\n\nBRICS is a Russian creation -- Moscow spurred its initial formation in 2009 and assumed chairmanship of the organization earlier this year. The June 10-11 summit was the first gathering since BRICS expanded from five members to nine in January. The event proceedings included Lavrov's remarks decrying the West's perceived international dominance and its use of sanctions to \"influence the choice of development models.\" Afterward, twenty-two foreign ministers signed a joint statement focusing on de-dollarization, cooperation on a digital economy, and \"comprehensive reform\" of the UN General Assembly and Security Council.\n\nMeanwhile, the June 15-16 summit in Switzerland was perhaps Ukraine's most ambitious effort yet to rally global support for its vision of peace, with over 100 nations and organizations attending. Russia actively worked to undermine the event -- the Swiss government reported an increase in cyberattacks and disinformation in the run-up to the summit. In the end, eighty-three countries signed a joint communique that called for preserving Ukraine's territorial integrity as the basis for a peace settlement while touching on other issues such as nuclear safety, food security, and prisoner exchanges. President Volodymyr Zelensky hailed the summit for making the \"first steps toward peace.\"\n\nStill, the majority of the communique's signatories were Western countries, which also sent higher-level representatives to the event. Several key powers from the global south attended but did not sign -- most notably India, Saudi Arabia, South Africa, and the United Arab Emirates, all of whom have important trade relationships with Moscow. Among other factors, Russia's absence and the ongoing Gaza crisis likely convinced key Middle Eastern states to either not sign the communique or skip the summit entirely. Turkey attended and signed, but Foreign Minister Hakan Fidan noted that the summit would have been more \"result-oriented\" if Russia were present. After the communique was publicly released, Iraq, Jordan, and Rwanda reportedly withdrew their signatures. Egypt focused on the BRICS meeting instead, as did China.\n\nNo Real Saudi or Emirati Shift on Ukraine\n\nThe global role of the Gulf states -- especially leading energy producers Saudi Arabia and the UAE -- has only grown in importance since Russia invaded Ukraine. Saudi and Emirati state companies have taken advantage of the crisis by buying large amounts of Russian petroleum products at discount prices, despite U.S. objections that such purchases bolster Moscow and undermine Western sanctions. In addition, Putin traveled to both countries last December, further highlighting their willingness to court ties with the Kremlin.\n\nAccordingly, Zelensky made a special push to ensure Saudi participation in the Swiss summit. Initial reports suggested Riyadh would not send a delegation, but Foreign Minister Faisal bin Farhan wound up attending after Zelensky made a last-minute visit to Riyadh on June 12. While in Lucerne, Prince Faisal noted that Riyadh had leveraged its \"positive relations\" with both Ukraine and Russia.\n\nIndeed, the kingdom has sought to position itself as a mediator between Moscow and Kyiv at various times during the war, from facilitating a major prisoner exchange in September 2022 to providing over $400 million in humanitarian assistance to Ukraine and hosting an international peace summit in August 2023. At the same time, however, the Saudis have been indirectly undermining Western sanctions by cooperating with Russia on oil issues -- not just purchasing its petroleum products as described above, but also coordinating production cuts that have kept oil prices (and, by extension, Russia's war budget) afloat. At the Swiss event, Riyadh noted that Russian participation in future summits would require a \"difficult compromise,\" implying that Ukraine would have to make greater concessions than it currently envisions.\n\nThe UAE's wartime balancing act has leaned even more toward Moscow. On one hand, Abu Dhabi announced early in the crisis that it would provide $5 million in humanitarian aid to Ukraine in response to a UN appeal, and it has voted in favor of several UN resolutions regarding Russia's invasion. Most recently, it brokered an exchange of 180 prisoners of war between Ukraine and Russia. On the other hand, it has been careful not to condemn Moscow directly, and it joined the BRICS in January despite the ongoing international campaign to pressure Russia and end the war.\n\nPerhaps most important, the UAE has become Russia's largest trading partner in the Arab world. Bilateral trade was growing steadily before the war and continued that trajectory afterward, reaching $9 billion in 2022, the majority of which was Russian exports. The two countries reportedly aim to hit $10 billion by the end of 2024.\n\nWestern governments are particularly concerned about reports that some of this Emirati trade includes sanctioned dual-use items such as computer chips and electronics, which Russia could use in the war. Weeks before the Swiss summit, a U.S. delegation visited the UAE to press officials about the country's trade ties with Russia, highlighting the fact that certain companies have been evading sanctions.\n\nPolicy Implications\n\nAsking Arab partners to help isolate Russia has had little success so far. Yet Washington can still do more to show them that Moscow's vision for a new world order is a losing one, and that their fears about taking firmer action are exaggerated. One way to do so is by showing the limits of what the BRICS can accomplish, demonstrating that a transparent global trade system backed by the United States will generate more wealth for them than an oligarchic model led by Russia.\n\nAs for the Ukraine war, global south governments have been pushing their preference for a peace process in which both combatants are involved rather than a Kyiv-led process. This push seems rooted in three perceptions: that the United States has been unreliable and hypocritical in its relationships with Middle East partners, that they can derive genuine benefits from Moscow, and that Russia will remain a permanent fixture of international relations no matter how the war ends. More broadly, the global south is simply not buying the Western narrative about the war.\n\nThe Swiss summit did lay the groundwork for potential Russian participation in future peace talks. Zelensky reportedly considers Saudi Arabia as a prime candidate to host the next summit, highlighting the kingdom's importance for Ukraine. If Riyadh agrees to host, the United States would have ample opportunity to shape the next talks and engage regional countries on key concerns about Russia.\n\nAs for the terms of future talks, Russia should at minimum be expected to accept the principle of Ukrainian territorial integrity, even if only rhetorically at first. But actually reaching a successful diplomatic settlement will require changing Putin's cost-benefit calculus. If substantive talks take place before he is pushed into a losing position, he will have leverage to negotiate concessions that give Russia time and resources to rebuild its military and attack Ukraine again. Ultimately, a premature peace settlement would be of little use if it allows Russia to keep threatening Europe, global security, and the liberal world order in the long term. As this month's summits show, the fight to shift Putin's calculus is not limited to the battlefield, so Washington should marshal its diplomatic energies accordingly.\n\nAnna Borshchevskaya is a senior fellow in The Washington Institute's Diane and Guilford Glazer Foundation Program on Great Power Competition and the Middle East.",
+        "source": {
+            "uri": "washingtoninstitute.org",
+            "dataType": "news",
+            "title": "\u062c\u0646\u0648\u0628\u064a\u0629",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Washington, D.C."
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.washingtoninstitute.org/modules/custom/newcity_customizations/newcity_customizations.info.yml/images/twi-default-social.jpg",
+        "eventUri": "eng-9690795",
+        "sentiment": 0.223529411764706,
+        "wgt": 457302887,
+        "relevance": 1,
+        "summary": "The article discusses two recent international summits: a BRICS meeting in Russia and a Ukraine peace summit in Switzerland, highlighting the contrasting visions of global order they represent. The BRICS summit, chaired by Russia, emphasized a multipolar world and included discussions on de-dollarization and UN reforms. In contrast, the Swiss summit aimed to garner global support for Ukraine's peace vision, with 83 countries signing a communique supporting Ukraine's territorial integrity.\n\nKey Middle Eastern and African countries, however, remain hesitant to fully back Western efforts to isolate Russia, often due to economic ties with Moscow. Notably, Saudi Arabia and the UAE have maintained significant trade relationships with Russia, complicating their stance on the Ukraine conflict. Despite some humanitarian gestures towards Ukraine, these Gulf states have also indirectly supported Russia by purchasing its petroleum products and coordinating oil production cuts.\n\nThe article suggests that the U.S. needs to better engage these Arab partners, demonstrating that a U.S.-backed global trade system is more beneficial than Russia's oligarchic model. It also emphasizes the importance of involving Russia in future peace talks, potentially hosted by Saudi Arabia, to ensure any settlement respects Ukraine's territorial integrity and prevents future threats from Russia.",
+        "cluster": 0,
+        "narrative_answers": {
+            "1": "A",
+            "2": "C",
+            "3": "A",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "B",
+            "10": "B"
+        },
+        "true_narrative": 1
+    },
+    {
+        "uri": "8200088890",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-06-28",
+        "time": "12:58:05",
+        "dateTime": "2024-06-28T12:58:05Z",
+        "dateTimePub": "2024-06-28T12:57:56Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.thecipherbrief.com/column_article/how-did-the-presidential-debate-address-u-s-national-security-issues-not-well",
+        "title": "How did the Presidential Debate Address U.S. National Security Issues? Not well.",
+        "body": "OPINION - The Cipher Brief tapped expert Dave Pitts for his reaction to Thursday night's debate from a national security perspective.\n\n\"To the original national security questions, the debate was light on real foreign policy and national security issues and discussions. But to the one national security issue that was discussed, there was nothing really new on the question of continued support to Ukraine, although the debate highlighted stark differences in approach to foreign policy.\n\nBoth candidates stated that Putin's terms for ending the war were unacceptable, but the agreements stopped there.\n\nPresident Biden upheld his position of strong, continued support to Ukraine, intent for a strong NATO, and his commitment that Putin could not be allowed to continue his aggression.\n\nIt's not just for the President anymore. Cipher Brief Subscriber+Members have access to their own Open Source Daily Brief, keeping you up to date on global events impacting national security. It pays to be a Subscriber+Member.\n\nFormer President Trump also upheld his previously stated position that the Russian invasion would not have happened under his Presidency, that NATO was not doing enough, that the U.S was spending too much money in Ukraine, and that he would end the Russia-Ukraine War before he took office, if elected.\n\nAlthough other Republican leaders have expressed strong support for Ukraine, this potential conflict within the Republican Party on how to approach the Russia-Ukraine War, if there is a change in Administration, could embolden Putin, confuse our allies, and weaken Ukraine in the process.\n\nBased on this debate, certainly Ukraine, NATO, Russia, China, and other countries will anticipate a change in the U.S position on Ukraine and on other foreign policy issues if there is a new administration. Of course, there is a lot to time before the election and things can change, so stay tuned.\"\n\nThe Cipher Brief is committed to publishing a range of perspectives on national security issues submitted by deeply experienced national security professionals.\n\nOpinions expressed are those of the author and do not represent the views or opinions of The Cipher Brief.\n\nHave a perspective to share based on your experience in the national security field? Send it to [email protected] for publication consideration.\n\nRead more expert-driven national security insights, perspective and analysis in The Cipher Brief",
+        "source": {
+            "uri": "thecipherbrief.com",
+            "dataType": "news",
+            "title": "The Cipher Brief",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Washington, D.C."
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": null,
+        "eventUri": null,
+        "sentiment": 0.2156862745098038,
+        "wgt": 457275485,
+        "relevance": 12,
+        "summary": "The recent Presidential Debate inadequately addressed U.S. national security issues, focusing minimally on foreign policy. The main topic discussed was support for Ukraine, revealing significant differences between the candidates. President Biden emphasized strong, continued support for Ukraine and NATO, opposing Putin's aggression. Former President Trump criticized NATO's efforts, claimed the invasion wouldn't have occurred under his leadership, and promised to end the war if elected. This divergence within the Republican Party could potentially embolden Putin and confuse U.S. allies. The debate suggests possible shifts in U.S. foreign policy depending on the election outcome.",
+        "cluster": 1,
+        "narrative_answers": {
+            "1": "B",
+            "2": "C",
+            "3": "A",
+            "4": "C",
+            "5": "C",
+            "6": "C",
+            "7": "C",
+            "8": "C",
+            "9": "C",
+            "10": "C"
+        },
+        "true_narrative": 2
+    }
+]
