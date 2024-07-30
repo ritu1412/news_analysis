@@ -1,0 +1,102 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the articles?",
+        "choices": {
+            "A": "Military actions and attacks",
+            "B": "Political statements and negotiations",
+            "C": "Humanitarian impact and casualties",
+            "D": "Effectiveness and challenges of Western aid",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Which geographical area is primarily discussed in the articles?",
+        "choices": {
+            "A": "Eastern Europe",
+            "B": "Western Europe",
+            "C": "Central Asia",
+            "D": "The Middle East",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What is a common concern raised in the articles regarding Western support for Ukraine?",
+        "choices": {
+            "A": "The lack of military presence in the region",
+            "B": "The sustainability and effectiveness of aid",
+            "C": "The absence of international sanctions on Russia",
+            "D": "The overwhelming support from the public",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Which primary actors are mentioned in relation to the conflict and aid to Ukraine?",
+        "choices": {
+            "A": "NATO and the United Nations",
+            "B": "Western nations and Russia",
+            "C": "Ukraine and separatist forces",
+            "D": "All of the above",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "What outcome is frequently highlighted in the articles regarding the impact of delays in aid delivery?",
+        "choices": {
+            "A": "Increased military aggression from Russia",
+            "B": "Enhanced diplomatic relations with Russia",
+            "C": "Improved humanitarian conditions in Ukraine",
+            "D": "Deterioration of Ukraine's defense capabilities",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "How do the articles describe the public reaction to the ongoing conflict and Western aid?",
+        "choices": {
+            "A": "Widespread support for military intervention",
+            "B": "Growing skepticism about the effectiveness of aid",
+            "C": "Indifference towards the situation",
+            "D": "Strong calls for peace negotiations",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What specific mention is made regarding international organizations in the context of the articles?",
+        "choices": {
+            "A": "The role of the European Union in sanctions",
+            "B": "The involvement of the World Health Organization in humanitarian aid",
+            "C": "The United Nations' peacekeeping efforts",
+            "D": "The absence of any international organization involvement",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "Which event is referenced as a catalyst for increased Western support for Ukraine?",
+        "choices": {
+            "A": "The annexation of Crimea",
+            "B": "The downing of Malaysia Airlines Flight MH17",
+            "C": "The full-scale invasion by Russia",
+            "D": "The signing of the Minsk Agreements",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What is a recurring theme regarding the internal dynamics among Western nations as discussed in the articles?",
+        "choices": {
+            "A": "Unified support for Ukraine",
+            "B": "Disagreements over aid specifics and delivery",
+            "C": "Complete withdrawal of support",
+            "D": "Increased military collaboration",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What potential future scenario is commonly mentioned in the articles concerning Western aid to Ukraine?",
+        "choices": {
+            "A": "An increase in military presence in Ukraine",
+            "B": "A reduction in aid due to economic and political pressures",
+            "C": "A complete cessation of all support",
+            "D": "A shift towards humanitarian aid only",
+            "E": "None of the above"
+        }
+    }
+}
